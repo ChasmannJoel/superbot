@@ -1,0 +1,67 @@
+[
+  {
+    "nombre": "Amparo",
+    "token": "EAAWba7qw4V0BO2GNok67ZC0AHN35RFHCb02SHDYGc9ab19EZAc3UF2FSouQguWStkpuYowYZCHGQMtZAAravk5lBVcCi2YZARZC30TsiftHNGC3f3aj8MZBP0ZB63PPpoPhx0Sx8Y7MG3Jj5ojiZCqajxhFIIyZB4Ohz7PC8yImFFHFZCRrV8DKvy8B",
+    "idsCuentasAnuncios": ["act_987851013108825"]
+  },
+  {
+    "nombre": "Camilo",
+    "token": "EAAWba7qw4V0BO2GNok67ZC0AHN35RFHCb02SHDYGc9ab19EZAc3UF2FSouQguWStkpuYowYZCHGQMtZAAravk5lBVcCi2YZARZC30TsiftHNGC3f3aj8MZBP0ZB63PPpoPhx0Sx8Y7MG3Jj5ojiZCqajxhFIIyZB4Ohz7PC8yImFFHFZCRrV8DKvy8B",
+    "idsCuentasAnuncios": ["act_8742259755871977"]
+  },
+  {
+    "nombre": "Jose",
+    "token": "EAAisif3Wb7oBO3scfdmDDZBV3l3js7wIPGdWt8uKpuZAYtdYnRYG7xbM3SeTgmsNyaV4WXm3ZAZBBBr3BtuZBIbHu3qqMDF1vHDJqaG72vcXmjupZCuTOrEZByOg1nIlM5rpV5PZBwcjNLLAZBK7yg0mSCHoCohvfW7rd6D576WXr0O1B6Ud818IZD",
+    "idsCuentasAnuncios": ["act_621392147154208"]
+  },
+  {
+    "nombre": "Salome",
+    "token": "EAAOhDMT76SsBOyZBdgkt8wZAO6Nh2NU8ZAyzgsZBJkrb1bgmkW2ved96oGHUSQFUB1tORaeQZC4TgNtdvBpZBF5pF5cJgLZC92U4gZC8NDP6YqUrFnZCJxlolXsmGaGCtPNdAndASIcybAx04QmlP0ZCxDeCsLDEwNwiytco3QXS5QH4fDZBpcckjbI99EZD",
+    "idsCuentasAnuncios": ["act_1644441436474640"]
+  },
+  {
+    "nombre": "Gabi",
+    "token": "EAAIW0xXfzrgBOyH9WFI2uImz2xrWSejtmp2DXT0IIqZAYjxYcQmzxt0jVR2WWZBX4YY4xRDqvofutxdduU9fTh70QPTL0XUtxVl73hkuuAZA1bxcftjzfMmZBWPLmjZBEWvIIrGEHkvWPlZCQFOeClzyFNz1L1ezeaW6Or6B7hYQrmfZBx23oWCW04ZD",
+    "idsCuentasAnuncios": ["act_436751812759165"]
+  },
+  {
+    "nombre": "Monica",
+    "token": "EAAQuy7lpsmUBO6f7xsB7BbPXVZCN2D6gfTnQkr81HzCfLZArwZBJ2gJTc59nKrAaYGERfbCwt5zkNchsZARtJIljDwYyk2ci7iQ8aRzZBKr8X3j2n3ELtrIzfPFkTlyN7ZA2Qk5V1K4IMDciEMLSazoftfQyfyfmRFfrk2ibxABExFKBZClkjHwf7oZD",
+    "idsCuentasAnuncios": ["act_502624419549671"]
+  },
+  {
+    "nombre": "Martina",
+    "token": "EAAd362k8ThoBOyouL74ERL6PVNC8ZAfchvPGrMr5IV5tBiUnL8MOjqMhQ2x9yq7TuQ43ajNAS22Qex7F7ocQyUZANRUVkmZCwLZArQGZBbtvFyVTYnxZBzWZCfLn1nFgd1pksfrAkfK7Ak4bi0ck1NaEMn3C9K5lZBLZBTgP4Uiox2jsPl0zBI4NGlo8ZD",
+    "idsCuentasAnuncios": ["act_2332083400500532"]
+  },
+  {
+    "nombre": "Muskan",
+    "token": "EAAS5rQownPgBO7OtZB5YJ0ammb1flTQcNrtHzkMYyFFrgwx2yoUeMbstMZBENcogMn4N1Iw7SKUYdrLQMDskZCQDEC0LbBCszIODxUsDpzgP5Gf8Syee6d6p9BZANktfGgmfnvVZABcZBCcZCiUycPIzVEpUSJLd9nnyVm8nJlFyOgKewFn4LSXZABAE",
+    "idsCuentasAnuncios": ["act_1341844703521827"]
+  },
+    {
+    "nombre": "Lorena",
+    "token": "EAAUuE7sacZA0BPDXzZChepNbncxM6IWeI9ond0GE5XcQHrzYodoSBT9CGmGMJXELeR5NlmQyBj4s50tdVEaGgeJAqfgJtcArpvgZANzHHetEbPnPEOewF7VlSNsBQPyv0s5ckHQ3PKD9T4ZAIxObHVetxaxSHhJ6Hc8B7NRwseyenx3mupNO5qhitZCaZAdrOA",
+    "idsCuentasAnuncios": ["act_1108818604424350"]
+  },
+    {
+    "nombre": "Zulma",
+    "token": "EAAUuE7sacZA0BPDXzZChepNbncxM6IWeI9ond0GE5XcQHrzYodoSBT9CGmGMJXELeR5NlmQyBj4s50tdVEaGgeJAqfgJtcArpvgZANzHHetEbPnPEOewF7VlSNsBQPyv0s5ckHQ3PKD9T4ZAIxObHVetxaxSHhJ6Hc8B7NRwseyenx3mupNO5qhitZCaZAdrOA",
+    "idsCuentasAnuncios": ["act_1654443585252897"]
+  },
+  {
+    "nombre": "Jhon",
+    "token": "EAAPWOX6ziPUBO9ZBkPZClf7wbylMlSZCV3irNxQw1xgZCZCCzZCLqADZBOzRZCnUUEyQLnjTZBBI2LRUQ1Lwk3dLdjDOLX3gIXPdbGsJ8rUbJXYPtEVH2ySCEb0sXsSpadEYl4RwfXfBp9dt2dZAN8WHbPgZCE8JSKxblSSSz7F5SOk3ypc1JzAU5ZAbeE4ZD",
+    "idsCuentasAnuncios": ["act_465976329890131"]
+  },
+  {
+    "nombre": "Kasandra",
+    "token": "EACK2qkPZCAOkBOw9XRZBZB18TI3zZBJrkCL6llh02q5MWjqfq1YS8TZCdgRBalVu5XBnMS9F2GmdcZCJbe5NnsHTlrm7Vf5QVRJFcU7XmjqmzzysUBuhqkKZCqxIuL32hevv043vP7mtMJkksyKE2PZBCvvqFvDuMdrhMyuW0Gc2o3uZBUo76qgfcUR4ZD",
+    "idsCuentasAnuncios": ["act_1142903223895392"]
+  },
+  {
+    "nombre": "Catherine",
+    "token": "EAAS5JEEPrFABO05RxVGNG7WClitydnN8k0uFnFngEttHhe3zadBbprxgBzo7G02X6fyW2j2sgc9KDFkqjRMKgRcAj8HD5Jz8R5HNIpQ0BCZCVeACd6UL97Y7ae7W68RM5H5xzRHEtFmd76FiTBHOlGHnXGoV12aSVLmZCY7dWmtra5z1ZA5IbYZD",
+    "idsCuentasAnuncios": ["act_4019588388295471"]
+  }
+]

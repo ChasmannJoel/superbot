@@ -1,0 +1,1556 @@
+{
+  "fecha_inicio": "30/6/2025, 08:44:25",
+  "fecha_fin": "30/6/2025, 08:45:51",
+  "datos": [
+    {
+      "nombre": "Amparo",
+      "cuentas": [
+        {
+          "id": "act_987851013108825",
+          "saldos": {
+            "spend_cap": "6154168",
+            "amount_spent": "6029879",
+            "balance": "676688",
+            "id": "act_987851013108825"
+          },
+          "campanias": [
+            {
+              "id": "120231354570240667",
+              "nombre": "GoldenVip: Darly Crupier (29/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 56,
+                "spend": 64.96,
+                "costoPorMensaje": 1.16
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/10041458125130530430?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLNmDq2hh_5iCr4-sY7_sJhAlhSu6gXAQmznA0BbSSWyKGGHoi3xiQ8Y1Rn98HLq-5zbioxvDHgrvxME7Jp_cwxlmc_cggmMmVWuJrIjbCyW5hNeaQyJOn1TXQGzTLUGX545nWOToAMVcIawHR4t9W0&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=F5XZr1-RBOS6xP5ADIwx5A&_nc_oc=AdkhucNHMbcOqw9Y5zadSwiZyR810KiB0Fbod7xo6qJBl3qSg3MNc66R_cQR_5YmMerN1x3ekMpdGVMRZ31OQzyo&ccb=13-1&oh=06_Q3-0AZPdmi44SRVrH8TjcGMTJyS-GUR_wx4HWqrSjqzXVHzf&oe=6865130A&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513538623_727928436270694_4265250491936207011_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=890911&_nc_ohc=Vdol1sBH8h0Q7kNvwFEJtaA&_nc_oc=AdlLg4gkCBqs59gKxbXzBd9Mme9quUn30zOxsBDD8UV9zorJFYrGa9txQ-J4H9JXIL43Is19Nrndye2DZicC_LKZ&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=F5XZr1-RBOS6xP5ADIwx5A&oh=00_AfPnCCO3NqdBiJVXGDu3oOlCp9nmmJiY1B-DQxl-OL0TYA&oe=6868EE13",
+                "story_image_url": null,
+                "ad_id": "120231354570230667",
+                "ad_name": "GoldenVip: Darly Crupier (29/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120231354570250667",
+                  "adset_name": "GoldenVip: Darly Crupier (29/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-29T11:54:07-0300",
+                  "gasto": 64.96,
+                  "resultados": 56,
+                  "costoPorResultado": 1.16
+                }
+              ]
+            },
+            {
+              "id": "120231318173360667",
+              "nombre": "GoldenVip: Lucia Entretiene (28/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 19,
+                "spend": 25.05,
+                "costoPorMensaje": 1.318421052631579
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/14755597538976921754?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLCiELVXQ6zBrdhWG4cnHU-ryDlb5b8q0AE8gjNkUyXwE9IZuxbOdfGLxbY2X0LCEL84S5hZckz4qi1jOCeLyy8ciYhadlqjYloF68TyqryWQurIYeCEG4I75HJKTRZYSsxgAUc2JGqUslUlwarcAqb&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=8__8XTP355Q9IB-sfkRlzg&_nc_oc=Adkg58PtDhaVc2b7ZpX7ZHebj3cF5-1odoKRsE6JJVoaGawJgbLODrwk7VnQj9irIHd2MXeswXRRIfG-TUj4L7uX&ccb=13-1&oh=06_Q3-0AaEOH3milAlu-pRn4recsIqdnwSDKgnjF3vZ0x_OfkdO&oe=6864FC45&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513508979_1606743514046601_2094494319475099187_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=890911&_nc_ohc=Uox2bEe_SksQ7kNvwFNVVSP&_nc_oc=AdlGk_O2HloR1NtI1Sv4o5xZT8Xrp_pAKEAzhSOIBDINeAj5lTHWdBZ6_rJeR5jOhZVOXkAzjBCyNjaOAwemG8BW&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=8__8XTP355Q9IB-sfkRlzg&oh=00_AfNLAE9Q1pgfswLQxeMZ_35zJvQaee8vCmxTJz_TuGDdoA&oe=6868F432",
+                "story_image_url": null,
+                "ad_id": "120231318173370667",
+                "ad_name": "GoldenVip: Lucia Entretiene (28/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120231318173350667",
+                  "adset_name": "GoldenVip: Lucia Entretiene (28/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T17:07:11-0300",
+                  "gasto": 25.05,
+                  "resultados": 19,
+                  "costoPorResultado": 1.32
+                }
+              ]
+            },
+            {
+              "id": "120231271668990667",
+              "nombre": "GoldenVip: Reconocimiento Jimena Online (27/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 3.65,
+                "costoPorMensaje": 3.65
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/504277721_122134368488705257_8074570445843857891_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=Q26oAQhradYQ7kNvwECNxGm&_nc_oc=Adk0h49OqCk3CAynwNLsfG1r1vF4JNGE3zeT9ZPTfpyEz7W-gefsac3XMVpqmqpWKhMzbXRH3Xv6WniC64nBewwC&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=Rilkp_1Qt7-1YhzPvv8mwg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfMcXP4VEd6x1cEzxi-FgVsBGJE-0iyK39cS_GoWP3kj_Q&oe=686905CD",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/511890030_1222714972438452_1170402467733481647_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=890911&_nc_ohc=D89uPkhv7F8Q7kNvwHL16i2&_nc_oc=AdlzaAvFpZIYPOA6iRRgw5fiFhTsklHPGE1rC-qx2D3O08K5zM2_tdxroXob8XJ8npZttl1p2XbZUCfl9EUFF1Dx&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=Rilkp_1Qt7-1YhzPvv8mwg&oh=00_AfNhhxdEJX-WOmX574ct8iOZDQ1YS4c8_tD0CzRuIzIVwA&oe=68690766",
+                "story_image_url": null,
+                "ad_id": "120231271668970667",
+                "ad_name": "GoldenVip: Reconocimiento Jimena Online (27/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120231271668980667",
+                  "adset_name": "GoldenVip: Reconocimiento Jimena Online (27/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-27T19:04:26-0300",
+                  "gasto": 3.65,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Camilo",
+      "cuentas": [
+        {
+          "id": "act_8742259755871977",
+          "saldos": {
+            "spend_cap": "2295933",
+            "amount_spent": "2152870",
+            "balance": "594841",
+            "id": "act_8742259755871977"
+          },
+          "campanias": [
+            {
+              "id": "120230104388840437",
+              "nombre": "Luck: Reconocimiento Clau Crupier (30/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 1.2,
+                "costoPorMensaje": 1.2
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/506745041_122153099960521772_2464686233392999565_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=iaD96-L0No4Q7kNvwF8eodz&_nc_oc=AdnynYqI_veCF2og-itFG68cHnZPyHE3-U28Dr0aRkAq9C6S3SVxv4e5yPIuGfscxaTMCzfvG79fPsbGPe7wlfWV&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=ONtT1BOqAusHwO_kQNHbKg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfOfCFZsx2_qqYpTSJPwWkG2uzs6cpQK5w-DlBfNNDlt_A&oe=686908CF",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/503930778_712192031607568_8921435289821089552_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=890911&_nc_ohc=DgglMMatJxkQ7kNvwGEVimk&_nc_oc=Adm66Hxu4k33a9MgvSiLTIN7CePQuv7JHqSLEce-8-1Mlnogp7V10XDHMFQhKpDAQAV6yciJNRIIOhHBs4G_MdBO&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=ONtT1BOqAusHwO_kQNHbKg&oh=00_AfPowqlRN1mCDRTikFnIN3JlkW4wiCsJIxemFOoqzDzQ8Q&oe=686906FA",
+                "story_image_url": null,
+                "ad_id": "120230104388820437",
+                "ad_name": "Luck: Reconocimiento Clau Crupier (30/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120230104388830437",
+                  "adset_name": "Luck: Reconocimiento Clau Crupier (30/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-30T18:21:32-0300",
+                  "gasto": 1.2,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120230084130730437",
+              "nombre": "Family: Reconocimiento Camilo Divierte (30/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 4.24,
+                "costoPorMensaje": 4.24
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/514204887_122160825824548866_8049591640550370112_n.jpg?_nc_cat=103&ccb=1-7&_nc_ohc=k2DhpD7ywWcQ7kNvwEgDCYX&_nc_oc=AdmyiGoIbJSRjf0fKHYJmVBU2EjhxqopvWUAcdxcDkAaLWUazoXWODKj8b479Jy2bBQ64zkKCkVh50eRoouSAQVg&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=eJMzo-Mlcr9it-A4vynx4g&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfNh2Vr8ewcaheyHDiyS3CnxIAcxosXcPB_qQxWu0ZZwFw&oe=6868F6B1",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513988082_1051131923788773_3821762990743316736_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=890911&_nc_ohc=Pqre_mejhh0Q7kNvwHmmTHR&_nc_oc=AdmKaLBGIITE06PdrMQ0VtXJbQQXrEfPeGCCEzUPNIAenbvOJQR1CO6j8n25ijK8_nWrWpwAjw6Xhi4atmBrm6SR&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=eJMzo-Mlcr9it-A4vynx4g&oh=00_AfNt260fMVMHNqVBN8MGkJ5p48_wfP2Xs8coEmXwLSVqlA&oe=686905E5",
+                "story_image_url": null,
+                "ad_id": "120230084130720437",
+                "ad_name": "Family: Reconocimiento Camilo Divierte (30/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120230084130710437",
+                  "adset_name": "Family: Reconocimiento Camilo Divierte (30/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-30T13:03:05-0300",
+                  "gasto": 4.24,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120230078048710437",
+              "nombre": "Family: Camilo Divierte (30/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 26,
+                "spend": 63.31,
+                "costoPorMensaje": 2.435
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/3344735838411473165?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJU2YMx6fgF-fV1kXg63W-4hPa4btkdvcvhq5zCtOO30EGCVXUOC1sIGlXCE-J7-AAiYvnHYB_vuXWA6rE1bOAipwdXbJIjHtr4Mfuxk5100lEZbGehhbTQYK2jdkD_IskethlxetHWvl8JafhbLf1I&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=Gv7m2igldPRNFTOE58IwNg&_nc_oc=AdnTUbJ7MGMpwW4eR058we9QFMDfeYYEkRyLeW6TOG6CJj3zkfzqWiW4ApaU-ClHGm5b7KVnqTcXhKuji84er74G&ccb=13-1&oh=06_Q3-0AXAnHDoNWsHzenkZNe-XDunKNMchmoLWltHuyNP7DWJI&oe=6864E54F&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513988082_1051131923788773_3821762990743316736_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=890911&_nc_ohc=Pqre_mejhh0Q7kNvwHmmTHR&_nc_oc=AdmKaLBGIITE06PdrMQ0VtXJbQQXrEfPeGCCEzUPNIAenbvOJQR1CO6j8n25ijK8_nWrWpwAjw6Xhi4atmBrm6SR&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=Gv7m2igldPRNFTOE58IwNg&oh=00_AfN9ymDqZVsUflaitqMZBVdLRYAaRZsJloT1ntG4OxIzzA&oe=686905E5",
+                "story_image_url": null,
+                "ad_id": "120230078048690437",
+                "ad_name": "Family: Camilo Divierte (30/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120230078048700437",
+                  "adset_name": "Family: Camilo Divierte (30/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-30T11:12:25-0300",
+                  "gasto": 63.31,
+                  "resultados": 23,
+                  "costoPorResultado": 2.75
+                }
+              ]
+            },
+            {
+              "id": "120229938758720437",
+              "nombre": "Family: Camilo Crupier (28/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 19,
+                "spend": 25.59,
+                "costoPorMensaje": 1.3468421052631578
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/13957808966490871680?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQK0TDdlvJMD60Sg0ZFoVaDQ7lJj9m1rVTkPxk8NV1XcPKY7O8eMXIGqlF62kxMostkDyAG3nFg4snTeVx1psDy3pHKHhV8KOK2g_e8cNCR-ul94WwgYI7JQF2RUfLkEsp5okwFan9xjpvbaXUN2E3AF&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=v0ZFAg9uCkxBpFKsb-6FnA&_nc_oc=AdmrXLkCffYM4sKZQUnid51PpBTfQ3u6ljJwgrlR7BlfBCS8vv1MVyP9gsPv4FiDgagOVrcuLEkZptH2gUSpGG_G&ccb=13-1&oh=06_Q3-0AS1zpV2jRwDQi7stuAPSmXuY8BidDVvWSGI6OwpI_kd2&oe=6864F4C6&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513523344_739181781916148_6818054202584110281_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=890911&_nc_ohc=Wu-8QNicxpMQ7kNvwGdukIA&_nc_oc=AdnGm7ecOYTnh3Frax0uSMELNprDOVA5kCMW1AJPHQyg5I7Raa4aXcEu-ne8LWvyx3SO6jBHGm1yElkJ_eOk9PdI&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=v0ZFAg9uCkxBpFKsb-6FnA&oh=00_AfNt3RdgbSg5CMdJBv21O-7vCBkLaSUm66vOddp9WV7q4A&oe=68690569",
+                "story_image_url": null,
+                "ad_id": "120229938758740437",
+                "ad_name": "Family: Camilo Crupier (28/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120229938758730437",
+                  "adset_name": "Family: Camilo Crupier (28/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T14:01:45-0300",
+                  "gasto": 25.59,
+                  "resultados": 19,
+                  "costoPorResultado": 1.35
+                }
+              ]
+            },
+            {
+              "id": "120229840756910437",
+              "nombre": "Luck: Clau Crupier (27/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 32,
+                "spend": 57.77,
+                "costoPorMensaje": 1.8053125
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/16026705965983231114?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQKXDOt0kTk2rwgwu0QUug2K2Nzswkwl4fBdcTEBCk_AeNVU48hw6iJ4JCs34CheKwxwTwoWNWtpE3AElYCDWY9XcT24ObUmw1631wJZXBAhrZw4tbfG0lBjN0BSTGsake9X3xY7pcpu-QqYPRDCTLPM&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=a2fCkrpvCgAkDMwa-KtHbg&_nc_oc=Adniu4qNQWVA4-reV2nkb1qPtwAR4MvrXRGz_vfJJx35DqhrMHlqS1k9YsPhe6VNY5B0_sBU3tyVhcU3adRiePFl&ccb=13-1&oh=06_Q3-0Abjh3V7ocaV_-YERxkSTOZcsnx_ejhHWbPNq-dgSITRR&oe=6864E7D0&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513537880_741989841748983_2068922781666820407_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=890911&_nc_ohc=-LIG5H89wFIQ7kNvwGLqpcR&_nc_oc=AdmMglZdoIEVk6YVKDORCMReWQoLHhiRbVaT8e5r4f1N3VxovTImJ4BpO99h7TRrvotHYqN-w3QEJaBLHje1GAV_&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=a2fCkrpvCgAkDMwa-KtHbg&oh=00_AfMYaeJiYY18JHQcDTHYQy4YhU_sOLnKgSkPhKz3TqI0TA&oe=68690963",
+                "story_image_url": null,
+                "ad_id": "120229840756900437",
+                "ad_name": "Luck: Clau Crupier (27/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120229840756890437",
+                  "adset_name": "Luck: Clau Crupier (27/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-27T13:34:04-0300",
+                  "gasto": 57.59,
+                  "resultados": 32,
+                  "costoPorResultado": 1.8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Jose",
+      "cuentas": [
+        {
+          "id": "act_621392147154208",
+          "saldos": {
+            "spend_cap": "2465468",
+            "amount_spent": "2310623",
+            "balance": "389331",
+            "id": "act_621392147154208"
+          },
+          "campanias": [
+            {
+              "id": "120226154779890765",
+              "nombre": "Open24hs: Astrid Cajera (28/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 41,
+                "spend": 73.19,
+                "costoPorMensaje": 1.7851219512195122
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/14855687793312287637?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQI_Oc5kaMM4YcVkSKWO-AkgEVc6NVjW5xxu-2E1o0tUrRMM-MDmlYZS3w4FnJPvpcuehAvxhoEQXfpxvoF7ePJDi2N5kPxGD20rqwx2oPECD5XENfEa5qIAPzZHKujYAvGpD4zubTy_wh3E9szG-J-o&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=1MeaWORfNrI9-5AhjG01vA&_nc_oc=AdmXWwXF90Vg46Xqwcybi5azQ2gIC1soHXeh0lSB5t4UZ6p0_5uvy8ZVAU3L-80OOaxqpZhNBlQuoMSI8WJAgOly&ccb=13-1&oh=06_Q3-0AaDRb9wfOfSZVLnzhbAvdvtL-ooL-Fclv9oPed42NAtY&oe=6864FF71&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513050892_1095247782447589_6675745775074530007_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=890911&_nc_ohc=YmFs-ncktVAQ7kNvwHL7lMx&_nc_oc=AdkSPuXdnhsv1Oglo627CT_L984o5BD-UNQ937DocoTrKCpSD79kkBRg65TvBKJGb1laXXllD8kEYa04_06ZgNTc&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=1MeaWORfNrI9-5AhjG01vA&oh=00_AfNIv4UB9xJCb4oU4m-lt-nFZSzrZCZz2scysCwXDT9BTw&oe=686906C4",
+                "story_image_url": null,
+                "ad_id": "120226154779970765",
+                "ad_name": "Open24hs: Astrid Cajera (28/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120226154779900765",
+                  "adset_name": "Open24hs: Astrid Cajera (28/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T09:41:49-0300",
+                  "gasto": 73.19,
+                  "resultados": 41,
+                  "costoPorResultado": 1.79
+                }
+              ]
+            },
+            {
+              "id": "120225858918070765",
+              "nombre": "Open24hs: Reconocimiento Astrid Cajera (23/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 8.4,
+                "costoPorMensaje": 8.4
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/506698786_122133637466716465_3977065465461595121_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=5cqkrz-Z-D4Q7kNvwEh4Y3F&_nc_oc=Adk_gZW757sEvf_NHY1T66k3xZdFdW3yVBZpGRFgmQUwW_je0M4O_5yVnmS4VarBWEX9fDUt1tJoRGelW6FJHSE0&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=WMiZmcf_xYdew0znWKPttQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfN5DFT4wQMk7nrsXnPVv81puZ_0w76Rnnu0Q-K4sDBaFA&oe=6868D965",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/511984262_1246772383905467_8951231493294264023_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=890911&_nc_ohc=UVeTh-feB1gQ7kNvwG9uUbP&_nc_oc=AdmRRW06A9hABEEq6Bp6odfTJioSQhtl6JGFuCMoAQRAE7fCZYoPrMjLcgyXLhGIKGRG4rZ9VT6lhAB3wj7Ne2zQ&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=WMiZmcf_xYdew0znWKPttQ&oh=00_AfO8hYSCwMgHFm_uNuHBsfY1_EnJE5hEdky_Flpb0U5OFA&oe=686902C0",
+                "story_image_url": null,
+                "ad_id": "120225858919010765",
+                "ad_name": "Open24: Reconocimiento Astrid Cajera (23/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120225858918240765",
+                  "adset_name": "Open24: Reconocimiento Astrid Cajera (23/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-23T18:13:43-0300",
+                  "gasto": 8.4,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Salome",
+      "cuentas": [
+        {
+          "id": "act_1644441436474640",
+          "saldos": {
+            "spend_cap": "4303997",
+            "amount_spent": "4156324",
+            "balance": "403440",
+            "id": "act_1644441436474640"
+          },
+          "campanias": [
+            {
+              "id": "120227672617530455",
+              "nombre": "Detager: Cata Divierte (28/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 59,
+                "spend": 108.04,
+                "costoPorMensaje": 1.831186440677966
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/11793036570646359569?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQIb665u0s5iC_AX_FvN2_bBALx1oS_mVloKqJv4Rej6AbkOZoZU2pX16oPG9FStn82XgVHAmFn89Ljra9eLdLOIn_SWW-ohGO8wmDDIUCWFzOAOuo4VjKI_6XHDghUrWypEqXRFUIvFI2aCBfmUnsVU&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=JUQ7d4SyZpqM-IzgEUx7gw&_nc_oc=Adn-cLmkLCx0sSxAwmtZY5WyjzygTNBoxXKSsExb_BisSaFAJZCvKocmJOPlGgssFFZhX8dcT_e32P19lLEkzHrt&ccb=13-1&oh=06_Q3-0AZnJYRo3lbH4Ws-UhWuzxZrDs3TiKpbvcLiLCcHj4P3p&oe=68650894&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/503934758_3027711310721628_4450877351880691723_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=890911&_nc_ohc=i8HZiuTAzA0Q7kNvwEkVhvn&_nc_oc=Adl6m3Bngp_cyzKp62O6ISfiXMZcyeBEzP-x1PR97PAEZ7hEUoHIIVSzX1_6UeZOObNPZvK4KDJVN1D2Bu9u6aj4&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=JUQ7d4SyZpqM-IzgEUx7gw&oh=00_AfPlCA_pSvFXL9H0jc3NXYRtNu-JM9_EvolP9WRzEDSX5g&oe=68690B9A",
+                "story_image_url": null,
+                "ad_id": "120227745735740455",
+                "ad_name": "Detager: Cata Divierte (28/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120227745735750455",
+                  "adset_name": "Detager: Cata Divierte (28/06) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-29T12:01:30-0300",
+                  "gasto": 78.85,
+                  "resultados": 44,
+                  "costoPorResultado": 1.79
+                },
+                {
+                  "adset_id": "120227672618590455",
+                  "adset_name": "Detager: Cata Divierte (28/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T10:41:22-0300",
+                  "gasto": 28.98,
+                  "resultados": 15,
+                  "costoPorResultado": 1.93
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Gabi",
+      "cuentas": [
+        {
+          "id": "act_436751812759165",
+          "saldos": {
+            "spend_cap": "6379748",
+            "amount_spent": "6271221",
+            "balance": "796696",
+            "id": "act_436751812759165"
+          },
+          "campanias": [
+            {
+              "id": "120228327004040028",
+              "nombre": "Red: Bri Crupier (29/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 65,
+                "spend": 92.03,
+                "costoPorMensaje": 1.4158461538461538
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/18409304746005819772?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQL5DRxIpLpLuPEePeglAITB9uuT3qD6vEFRTHT_uhyIRq48_WHbKNzwutmGlDUVv7IqsjMVl8wUZHeMFVbOFmWoVo8VldZDDZ-xt_WiMjoZf0zISfzIwt1u7T78Ucd_fTRhsRDdCamqlZW0XM9-5l5r&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=1jeT3c2lb_PMKcKDlcpZHw&_nc_oc=Adm1pHTFY9q4Sf0wzkDmH_swwg1TaRRnjl_FacdRrs-z1yKu4f2jVbyHiGTyBDzyxNxOl52HBh0x7Anfsfmqoaoc&ccb=13-1&oh=06_Q3-0ATJHa-mqY-kq4ea2kQdt9N8h3moMnWWVOb_0bhX6xMen&oe=6864F9E5&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/514186254_1031339089174013_1840432038831620514_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=890911&_nc_ohc=Z-Lv0VCc_zEQ7kNvwFsY6Xm&_nc_oc=Adnk2PeFYmgndMMbapnC5jutZih6LGdXX67XxZWRlPLa9sEel4br0Q3hqO-Yr9DdO6vNew_OEUvS7vc1C9jx7si7&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=1jeT3c2lb_PMKcKDlcpZHw&oh=00_AfMHS0zWpkGTc6yM4il9I3KeOWE3M75VmKdbc73qJZOtMg&oe=6868FBDD",
+                "story_image_url": null,
+                "ad_id": "120228407102650028",
+                "ad_name": "Red: Bri Crupier (29/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120228407102660028",
+                  "adset_name": "Red: Bri Crupier (29/06) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "start_time": "2025-06-30T16:35:04-0300",
+                  "gasto": 19.54,
+                  "resultados": 9,
+                  "costoPorResultado": 2.17
+                },
+                {
+                  "adset_id": "120228327004050028",
+                  "adset_name": "Red: Bri Crupier (29/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "start_time": "2025-06-29T11:27:16-0300",
+                  "gasto": 72.49,
+                  "resultados": 56,
+                  "costoPorResultado": 1.29
+                }
+              ]
+            },
+            {
+              "id": "120228248122420028",
+              "nombre": "Red: Reconocimiento Jime Crupier (27/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 8.16,
+                "costoPorMensaje": 8.16
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/512596372_122158030988537964_4130527559019824115_n.jpg?_nc_cat=108&ccb=1-7&_nc_ohc=8mH8QGPIQk0Q7kNvwHOwYIf&_nc_oc=Admnsi1h7j9dYZ6CGrkak1ZJuc8-HbO9y5kOHXOpa2ayrRAUfFRwNYWJhDv0q7FjL8Y4LYJXGVEZ_-Su7lz-Pcal&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=wVy6Is9VJXpcznl-L6eWUQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfOo3Dh8I7t91XzDcRAYx76VuMGobeKSh0yYQfc5EjT1Vg&oe=68690348",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513549601_651636867912385_1718122047359358071_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=890911&_nc_ohc=CYqfdOfu5f8Q7kNvwEyNb8y&_nc_oc=Adn3NkCpmZrYTy0hFBYm8H9RqfBSIrEXILWd5Yz8ba9PWExEoJXkiAo5_wnzQyVRugYr7WicW3GlbiuNuW_0NUkO&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=wVy6Is9VJXpcznl-L6eWUQ&oh=00_AfMYlA5wOTky6wJZVMWw4-MqPi7vO9LJKSYPzcPZB6F68g&oe=6868DA12",
+                "story_image_url": null,
+                "ad_id": "120228248122450028",
+                "ad_name": "Red: Reconocimiento Jime Crupier (27/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120228248122430028",
+                  "adset_name": "Red: Reconocimiento Jime Crupier (27/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "start_time": "2025-06-27T19:55:26-0300",
+                  "gasto": 8.16,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120227561956120028",
+              "nombre": "Godzilla: Felipe Crupier (18/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 114,
+                "spend": 134.65,
+                "costoPorMensaje": 1.181140350877193
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/18385111292597751350?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJYj1jtjYRwZVT4vvqrAHA85PVLhIaqXeShQh3E_fqBUNsNmjsxr2DTTZTtZ_3ThggMeUi_XKgWV6jchDl5eXH04-yOjHgBMBO8Q2xbjQmZA83J-dW3OV1AX4R6oh4glWCpXhCpcT8IHzk5BkG5PMur&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=zGllT8kw8VEcRXp7AOvqvw&_nc_oc=Admhs8tkQbPZTUXn4q1_jRjFzrC0nlttQhfnu3CVRtmhnT2DA_Q-a6zaxFEuzXdDACDQeAiKeiH5Q1TubVWBSRzG&ccb=13-1&oh=06_Q3-0AVKB_imXuTft_65xNmihqrt7lQVFWOWYMxXawvZipD8d&oe=6864E64B&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513513294_1395539011721347_8183980804523119819_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=890911&_nc_ohc=p2Yomv1O_sMQ7kNvwHYV_au&_nc_oc=Adkz-ftOhiRBxheFpfs2pPEtm5wSjAgfca0-YUs7Qxf56ORiVTgz1mILfVTYtXzRHpqTUnl8XbP_ud5K0FJJQ7Zm&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=zGllT8kw8VEcRXp7AOvqvw&oh=00_AfPi4yfmaxRdxyoKGtgHl8C47frIFx4T7_CCdwfJV-J4-A&oe=6868E818",
+                "story_image_url": null,
+                "ad_id": "120228338106410028",
+                "ad_name": "Godzilla: Felipe Crupier (18/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120228338106400028",
+                  "adset_name": "Godzilla: Felipe Crupier (18/06) - USAR SOLO ESTE - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "start_time": "2025-06-29T17:28:48-0300",
+                  "gasto": 73.7,
+                  "resultados": 79,
+                  "costoPorResultado": 0.93
+                },
+                {
+                  "adset_id": "120228236164280028",
+                  "adset_name": "Godzilla: Felipe Crupier (18/06) - USAR SOLO ESTE",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "start_time": "2025-06-27T14:47:21-0300",
+                  "gasto": 60.95,
+                  "resultados": 35,
+                  "costoPorResultado": 1.74
+                },
+                {
+                  "adset_id": "120228128651390028",
+                  "adset_name": "Godzilla: Felipe Crupier (18/06) - Copia 2",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "start_time": "2025-06-26T03:40:58-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                },
+                {
+                  "adset_id": "120227859764290028",
+                  "adset_name": "Godzilla: Felipe Crupier (18/06) - Copia",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "start_time": "2025-06-22T15:57:19-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                },
+                {
+                  "adset_id": "120227561956170028",
+                  "adset_name": "Godzilla: Felipe Crupier (18/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "start_time": "2025-06-18T14:19:36-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Monica",
+      "cuentas": [
+        {
+          "id": "act_502624419549671",
+          "saldos": {
+            "spend_cap": "3205858",
+            "amount_spent": "3066532",
+            "balance": "1025231",
+            "id": "act_502624419549671"
+          },
+          "campanias": [
+            {
+              "id": "120227584617400171",
+              "nombre": "BlackPlay: Reconocimiento Nati Crupier (29/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 2.69,
+                "costoPorMensaje": 2.69
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/514099023_122157835562513591_9017421217812046038_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=gox-B6OhfOYQ7kNvwHvSa22&_nc_oc=Adlzs_J1U-izaUL0qLLjWDwdcFAUfmn0f1ETT7yc5Hx9tRsKUPJ-jPKSFK3cxFn9bERy32ZAD9TnmkpCsvEm9mn6&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=k3M3ID5zxPR7TCsBempplA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfON1PDRZGqIENQrQJYyE6POQ5S60BevQVhJGsalzB9Yjw&oe=68690D5F",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513753403_1401129777633406_7535496280084851410_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=890911&_nc_ohc=JCs2h78fk9AQ7kNvwFlZ0-I&_nc_oc=AdlshicAAy0XnfZBjVV3jFa-fxwAWCAz52TN7FWBC0tXdaIArqZ5tMhKLRtcWIaxnST39rH7m6dPnUMgqmFvtnUm&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=k3M3ID5zxPR7TCsBempplA&oh=00_AfMCGlLVJn9JJOfcTxcsiKBad-j1Y7eEPSmfcgAh5p9VxA&oe=68690927",
+                "story_image_url": null,
+                "ad_id": "120227584617580171",
+                "ad_name": "BlackPlay: Reconocimiento Nati Crupier (29/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120227584617570171",
+                  "adset_name": "BlackPlay: Reconocimiento Nati Crupier (29/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-29T18:24:17-0300",
+                  "gasto": 2.69,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120227579571860171",
+              "nombre": "BlackPlay: Nati Crupier (29/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 33,
+                "spend": 33.14,
+                "costoPorMensaje": 1.0042424242424242
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/7532684114352725511?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQKKvIl9mcAeLH8mJtIVmFAmHQwPNptpePVSr4KQtOWzifRvm0QWJq5FspS63tKD64j1Ne4hJH41ctlnppL72KLWSFXM5VBmgnzg5KERTLRArvegcl6EHeKhty9y8ow75PD7_ydxjvA6T3G4t7QmJ6dU&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=a5XTxUu19er26rFbQzngzg&_nc_oc=AdkfkXr-F4NstUeXU-khevhDXUjLxDdHaUatJzCSgiJ4oWR4kvDAMJ-4yM4YPL-d8oRh4Kt9jM3GkQymplMM8J-Y&ccb=13-1&oh=06_Q3-0AT_WZQoqR0yTse-NGizOw5xCFveGn-7n3OwgOcjmk4es&oe=686504B7&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513722646_1724008571655832_3440767805385426460_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=890911&_nc_ohc=uJpKqUH2RIMQ7kNvwEdXkMH&_nc_oc=AdnA6OKEk2mkr35E87TzmjiycyxSyzmzqyT8b_25U9XswixqCewlQG1o6_ApxVLLWyE2X3MgflKlKt06ToFGOkIh&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=a5XTxUu19er26rFbQzngzg&oh=00_AfOT2qclYMfLsvw9jIja6J2DXoFn-mhb8QljmOlHwkhCtw&oe=6869078D",
+                "story_image_url": null,
+                "ad_id": "120227579571880171",
+                "ad_name": "BlackPlay: Nati Crupier (29/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120227579571870171",
+                  "adset_name": "BlackPlay: Nati Crupier (29/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-29T14:27:58-0300",
+                  "gasto": 33.14,
+                  "resultados": 33,
+                  "costoPorResultado": 1
+                }
+              ]
+            },
+            {
+              "id": "120227509281070171",
+              "nombre": "GoatGaming: Reconocimiento Lourdes Juega (27/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 8.12,
+                "costoPorMensaje": 8.12
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/514184480_122137075310746360_6754173619056852165_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=ffLUyOHxfGEQ7kNvwHtEJXW&_nc_oc=AdmxCs5knllwXiD_uQ-taKUj2dJOEB8icBU4dfT1zI3RLKQksLgH_6XLr44R5iacw6ROKDS3Q6a8StpDmGjAzcdT&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=mT8E6XWETK8dttmaF4uhfQ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfOOBIy7YgrMjJ7UYtagrDNyPdZZvullWDLISYqhriEvcA&oe=6868F90B",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513741843_24522167567389254_5233928387799818324_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=890911&_nc_ohc=RB5LDXuvz18Q7kNvwGq7Nx3&_nc_oc=Adm4yqgnjywrAgySRm6npcEG5zaSwr4PePZmK2cMba0ZLASF1modLldxFO2pTR-68JlJNAQFfSLsuI0Go4Pds8aB&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=mT8E6XWETK8dttmaF4uhfQ&oh=00_AfMJ5yx2H0X2VI8ivHj5VyVxUNuZ3JeAPUx7VaTtw0wnXQ&oe=6868F6EA",
+                "story_image_url": null,
+                "ad_id": "120227509282160171",
+                "ad_name": "GoatGaming: Reconocimiento Lourdes Juega (27/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120227509282150171",
+                  "adset_name": "GoatGaming: Reconocimiento Lourdes Juega (27/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-27T19:14:20-0300",
+                  "gasto": 8.12,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120227492245140171",
+              "nombre": "GoatGaming: Lourdes Juega (27/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 61,
+                "spend": 66.86,
+                "costoPorMensaje": 1.0960655737704919
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/16128012624636236320?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQIKH8beZ7nkjIQOD2lo81TextpYJ7bzUMYwA6CMz5sHt0KoC-NAOEGA7i_7--ThJZX-VfZMQbdj5-PSmk-v7wrIcKvWfI6OL6zo_uNqe08dTZR2dEUlWgp_X9RqS3LqClRHhNE8LqcvNjssfFaVxain&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=xfrPxzOOI3u79aHgkqUgSg&_nc_oc=AdnMwvaZdyhGl5vvAITZKXBPHAJKS40cCjGw-uUndOWfnn4rK-_b2K0UrtMmRrPfB3CEMBS9YqgvUj9vthqvUU_r&ccb=13-1&oh=06_Q3-0ARiKZm0RefDMlcKJ74CsBtCpkVB3BeiVyr6CvkRUM9WW&oe=6864EE52&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513920796_996813365674367_1414621277290814119_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=890911&_nc_ohc=iYCXUN_XNmQQ7kNvwGZsRny&_nc_oc=AdlrSdiGO8BmksYAEl00u0VYEV4KaZJ1-rnN8leMDDJaa3BvTkWIiTQNcaL4cCzXPjAB0yWt6e8XgEamuPCxvsdL&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=xfrPxzOOI3u79aHgkqUgSg&oh=00_AfPUFD6XSO1GijPp5AE3OfaWqdeG-B62r2WGj0eDlzSOJQ&oe=6868F162",
+                "story_image_url": null,
+                "ad_id": "120227633443950171",
+                "ad_name": "GoatGaming: Lourdes Juega (27/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120227633443940171",
+                  "adset_name": "GoatGaming: Lourdes Juega (27/06) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-30T16:07:45-0300",
+                  "gasto": 23.75,
+                  "resultados": 7,
+                  "costoPorResultado": 3.39
+                },
+                {
+                  "adset_id": "120227492245200171",
+                  "adset_name": "GoatGaming: Lourdes Juega (27/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-27T11:30:24-0300",
+                  "gasto": 43.11,
+                  "resultados": 54,
+                  "costoPorResultado": 0.8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Martina",
+      "cuentas": [
+        {
+          "id": "act_2332083400500532",
+          "saldos": {
+            "spend_cap": "1873692",
+            "amount_spent": "1761788",
+            "balance": "303863",
+            "id": "act_2332083400500532"
+          },
+          "campanias": [
+            {
+              "id": "120225968226800179",
+              "nombre": "VGanamos: Cristina Crupier (30/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 38,
+                "spend": 69.05,
+                "costoPorMensaje": 1.8171052631578946
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/11926377684090719426?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLYtSDjjuZ4yx5u7hZMoUx6MXfwQkq3LEVccGIlR5jONRzh0A3DazX3Oc54ELhmkl7ltDNSilqB1BeGTHaIrdY-P_mMw9Ug-HgsPrUpGfXeVuquT6YDOSE9LXAmnRQwYZ2lWi3M8hDtmk6MZl67Ah0Y&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=ajP9f9hIDPObcJw_z4nGjQ&_nc_oc=Adl4ewQN2ef5BVwNiA0Fo44oAIshpncqkUC528Bk27Oj7rLEJAkanoyL5MkiA7ueeYkKCNo82Np9v1z9clmdBC_r&ccb=13-1&oh=06_Q3-0AZoCqNVA8Hdm67ioxla8S9HlTpdSeT1RC3ZsYESAnowu&oe=6864E4A9&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513537507_4156066314663819_5405814296739441919_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=890911&_nc_ohc=llCsKX_2WYsQ7kNvwEVrcji&_nc_oc=AdniJ2JtE6enCrdz7eMLe0bdtpZCTD8nI9-X_XZGuktAcJllWOCI-_SlTGG9xBMWa2ridyOjtYo-e-KUSVEKYwtF&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=ajP9f9hIDPObcJw_z4nGjQ&oh=00_AfO6FqbG1Xy2Hh0Bw5n_Wkizmdcssd9RfYCc-k8k9gBBYw&oe=6868F900",
+                "story_image_url": null,
+                "ad_id": "120225968226810179",
+                "ad_name": "VGanamos: Cristina Crupier (30/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120225968226790179",
+                  "adset_name": "VGanamos: Cristina Crupier (30/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-30T09:54:10-0300",
+                  "gasto": 69.05,
+                  "resultados": 38,
+                  "costoPorResultado": 1.82
+                }
+              ]
+            },
+            {
+              "id": "120225840896330179",
+              "nombre": "VGanamos: Reconocimiento Sofia Crupier (27/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 2.39,
+                "costoPorMensaje": 2.39
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/513903626_122164303190506364_4092398109153935573_n.jpg?_nc_cat=103&ccb=1-7&_nc_ohc=Ct7MQMCMoesQ7kNvwGQDhJn&_nc_oc=AdlZtq7mddWh1MgTVSsS6YIk30zY-bT4vvAf6ddLRqPQHHbCSFfEMKN092gvoxiGyhbUXUv_p80Ij-VtOvPEjYFt&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=7vP8PVW7HkFeuqHk0nDRyA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfOM43RZisdp45ajE3WW2vPno02DtS9QKYeuXXBaxdVdaA&oe=6868F1E9",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513908574_1039225311671098_4523344009875830316_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=890911&_nc_ohc=XjCmvKrSfe4Q7kNvwF9p0QS&_nc_oc=AdkdapX2Bc9P7Hri0TO_gb9by3d2INpTa03T_JueIQhLlW_bLYNC_CpjdXULYb0Ax17kdJi0yF1vPa0VHLs-Fzec&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=7vP8PVW7HkFeuqHk0nDRyA&oh=00_AfNMlMJDPIJ-Sl30XiWT69sMvBtmBMfD8UNSWvVEsJoIjA&oe=6868F7C3",
+                "story_image_url": null,
+                "ad_id": "120225840896350179",
+                "ad_name": "VGanamos: Reconocimiento Sofia Crupier (27/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120225840896340179",
+                  "adset_name": "VGanamos: Reconocimiento Sofia Crupier (27/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-27T19:31:43-0300",
+                  "gasto": 2.39,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120225826567850179",
+              "nombre": "VGanamos: Sofia Crupier (27/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 17,
+                "spend": 25.37,
+                "costoPorMensaje": 1.4923529411764707
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/10441863116574082618?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLhCgYXgZ2W8cvwlTJFXppy1R3z3aIBOk4_g6-z2_6Mo9e3vHDtDaPiqVItB9yPWWZm5vmKr4H9B_ypbp1-VlkWZ9drA-dhLswG94yoyYplQmONx_MQgIcDRO2OZc1pXx0VElK5e7Ip4t3_-pjiy9QL&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=qKwoIrHCqy7vR8dSKellXg&_nc_oc=AdlXJWscxLCi2bVND6nIzc4IqbrdqSpOFN-oUrhGCCXMFC3OvRZKugKM9BFW_HaKjmbPjnbZBUCC8dvd_Gvm8K2R&ccb=13-1&oh=06_Q3-0ARl6eQZoQ1Vyb95zvLZ6SGYNnLE2b_hAegF5dudyay-L&oe=6864F544&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513570310_1483594003002660_1651704392841702474_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=890911&_nc_ohc=Vv5KZ6kC60cQ7kNvwHE-w_U&_nc_oc=AdlMkwFh3YG_z0T1br6iEGch2EUd2r_AJ7ww1-bAxrj8BT4baWnMcSAA6Vn8BEX2BTxtBv2Gr5ohUPmgBYh2EdCs&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=qKwoIrHCqy7vR8dSKellXg&oh=00_AfN8ANa-oTfn4J75GSiYQbarucNzBzOwpn2ABHoTIqKIeQ&oe=6868E82F",
+                "story_image_url": null,
+                "ad_id": "120225916235000179",
+                "ad_name": "VGanamos: Sofia Crupier (27/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120225916234990179",
+                  "adset_name": "VGanamos: Sofia Crupier (27/06) - Copia",
+                  "status": "PAUSED",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-29T12:33:46-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                },
+                {
+                  "adset_id": "120225826567830179",
+                  "adset_name": "VGanamos: Sofia Crupier (27/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-27T13:17:04-0300",
+                  "gasto": 25.37,
+                  "resultados": 17,
+                  "costoPorResultado": 1.49
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Muskan",
+      "cuentas": [
+        {
+          "id": "act_1341844703521827",
+          "saldos": {
+            "spend_cap": "3207736",
+            "amount_spent": "3057978",
+            "balance": "671788",
+            "id": "act_1341844703521827"
+          },
+          "campanias": [
+            {
+              "id": "120228829756830748",
+              "nombre": "Jota: Anita Crupier (30/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 32,
+                "spend": 47.02,
+                "costoPorMensaje": 1.469375
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/15282550648411330300?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLaYzF8t0xtdmMKBGZfzY9eHC6wqEd6-QQ9rGCuFGxWdxpHbST9pqQ-Oym_Em85HQt2n_5V2z1yZBeCak-9S06I4GsM9x8T4s9EmdYVixts0USkMi2qcxBEr8T2cHL_ZuxQyAALke94HuqQJ2IQNxrC&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=l3ZsscDFQlaHbOsTYWZVlw&_nc_oc=Admn_6Uo1TAQsiY4XPmnCjWXvZTNAzqmZ2awiPVHTFSAPqBE0quQz4XjL50CGg_a2o7JM8gBYtOCnN0MJFMwFqvu&ccb=13-1&oh=06_Q3-0AagQj8gmPFUrpOjGz7ZrH16T1hPAtvbGhP59JwMGPgN5&oe=6864F0B8&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/514505087_9779006235538107_4882120484289604792_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=890911&_nc_ohc=HIPe3sODadEQ7kNvwEpg2hh&_nc_oc=AdmSRTSw3R_HsPdG8CgrDh6b1Xj6olSSgMAS3LEJ-YDHaWbMEsT8fil6-AFA_IyZqyWsnHybYIc8xWKyfbTS3vTG&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=l3ZsscDFQlaHbOsTYWZVlw&oh=00_AfN0hzGZxh0nPQJZAqKYzen_vfREGxFEiXdHJu5ytZXFYg&oe=6868FEFD",
+                "story_image_url": null,
+                "ad_id": "120228829756840748",
+                "ad_name": "Jota: Anita Crupier (30/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120228829756820748",
+                  "adset_name": "Jota: Anita Crupier (30/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-30T10:00:08-0300",
+                  "gasto": 47.02,
+                  "resultados": 32,
+                  "costoPorResultado": 1.47
+                }
+              ]
+            },
+            {
+              "id": "120228461899540748",
+              "nombre": "Jota: Lu Cajera (24/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 17,
+                "spend": 28.09,
+                "costoPorMensaje": 1.6523529411764706
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/10727483413862871666?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQIM_ZYOdHy9Iml62wJXawhi-l6iJzmoiAaWzk8ymZGVis1IdoS3kOXjzpji2G--UmXxlOZtU88B0ttkNy_iwSaNYegpZaTkv14yiVe9L8jr4o8zly883sZ5O9HlAOpOsnw7Gou73UHJC5DfwUFa9t4h&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=BILRwv-Fo61vZKki8bte9Q&_nc_oc=Adk375aT_LwRoVrw7gRoxOeEObzzkl_qjZZkV0ncteh_eY48oDIfdNIfybfDCOdBgfn5SVeeMO03ObV18EuR86GC&ccb=13-1&oh=06_Q3-0AfPJtpRBC0SPMSCuEAAJ4B5H7BUo8i0l3BN-SZfFEebm&oe=6864FEDD&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513472903_647328108321965_9188190269983865971_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=890911&_nc_ohc=pOPcqRjW2N8Q7kNvwFBrIIA&_nc_oc=Adm24djQK1yaM2PUh3N5NUf_8GGXS_FqaZgjbHE4rgdJZSTzDxXJwtzRyScuVgokebLpd5Y-6cb7AqEjsjP-iRo5&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=BILRwv-Fo61vZKki8bte9Q&oh=00_AfNZm7apt8QYXZKHjY9tjl3RRrWeYO0IB95PIAMeVSNFJQ&oe=6868F5CE",
+                "story_image_url": null,
+                "ad_id": "120228648206530748",
+                "ad_name": "Jota: Lu Cajera (23/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120228798853100748",
+                  "adset_name": "Jota: Lu Cajera (24/06) - Copia 3",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-29T22:12:27-0300",
+                  "gasto": 16.48,
+                  "resultados": 12,
+                  "costoPorResultado": 1.37
+                },
+                {
+                  "adset_id": "120228648206540748",
+                  "adset_name": "Jota: Lu Cajera (24/06) - Copia 2",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-26T17:48:32-0300",
+                  "gasto": 11.61,
+                  "resultados": 5,
+                  "costoPorResultado": 2.32
+                },
+                {
+                  "adset_id": "120228628324640748",
+                  "adset_name": "Jota: Lu Cajera (24/06) - Copia",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-26T10:52:53-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                },
+                {
+                  "adset_id": "120228461899550748",
+                  "adset_name": "Jota: Lu Cajera (24/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-24T11:47:58-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Jhon",
+      "cuentas": [
+        {
+          "id": "act_465976329890131",
+          "saldos": {
+            "spend_cap": "1648809",
+            "amount_spent": "1546067",
+            "balance": "848696",
+            "id": "act_465976329890131"
+          },
+          "campanias": [
+            {
+              "id": "120228251944460696",
+              "nombre": "SimonP: Reconocimiento Agente Caty (30/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 0.53,
+                "costoPorMensaje": 0.53
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/514423873_122132764898807708_61976880432080110_n.jpg?_nc_cat=103&ccb=1-7&_nc_ohc=vVbAWwPamPEQ7kNvwE7G8C7&_nc_oc=AdlnMGXMR1n3hnu54mxB-F6Ti3ahw-XjhxFH5NL7pA8pDA_3dBVsfRwd3Y-N8CUIUNSVTOxOXbLsodoC6TQEGJQ-&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=0xkhWRLIllmffUVyO4GZ_Q&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfP1nkMqRqEWerEGmpDxsQL_8ea8rXTab7-hOzH8vFnAgQ&oe=6868E6B5",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/514025924_1420355949166368_369802127978123214_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=890911&_nc_ohc=LRS2F1ydtOQQ7kNvwFPq72y&_nc_oc=AdloisWIn0hhYJLnLR2oKHORHhuRFioNqdvQ9df0iVbC8pBdYsXHyWS9O-FEQShKb5ZKGTBuWulGe4zgxyxc73Oo&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=0xkhWRLIllmffUVyO4GZ_Q&oh=00_AfP2DqwVAgaQmCy9yQxcw9ZEDC0tDgH2XwAO8FEW0XYqMw&oe=6868E12B",
+                "story_image_url": null,
+                "ad_id": "120228251944480696",
+                "ad_name": "SimonP: Reconocimiento Agente Caty (30/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120228251944470696",
+                  "adset_name": "SimonP: Reconocimiento Agente Caty (30/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-30T19:06:33-0300",
+                  "gasto": 0.49,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120228247564210696",
+              "nombre": "Raven: Patri Entretiene (30/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 2,
+                "spend": 19.71,
+                "costoPorMensaje": 9.855
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/10058128044636391113?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQL6BFpzRrHxJuo5g8WvnphuUu0NB0bXtguA6lqppFh9CLfLby03WKkWQmYq5iR8UDsnR7DrcGvbMp-pp7PLYcom-FSh11_DGhEikR2HTFPYotMK5BXhaHxV5yyv1LGqHcoaIajlab9USaC1Gf37npfG&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=IBRqaNj2c-UUjST6xKOzHA&_nc_oc=AdkEz4J2LWyc08GCWGZptvvYpTSwnquNVEfHpI4OAwyoEOxZouQaJFBAe8KhfAbRv1PSVE6MYlWxTlhY0Caxle0V&ccb=13-1&oh=06_Q3-0AfxEOGN43S87LSISGmPkZzOMULDPfOF0A1pe7hKjQV9u&oe=68650975&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513956750_1418798292693477_6284944054233460772_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=890911&_nc_ohc=W7jXMjbKfnsQ7kNvwFDFukl&_nc_oc=AdmbC5EjXjMhDG4ONaMc5Cg2p95YM4s2U8K3w5VDLlFL7EShh2FMkpO8XylxQi4hz_2K-Tw_jXbwWhjVDgDZp7Di&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=IBRqaNj2c-UUjST6xKOzHA&oh=00_AfNXM_3pengmBCMmeGJnFOqsIw92C0RHRaDHcQIvZHPVUQ&oe=6868F68F",
+                "story_image_url": null,
+                "ad_id": "120228247564730696",
+                "ad_name": "Raven: Patri Entretiene (30/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120228247564220696",
+                  "adset_name": "Raven: Patri Entretiene (30/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-30T16:57:25-0300",
+                  "gasto": 19.71,
+                  "resultados": 2,
+                  "costoPorResultado": 9.86
+                }
+              ]
+            },
+            {
+              "id": "120228125182280696",
+              "nombre": "SimonP: Agente Caty (28/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 41,
+                "spend": 73.57,
+                "costoPorMensaje": 1.7943902439024388
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/4134427656565281556?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLMOG-CgcJHUUf51yIXWGwkyIq62cChTj4l4UE7WEacZPosBGlKv9aXReniwR1gQCP4bC0wHaT0OQGSFlcuJaPwd8G2BfZpQiDk_hcL7W-RVe7YZgD1T-1x3t5bYCI6_kGQ7tLbUucW3pXvTK6kMutX&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=tL_5ctbO9-MO1NsG-vMjxQ&_nc_oc=Adl-Z3PIqYTFtdR6r-fWJYPKWMEWkLchzP81a5OW8P4WE72oBFsHEsreaudQjyAB51Ji6iQOU3AnMa9xZ4BHjRgU&ccb=13-1&oh=06_Q3-0AamW_yS_dPGS9QvQ1yfIpDOOvbeLFu--4lzD0Q8_U_lr&oe=6864E6CD&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513531962_1436743811001774_424071062111437775_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=890911&_nc_ohc=BuRrnYVosoQQ7kNvwFY3PRK&_nc_oc=AdnxLKlhnADJJNkgLz7YrnKsarzpCab2U6DcG0FxljBElsmbcrH4VMQl8sl9Tp3i8vg-yx2XrGCaKmgKyJnNkpKd&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=tL_5ctbO9-MO1NsG-vMjxQ&oh=00_AfMRHEE5goao9XqRDa9tKagPWmWvgauEW05bYvIvGzkD_w&oe=6868F432",
+                "story_image_url": null,
+                "ad_id": "120228125182300696",
+                "ad_name": "Simon: Agente Caty (28/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120228125182290696",
+                  "adset_name": "SimonP: Agente Caty (28/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T12:22:03-0300",
+                  "gasto": 73.57,
+                  "resultados": 41,
+                  "costoPorResultado": 1.79
+                }
+              ]
+            },
+            {
+              "id": "120227939560090696",
+              "nombre": "Raven: Reconocimiento Aleja Crupier (25/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 8.08,
+                "costoPorMensaje": 8.08
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/512550172_122170051826538137_6369035794773105359_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=kr-Al4ByfuMQ7kNvwE1I8wW&_nc_oc=Adkj7NY_Q6wqHH1dStOz9oMrHgRwXI7GXoCr2s8OkaR4TDoWLg6VQMjEGd2StFGICvgTCx90M3_r5xE9OsVu0fYu&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=gdlyH32ne2QPWQsb0TOlRA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfPq4RGdWekIHY_kwG9sUMrTzZBThltzIcvHmHFOQwcAtQ&oe=6868EB79",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513049813_2148304012281984_9172098192563583274_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=890911&_nc_ohc=gtDd-5al4AUQ7kNvwEMg_Lf&_nc_oc=AdkJznchPX8C4YWgDtdkadloREWFbsm0UvnChZEb-ue24m92If85MNgRwnhue4gdCe2catPZPyf-AOnzFiLnJCIO&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=gdlyH32ne2QPWQsb0TOlRA&oh=00_AfPyX-Mq1cRVOPH2ew-AFNu4JrwQFFYF3lFP8GFWVgiMhg&oe=6868EB23",
+                "story_image_url": null,
+                "ad_id": "120227939560640696",
+                "ad_name": "Raven: Reconocimiento Aleja Crupier (25/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120227939560130696",
+                  "adset_name": "Raven: Reconocimiento Aleja Crupier (25/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-25T17:54:23-0300",
+                  "gasto": 8.05,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120227930509250696",
+              "nombre": "Raven: Aleja Crupier (25/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 96,
+                "spend": 146.26,
+                "costoPorMensaje": 1.5235416666666666
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/7825638032138970757?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJP0be06w-SwBeBqO6B0_-See8ARgI1k_asSHJWk8zdolV0AFl3ZUi37vHCJf5sRLs3VdS-HeCYkKiiy1lfPYutuoD70upD4Eu9QGpcP_tYNYvRCLZMxIYp6hZ52wj7mZKRl-acIsXPQAxouXhTUpEO&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=8FvnZS__OSx9OlamZ6mfLg&_nc_oc=AdlHZoICsI7TpqnCYsNz9aantIuqEOzrsRK_u8cqV_eh1CezxjRwBxh8h6EbQHTDUh1efHNt2ZIAYWSK0KCo1OB3&ccb=13-1&oh=06_Q3-0AVeyoOATpiZLnYueII2MnPCK5kdjMuITq0dbU6sH3tPs&oe=68651A77&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/512460825_4244717979073354_890858576816479734_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=102&ccb=1-7&_nc_sid=890911&_nc_ohc=84LwFVjFBL0Q7kNvwFm6Fd2&_nc_oc=Adkmo4f7mp-uHtLV4SMseiZTISFJpAUNf64tDiWM_x3QpVn2dj4sHD-ZnN8RlD1wD35N9V38cwhkV_i8ECbyzLg3&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=8FvnZS__OSx9OlamZ6mfLg&oh=00_AfN47e2nOk-SHbgfE7IGNgD2MEkc8Aq58iCEr7s4vIcF1A&oe=6868F84E",
+                "story_image_url": null,
+                "ad_id": "120228172130850696",
+                "ad_name": "Raven: Aleja Crupier (25/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120228172130860696",
+                  "adset_name": "Raven: Aleja Crupier (25/06) - Copia 2",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-29T12:14:32-0300",
+                  "gasto": 71.25,
+                  "resultados": 42,
+                  "costoPorResultado": 1.7
+                },
+                {
+                  "adset_id": "120228036585100696",
+                  "adset_name": "Raven: Aleja Crupier (25/06) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-27T01:59:43-0300",
+                  "gasto": 75,
+                  "resultados": 50,
+                  "costoPorResultado": 1.5
+                },
+                {
+                  "adset_id": "120227930509260696",
+                  "adset_name": "Raven: Aleja Crupier (25/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-25T14:04:14-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120227259188470696",
+              "nombre": "Escaloneta: Tere Cajera (16/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 76,
+                "spend": 66.72,
+                "costoPorMensaje": 0.8778947368421053
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/16452808279860939030?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQK77mfN8t07S_PKzV1LjO8U9J-hI9wKn8X9JkOBDnlnhEnIlzNM9AxvmLTi4KTNceO1l7DSjlkJda-cvvOjPk82jCAIDzK5kSePvzq-3ChMnMYIJF0PbnI4ijdA1_RXrxDo6yPyoUgsBopypRu-pE7t&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=QUoAmIU_-9vtl2yxYSnuOQ&_nc_oc=Adle_55aV0ES3iiJhJSRuABQYpP8_FPdNcHbYZgf3FapYyb9oWRNRCOzdb-Wk68OLQOwYbSZhI5w0P9kgO4INH23&ccb=13-1&oh=06_Q3-0AaBvLIuWQna9s9ing3m0uSZr2qicb3egNPM-iBwKQdXh&oe=6864F68B&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513986115_1377892089990910_6953032735406188389_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=890911&_nc_ohc=9Qm1LrHGT6sQ7kNvwH6_FZF&_nc_oc=AdncAh22CIN2xn18ZXQAu1YRtidDzJSpI7eC63WKvngRDCEfBY4nqQkjFcPhTZfq20FuxHOowCl6qj0VtTOqA-yW&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=QUoAmIU_-9vtl2yxYSnuOQ&oh=00_AfM_zBO_QkcydtOKF_HJh--nWOGDbNosOH_nfamO9kKGHw&oe=6868F7E3",
+                "story_image_url": null,
+                "ad_id": "120228254061160696",
+                "ad_name": "Escaloneta: Tere Cajera (16/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120228254061170696",
+                  "adset_name": "Escaloneta: Tere Cajera (16/06) - Copia 3",
+                  "status": "ACTIVE",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-30T20:28:46-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                },
+                {
+                  "adset_id": "120227309065200696",
+                  "adset_name": "Escaloneta: Tere Cajera (16/06) - Copia 2",
+                  "status": "PAUSED",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-17T08:21:27-0300",
+                  "gasto": 66.72,
+                  "resultados": 76,
+                  "costoPorResultado": 0.88
+                },
+                {
+                  "adset_id": "120227279994350696",
+                  "adset_name": "Escaloneta: Tere Cajera (16/06) - Copia",
+                  "status": "PAUSED",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-16T23:12:13-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                },
+                {
+                  "adset_id": "120227259188500696",
+                  "adset_name": "Escaloneta: Tere Cajera (16/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-16T15:23:38-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Kasandra",
+      "cuentas": [
+        {
+          "id": "act_1142903223895392",
+          "saldos": {
+            "spend_cap": "1847390",
+            "amount_spent": "1730502",
+            "balance": "1100491",
+            "id": "act_1142903223895392"
+          },
+          "campanias": [
+            {
+              "id": "120231150669050155",
+              "nombre": "Miami: Kasi Crupier (30/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 7,
+                "spend": 12.33,
+                "costoPorMensaje": 1.7614285714285713
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/10631243563674469912?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLPiRwrMq5Q84RnRkTKtjQAxw7bfb6r_j5tkAzFDpyZH7IHYHheRYKke1Oae_XF8IBgqxIO8o2p_uReUvLhFzVaTWnW0UDJJHXsQldD9FHce9VtF3tlFkLX5jBRcZKv_OHKMANZ_RH0cX76nk10H2re&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=IFVr04FPYq08wpaTMPagkg&_nc_oc=Admc-cbdFQuJDu2Oh8iHEAw4-FgBZM-v48OQmfhE43eggCIYX4lSI6qB97v_jkhSHavGmaBIQ8aJUa_Q90drksMg&ccb=13-1&oh=06_Q3-0AS1nIR8H_TaJ0XXygWppHONLiKiZRmdW-3Nm7lhG1Kun&oe=68650119&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513856332_1474957897212787_486410086215212909_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=103&ccb=1-7&_nc_sid=890911&_nc_ohc=-AA5WAYpMSQQ7kNvwHtuANV&_nc_oc=Adk9aZSZz_ehy99x4JyG9zvRc1J79fCNY7-5ibcMySfuoZrtikidjOYxjMoRkGG45dvGn_9y__BpLxE9CXuPy_qy&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=IFVr04FPYq08wpaTMPagkg&oh=00_AfP9YaZ3-n-jmipYjJFspMnTT97meyQc69L--xTspyFNFQ&oe=6868DD30",
+                "story_image_url": null,
+                "ad_id": "120231150669100155",
+                "ad_name": "Miami: Kasi Crupier (30/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120231150669060155",
+                  "adset_name": "Miami: Kasi Crupier (30/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-30T18:05:00-0300",
+                  "gasto": 12.33,
+                  "resultados": 7,
+                  "costoPorResultado": 1.76
+                }
+              ]
+            },
+            {
+              "id": "120231033456360155",
+              "nombre": "Miami: Lourdes Divierte (28/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 23,
+                "spend": 44.35,
+                "costoPorMensaje": 1.9282608695652175
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/10858221453349526670?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJDLjx6mqJ4IHHeTyhEBR_6d29h9zJ9WvGrMZEm2o2Kxb-wjplCLEsi6qIzjIDKIwFN8qhoCXI0SeWjl-m8e7LAX4CvWqbgRKn40sOPmAOYJG0GVHwAtxcAZKUq8F-C858VljDHO-8FQDmPRR_Mz-Un&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=kHmWwUIyvvX4Fl6Zwnr_cg&_nc_oc=AdlQmYF_-uQHAaSN_pYqpuXPMk0R4yrIBPJeLPQwyxXQ6nGE_3THXEE38R3e1sx3wcpt21-K5lQH1YlVKVLphCWg&ccb=13-1&oh=06_Q3-0AbxkeVqnnK5LV87YZDeeLbnZpK-9vRURIwfSpUnFS2mN&oe=68651B9D&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513842851_1417286679469047_7422950645758783565_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=890911&_nc_ohc=CffcEpFIg_sQ7kNvwEhHxFR&_nc_oc=AdnlFWlooUQI_TzTUiknzo4XwzEn7dsZcejlXFl2XhVRL8MS0dnVeurwX741L_q37EhVJhk_4nVZWKp05PhJ5wAF&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=kHmWwUIyvvX4Fl6Zwnr_cg&oh=00_AfNQiZ7MenVAGxpDOxpxfDDxzemC3PoNnS24PuiQyIc0jA&oe=6869085D",
+                "story_image_url": null,
+                "ad_id": "120231096178920155",
+                "ad_name": "Miami: Lourdes Divierte (28/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120231096178930155",
+                  "adset_name": "Miami: Lourdes Divierte (28/06) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-29T18:11:52-0300",
+                  "gasto": 44.35,
+                  "resultados": 23,
+                  "costoPorResultado": 1.93
+                },
+                {
+                  "adset_id": "120231033456370155",
+                  "adset_name": "Miami: Lourdes Divierte (28/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T16:07:24-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120231033260680155",
+              "nombre": "Oporto: Criscris Divierte (28/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 44,
+                "spend": 84.72,
+                "costoPorMensaje": 1.9254545454545455
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/514336285_122136346676717237_1360349018306240587_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=P65FvKbi6ZoQ7kNvwF4xQS0&_nc_oc=Adm3KeyC5fSouHf32DnV3yc_W3_qJUZBoqtHJs1J6IqFxMFawXseLxQhzW2GqxbvO1hY_CHox80cHwUSik6aJX4z&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=ob6WFjqiRfTiYWB7qpnDrw&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=8c4ec0&_nc_sid=58080a&oh=00_AfM6rBFTzmam61ms5ixP60nXpw02MaPeInr_eq8jF4eAqw&oe=6868F371",
+                "image_url": null,
+                "story_image_url": null,
+                "ad_id": "120231033261980155",
+                "ad_name": "Oporto: Criscris Divierte (28/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120231033261970155",
+                  "adset_name": "Oporto: Criscris Divierte (28/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T15:52:29-0300",
+                  "gasto": 84.72,
+                  "resultados": 44,
+                  "costoPorResultado": 1.93
+                }
+              ]
+            },
+            {
+              "id": "120230591609450155",
+              "nombre": "Royal: Kasandra Crupier (22/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 58,
+                "spend": 66.29,
+                "costoPorMensaje": 1.1429310344827588
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/510978017_122160711434524322_7140149323924230637_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=CJKBRs6ctWcQ7kNvwGTSB-2&_nc_oc=AdmXC593rwkIyEP-QsGBMeZcofcddeqO3mJJhZN7x9eT-eMw63nViNpMLsSzjAMXcIVjsatr0ajUZUkxK4R0ku3b&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=s6nIZuylpYdXcX7u4CkFZA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=8c4ec0&_nc_sid=58080a&oh=00_AfOFDtedu7dLs9DTt26CVm4-sYC0TlIbLlrzQo1CCsI1PA&oe=6868D859",
+                "image_url": null,
+                "story_image_url": null,
+                "ad_id": "120231011103620155",
+                "ad_name": "Royal: Kasandra Crupier (22/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120231011103630155",
+                  "adset_name": "Royal: Kasandra Crupier (22/06) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T06:18:30-0300",
+                  "gasto": 66.29,
+                  "resultados": 58,
+                  "costoPorResultado": 1.14
+                },
+                {
+                  "adset_id": "120230591610910155",
+                  "adset_name": "Royal: Kasandra Crupier (22/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-22T13:30:13-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Catherine",
+      "cuentas": [
+        {
+          "id": "act_4019588388295471",
+          "saldos": {
+            "spend_cap": "1449389",
+            "amount_spent": "1318954",
+            "balance": "458658",
+            "id": "act_4019588388295471"
+          },
+          "campanias": [
+            {
+              "id": "120227377590270330",
+              "nombre": "Cokesin: Capitana Caty (29/06)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 44,
+                "spend": 65.38,
+                "costoPorMensaje": 1.4859090909090908
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/16945673204345450896?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQL8AbYsDp_h0ThiLldA_dLuTh5BzhbmtaNNYHh9Ojg1c63Ke1D8xYSpO54HbrFKpi1P-rKAyPu1xGDlbUW6RccajowtPc6Bo4t6l0sw9cIumtE2Vf_XMm8FkU_cfKCIM6XPjP9q6BEezwshIMqPcJj9&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=J1EuKEQ0fkFvE5vZGChTDA&_nc_oc=AdnHfrOUVx-i0WKd_gvhX6Mv4uFcF_idtEhAZqpj00BCCxRfxBVsaoi1xtCkNJO_wvuOOqepXOLYa8XVo-elH5_S&ccb=13-1&oh=06_Q3-0AW1PNAmLJna0q50A8HPhZuY0nMWMZlQfdy8q2TV9NI1m&oe=6864FF47&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513625057_1398430378064293_7800812074948398173_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=890911&_nc_ohc=yEYsDXDfa6oQ7kNvwEVexTQ&_nc_oc=AdntJaOr1_pAdx1we42TrgcfqWgVuuNsMhkMIf4JkbZe5L5EQWgBs4jIcE6mnQWk_tUvcZTrsStVe6HJmV-LwsUn&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=J1EuKEQ0fkFvE5vZGChTDA&oh=00_AfMD9uehU0zq1dSo3H3ihZ1NBa1C7kXYQiB2dkEYQkOqJg&oe=686903F8",
+                "story_image_url": null,
+                "ad_id": "120227377590460330",
+                "ad_name": "Cokesin: Capitana Caty (29/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120227377590350330",
+                  "adset_name": "Cokesin: Capitana Caty (29/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-29T11:32:59-0300",
+                  "gasto": 65.38,
+                  "resultados": 44,
+                  "costoPorResultado": 1.49
+                }
+              ]
+            },
+            {
+              "id": "120227330680670330",
+              "nombre": "Cokesin: Zambrano Juega (28/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 44,
+                "spend": 70.15,
+                "costoPorMensaje": 1.594318181818182
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/15058003650391576360?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJWHB1TlUJ8V0r0S_MZ8eTHGwEXWSNH_7bBg4hx70KDvefAmTzokhwx-iSYXYdWTmqmyOiTiFF15FRzRJEjVszSSjLXyIANg3cTi-JIescR2DLCMAHlDhYPOgkkJRwFl7EqHFVZwrXf9HMpoJnhbDTD&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=kOPr700EWWkdlmea1o-sWg&_nc_oc=AdmbNjdyUYef-_WOB1QB0MCcw356xcduUWXlT7d__B8IhuXOYmr-IlQ60ZOfpMv0t1S848UMyT-rXqREkp0uWN_y&ccb=13-1&oh=06_Q3-0ASCwYybm8SScW2YAPaZZnWeytakPSUHTr5iH7y7jGFVX&oe=68650CEE&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/503951298_1488055179225592_3800135376542985305_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=890911&_nc_ohc=JCR0tLW2vvYQ7kNvwEESNf9&_nc_oc=AdnOYj6xUTruk-H_b6-Js3C60CJXOgF4s98tQdmGaXwjJWeNsCNay4zID5jlxflZlfMpRIs1mCIP2BpIXM3nmrpe&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=kOPr700EWWkdlmea1o-sWg&oh=00_AfPC5A2sW_uNUZiULEckCdqgZlCXAz__7CgVzygnCltzbg&oe=6868EB44",
+                "story_image_url": null,
+                "ad_id": "120227352435980330",
+                "ad_name": "Cokesin: Zambrano Juega (28/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120227352435990330",
+                  "adset_name": "Cokesin: Zambrano Juega (28/06) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T22:57:22-0300",
+                  "gasto": 70.15,
+                  "resultados": 41,
+                  "costoPorResultado": 1.71
+                },
+                {
+                  "adset_id": "120227330681180330",
+                  "adset_name": "Cokesin: Zambrano Juega (28/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T13:43:58-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120227280070230330",
+              "nombre": "Cokesin: Reconocimiento Zambrano Juega (27/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 8.33,
+                "costoPorMensaje": 8.33
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/513266891_122135846054750310_4963392761659191294_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=yej_2KBMVqUQ7kNvwFLCZl9&_nc_oc=AdkmFiuX6XjCj2tI7-UcivNcTC049Vc3TGTv5p6zmAPJHgwofyRw2K1oJJ0LgXQSZYjkPJpVA8yjupaNwCbW0NOQ&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=vEmIst2uc7Asu7CngDlExg&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfO5DWPLgSnauoqnwVBLOHfJ8JOCR7BjIfZBu6h97AA6aA&oe=6868D936",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/513938425_733754699379404_296672522986864191_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=890911&_nc_ohc=MzwBJ95AvNMQ7kNvwGbUZUJ&_nc_oc=AdlEaZb7MVw0WbVyZuR1Ktywg3u4Ah0mDsvORWSw7w8PdPSz2Pc-TLrFYKfzv21xfdEYkJ-4isOzhMbZucHXqtGi&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=vEmIst2uc7Asu7CngDlExg&oh=00_AfM4_B50nAcmbzKiHcXGVYV2xl82JVmUA2LzwX8O8qYa5g&oe=686905AF",
+                "story_image_url": null,
+                "ad_id": "120227331667170330",
+                "ad_name": "Cokesin: Reconocimiento Zambrano Juega (27/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120227331667160330",
+                  "adset_name": "Cokesin: Reconocimiento Zambrano Juega (27/06) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-28T14:08:52-0300",
+                  "gasto": 8.33,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                },
+                {
+                  "adset_id": "120227280070250330",
+                  "adset_name": "Cokesin: Reconocimiento Gime Crupier (27/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-27T21:03:29-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120227059691390330",
+              "nombre": "Venecia: Ginna Divertida (25/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 131,
+                "spend": 152.61,
+                "costoPorMensaje": 1.1649618320610688
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-phx1-1.xx.fbcdn.net/emg1/v/t13/1076616598837909612?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJBCDsCxYFUjJ09nQLicCKvj3Q1_pYbd_-oGQaWcDZPe_uTjHiMcSzUvyRMO_wyJy74aElaz2oKn6s3qwFm-VV5t_Z-zCcPiIP4UvAvdDzsffIsX9WEPsL4hGHbaQdv98CggLOi-73tQXQdPWEHABsm&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=t5gxyD08hhEfpeXbhQnw-A&_nc_oc=Adn7_vbKCej7AfpgcVZp2nsx8uf5R_KGJ-Eyk9kjI4ko6SflziwkxvJ7FLioRixJtQapjxk8E0S5ICCD5cI90QM1&ccb=13-1&oh=06_Q3-0AQ-B_shh9jHcNkC2uXTMOwb8U5eT9tsfWfZqTx988mzJ&oe=6864ED04&_nc_sid=58080a",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/511250896_696768423328386_6290914270812838815_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=890911&_nc_ohc=2LtZN8ULY90Q7kNvwHKgE4L&_nc_oc=AdnO17GfUwd4Zaa8Vn3wh2EwqxRd1Tw-fms3pYtlai1_Vqtj9ZxR-WIjLaPbnE0wOU5QNd2cMLgxkW7lcrWYGU2F&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=t5gxyD08hhEfpeXbhQnw-A&oh=00_AfPc-YdzDkZsEbKbHuIyP0XAv7D9LC_lTl58gJEv4ANE2w&oe=6868E4C2",
+                "story_image_url": null,
+                "ad_id": "120227391041800330",
+                "ad_name": "Venecia: Ginna Divertida (25/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120227391041790330",
+                  "adset_name": "Venecia: Ginna Divertida (25/06) - Copia 2",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-29T17:30:32-0300",
+                  "gasto": 74,
+                  "resultados": 66,
+                  "costoPorResultado": 1.12
+                },
+                {
+                  "adset_id": "120227171065030330",
+                  "adset_name": "Venecia: Ginna Divertida (25/06) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-26T14:37:44-0300",
+                  "gasto": 78.61,
+                  "resultados": 65,
+                  "costoPorResultado": 1.21
+                },
+                {
+                  "adset_id": "120227059691570330",
+                  "adset_name": "Venecia: Ginna Divertida (25/06)",
+                  "status": "PAUSED",
+                  "daily_budget": "10000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-25T09:07:46-0300",
+                  "gasto": 0,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            },
+            {
+              "id": "120226946757100330",
+              "nombre": "Venecia: Reconocimiento Ginna Divertida (23/06)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 0,
+                "spend": 8.1,
+                "costoPorMensaje": 8.1
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/493736784_122135838776707986_6834678014350452076_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=ZQVXV0EXFkAQ7kNvwF6z4lB&_nc_oc=Adla4B2xwBiH1Dr3hgsR_FbV4kCJ5EuBXHik7Wz3u6DfJp5fHg8s-88agmpj9fKxKVaWB6SBUOha0u1ky84Si25Z&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=Xp1NVEZXlXZYWRMJSoApMA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=de5bcf&_nc_sid=58080a&oh=00_AfNr9a2LfE3G0qqyMdC15NxY1Fd1FpgofAkN_j4E9FJ8Gw&oe=686908FE",
+                "image_url": "https://scontent-phx1-1.xx.fbcdn.net/v/t45.1600-4/510723549_732665752495880_8206551033631588989_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=890911&_nc_ohc=c1Z5mHSHAMAQ7kNvwHhKlr3&_nc_oc=AdkchbQ5VHiFvK3eRFhDJ52heu3mg9voeQ2jqEBjkej6F2xd0pVjTU-4bFrYqng6M4g3tnaHTW-XmaZEbjfybJR0&_nc_zt=1&_nc_ht=scontent-phx1-1.xx&edm=ANIILHsEAAAA&_nc_gid=Xp1NVEZXlXZYWRMJSoApMA&oh=00_AfNezHYyDe5NjYpPnG-T6OUpcV4XlK4xlqSwpo9LKP_3rQ&oe=6868D9A7",
+                "story_image_url": null,
+                "ad_id": "120226946757120330",
+                "ad_name": "Venecia: Reconocimiento Ginna Divertida (23/06)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120226946757110330",
+                  "adset_name": "Venecia: Reconocimiento Ginna Divertida (23/06)",
+                  "status": "ACTIVE",
+                  "daily_budget": "1000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-06-23T18:41:40-0300",
+                  "gasto": 8.1,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "Panel GoatGaming": {
-    "conversaciones": 283,
+    "conversaciones": 281,
     "veces_c4rgado": 0,
-    "veces_frase_cierre": 61,
+    "veces_frase_cierre": 60,
     "demoras_leves": {
-      "cantidad": 19,
+      "cantidad": 18,
       "detalles": [
         {
           "contactoUuid": "f89535193b8f4c31b357a87c20c51b53",
@@ -85,16 +85,6 @@
           "demoraMinutos": "5.38",
           "mensajeInicio": "para cargar",
           "mensajeRespuesta": "📌Datos: \nEstefania Haedo UALA\n0000007900273971008..."
-        },
-        {
-          "contactoUuid": "e289fe626ccf425f9b76888b557f29e3",
-          "horaInicio": "11/07/2025, 19:24:36",
-          "horaRespuesta": "11/07/2025, 19:32:28",
-          "demoraFormateada": "0h 7m 52s",
-          "demoraMs": 472000,
-          "demoraMinutos": "7.87",
-          "mensajeInicio": "Viviana",
-          "mensajeRespuesta": "viviggoat"
         },
         {
           "contactoUuid": "e289fe626ccf425f9b76888b557f29e3",
@@ -432,15 +422,9 @@
       },
       {
         "contactoUuid": "6f2e927e927e43e09c04e7e507171c6c",
-        "promedioFormateado": "0h 1m 47s",
-        "promedioMinutos": "1.79",
-        "cantidadMensajes": 2
-      },
-      {
-        "contactoUuid": "6f2e927e927e43e09c04e7e507171c6c",
-        "promedioFormateado": "0h 1m 47s",
-        "promedioMinutos": "1.79",
-        "cantidadMensajes": 2
+        "promedioFormateado": "0h 1m 24s",
+        "promedioMinutos": "1.40",
+        "cantidadMensajes": 4
       },
       {
         "contactoUuid": "db6749c17a1b42e981053438bbfef63b",
@@ -459,6 +443,12 @@
         "promedioFormateado": "0h 0m 50s",
         "promedioMinutos": "0.84",
         "cantidadMensajes": 3
+      },
+      {
+        "contactoUuid": "f96c98ca554741c68d00735fa18235b0",
+        "promedioFormateado": "0h 0m 37s",
+        "promedioMinutos": "0.62",
+        "cantidadMensajes": 5
       },
       {
         "contactoUuid": "f96c98ca554741c68d00735fa18235b0",
@@ -666,15 +656,9 @@
       },
       {
         "contactoUuid": "c26e0af95c234482822d2d71ecd055a1",
-        "promedioFormateado": "0h 0m 36s",
-        "promedioMinutos": "0.61",
-        "cantidadMensajes": 5
-      },
-      {
-        "contactoUuid": "e289fe626ccf425f9b76888b557f29e3",
-        "promedioFormateado": "0h 3m 46s",
-        "promedioMinutos": "3.77",
-        "cantidadMensajes": 4
+        "promedioFormateado": "0h 0m 51s",
+        "promedioMinutos": "0.86",
+        "cantidadMensajes": 6
       },
       {
         "contactoUuid": "e289fe626ccf425f9b76888b557f29e3",
@@ -795,12 +779,6 @@
         "promedioFormateado": "0h 2m 2s",
         "promedioMinutos": "2.04",
         "cantidadMensajes": 3
-      },
-      {
-        "contactoUuid": "bc2b38253ebe4404b2074529c5b89788",
-        "promedioFormateado": "0h 1m 58s",
-        "promedioMinutos": "1.97",
-        "cantidadMensajes": 5
       },
       {
         "contactoUuid": "bc2b38253ebe4404b2074529c5b89788",
@@ -1964,23 +1942,23 @@
       },
       {
         "contactoUuid": "6f2e927e927e43e09c04e7e507171c6c",
-        "horaInicio": "11/07/2025, 21:48:15",
-        "horaRespuesta": "11/07/2025, 21:49:07",
-        "demoraFormateada": "0h 0m 52s",
-        "demoraMs": 52000,
-        "demoraMinutos": "0.87",
-        "mensajeInicio": "Buenas que plataforma usan",
-        "mensajeRespuesta": "hooli"
+        "horaInicio": "12/07/2025, 12:29:04",
+        "horaRespuesta": "12/07/2025, 12:29:47",
+        "demoraFormateada": "0h 0m 43s",
+        "demoraMs": 43000,
+        "demoraMinutos": "0.72",
+        "mensajeInicio": "Un usario",
+        "mensajeRespuesta": "decime tu nombre porfa "
       },
       {
         "contactoUuid": "6f2e927e927e43e09c04e7e507171c6c",
-        "horaInicio": "11/07/2025, 21:49:23",
-        "horaRespuesta": "11/07/2025, 21:52:06",
-        "demoraFormateada": "0h 2m 43s",
-        "demoraMs": 163000,
-        "demoraMinutos": "2.72",
-        "mensajeInicio": "Que plataforma tienen",
-        "mensajeRespuesta": "https://goatdiversion.vercel.app/"
+        "horaInicio": "12/07/2025, 12:30:42",
+        "horaRespuesta": "12/07/2025, 12:32:00",
+        "demoraFormateada": "0h 1m 18s",
+        "demoraMs": 78000,
+        "demoraMinutos": "1.30",
+        "mensajeInicio": "Micaela",
+        "mensajeRespuesta": "Micaelaggoaatt"
       },
       {
         "contactoUuid": "db6749c17a1b42e981053438bbfef63b",
@@ -2061,6 +2039,56 @@
         "demoraMinutos": "0.72",
         "mensajeInicio": "Listo",
         "mensajeRespuesta": "Joya!!\n\nAhora enviales el USUAR1O y  el COMPROBANT..."
+      },
+      {
+        "contactoUuid": "f96c98ca554741c68d00735fa18235b0",
+        "horaInicio": "11/07/2025, 21:31:11",
+        "horaRespuesta": "11/07/2025, 21:31:33",
+        "demoraFormateada": "0h 0m 22s",
+        "demoraMs": 22000,
+        "demoraMinutos": "0.37",
+        "mensajeInicio": "Ale vildoza",
+        "mensajeRespuesta": "hola123"
+      },
+      {
+        "contactoUuid": "f96c98ca554741c68d00735fa18235b0",
+        "horaInicio": "11/07/2025, 21:31:45",
+        "horaRespuesta": "11/07/2025, 21:33:03",
+        "demoraFormateada": "0h 1m 18s",
+        "demoraMs": 78000,
+        "demoraMinutos": "1.30",
+        "mensajeInicio": "CBU",
+        "mensajeRespuesta": "⭐ Le pasamos los datos de carga:\n00000079002731018..."
+      },
+      {
+        "contactoUuid": "f96c98ca554741c68d00735fa18235b0",
+        "horaInicio": "11/07/2025, 21:33:30",
+        "horaRespuesta": "11/07/2025, 21:34:31",
+        "demoraFormateada": "0h 1m 1s",
+        "demoraMs": 61000,
+        "demoraMinutos": "1.02",
+        "mensajeInicio": "Pásame el CBU solo así lo copio",
+        "mensajeRespuesta": "0000007900273101892810"
+      },
+      {
+        "contactoUuid": "f96c98ca554741c68d00735fa18235b0",
+        "horaInicio": "11/07/2025, 21:35:06",
+        "horaRespuesta": "11/07/2025, 21:35:17",
+        "demoraFormateada": "0h 0m 11s",
+        "demoraMs": 11000,
+        "demoraMinutos": "0.18",
+        "mensajeInicio": "500 pesos cargo y me das el bono verdad",
+        "mensajeRespuesta": "sii"
+      },
+      {
+        "contactoUuid": "f96c98ca554741c68d00735fa18235b0",
+        "horaInicio": "11/07/2025, 21:36:49",
+        "horaRespuesta": "11/07/2025, 21:37:02",
+        "demoraFormateada": "0h 0m 13s",
+        "demoraMs": 13000,
+        "demoraMinutos": "0.22",
+        "mensajeInicio": "",
+        "mensajeRespuesta": "Exelente!!\n\nAhora te pido que envies tu USUAR1O y ..."
       },
       {
         "contactoUuid": "f96c98ca554741c68d00735fa18235b0",
@@ -3123,44 +3151,14 @@
         "mensajeRespuesta": "de nada!"
       },
       {
-        "contactoUuid": "e289fe626ccf425f9b76888b557f29e3",
-        "horaInicio": "11/07/2025, 19:17:58",
-        "horaRespuesta": "11/07/2025, 19:21:01",
-        "demoraFormateada": "0h 3m 3s",
-        "demoraMs": 183000,
-        "demoraMinutos": "3.05",
-        "mensajeInicio": "Viviana",
-        "mensajeRespuesta": "holi"
-      },
-      {
-        "contactoUuid": "e289fe626ccf425f9b76888b557f29e3",
-        "horaInicio": "11/07/2025, 19:24:36",
-        "horaRespuesta": "11/07/2025, 19:32:28",
-        "demoraFormateada": "0h 7m 52s",
-        "demoraMs": 472000,
-        "demoraMinutos": "7.87",
-        "mensajeInicio": "Viviana",
-        "mensajeRespuesta": "viviggoat"
-      },
-      {
-        "contactoUuid": "e289fe626ccf425f9b76888b557f29e3",
-        "horaInicio": "11/07/2025, 20:19:15",
-        "horaRespuesta": "11/07/2025, 20:19:47",
-        "demoraFormateada": "0h 0m 32s",
-        "demoraMs": 32000,
-        "demoraMinutos": "0.53",
-        "mensajeInicio": "Hola quiero realizar una carga",
-        "mensajeRespuesta": "📌Datos: \nHAEDO MARIA BELEN UALA\n00000079002741970..."
-      },
-      {
-        "contactoUuid": "e289fe626ccf425f9b76888b557f29e3",
-        "horaInicio": "11/07/2025, 20:40:04",
-        "horaRespuesta": "11/07/2025, 20:43:41",
-        "demoraFormateada": "0h 3m 37s",
-        "demoraMs": 217000,
-        "demoraMinutos": "3.62",
-        "mensajeInicio": "",
-        "mensajeRespuesta": "Exelente!!\n\nAhora te pido que envies tu USUAR1O y ..."
+        "contactoUuid": "c26e0af95c234482822d2d71ecd055a1",
+        "horaInicio": "12/07/2025, 15:32:09",
+        "horaRespuesta": "12/07/2025, 15:34:15",
+        "demoraFormateada": "0h 2m 6s",
+        "demoraMs": 126000,
+        "demoraMinutos": "2.10",
+        "mensajeInicio": "Hola me ases una carga mínima",
+        "mensajeRespuesta": "tiene que comunicarse con la otra linea "
       },
       {
         "contactoUuid": "e289fe626ccf425f9b76888b557f29e3",
@@ -3639,56 +3637,6 @@
         "demoraFormateada": "0h 3m 52s",
         "demoraMs": 232000,
         "demoraMinutos": "3.87",
-        "mensajeInicio": "",
-        "mensajeRespuesta": "Joya!!\n\nAhora enviales el USUAR1O y  el COMPROBANT..."
-      },
-      {
-        "contactoUuid": "bc2b38253ebe4404b2074529c5b89788",
-        "horaInicio": "11/07/2025, 17:41:52",
-        "horaRespuesta": "11/07/2025, 17:46:05",
-        "demoraFormateada": "0h 4m 13s",
-        "demoraMs": 253000,
-        "demoraMinutos": "4.22",
-        "mensajeInicio": "Natalia",
-        "mensajeRespuesta": "👋 ¡Bienvenido a la mejor experiencia de entreteni..."
-      },
-      {
-        "contactoUuid": "bc2b38253ebe4404b2074529c5b89788",
-        "horaInicio": "11/07/2025, 17:46:40",
-        "horaRespuesta": "11/07/2025, 17:47:04",
-        "demoraFormateada": "0h 0m 24s",
-        "demoraMs": 24000,
-        "demoraMinutos": "0.40",
-        "mensajeInicio": "Natalia",
-        "mensajeRespuesta": "hola123"
-      },
-      {
-        "contactoUuid": "bc2b38253ebe4404b2074529c5b89788",
-        "horaInicio": "11/07/2025, 17:48:59",
-        "horaRespuesta": "11/07/2025, 17:52:25",
-        "demoraFormateada": "0h 3m 26s",
-        "demoraMs": 206000,
-        "demoraMinutos": "3.43",
-        "mensajeInicio": "Cbu",
-        "mensajeRespuesta": "👉Cargue con los siguientes datos:\n000000790020233..."
-      },
-      {
-        "contactoUuid": "bc2b38253ebe4404b2074529c5b89788",
-        "horaInicio": "11/07/2025, 17:56:44",
-        "horaRespuesta": "11/07/2025, 17:57:56",
-        "demoraFormateada": "0h 1m 12s",
-        "demoraMs": 72000,
-        "demoraMinutos": "1.20",
-        "mensajeInicio": "Así lo copio",
-        "mensajeRespuesta": "0000007900202339390225"
-      },
-      {
-        "contactoUuid": "bc2b38253ebe4404b2074529c5b89788",
-        "horaInicio": "11/07/2025, 18:00:42",
-        "horaRespuesta": "11/07/2025, 18:01:19",
-        "demoraFormateada": "0h 0m 37s",
-        "demoraMs": 37000,
-        "demoraMinutos": "0.62",
         "mensajeInicio": "",
         "mensajeRespuesta": "Joya!!\n\nAhora enviales el USUAR1O y  el COMPROBANT..."
       },
@@ -5613,12 +5561,12 @@
         "mensajeRespuesta": "¡Gracias por comunicarte con nosotros! Ya podés de..."
       }
     ],
-    "promedioGeneralMinutos": "1.69",
-    "promedioGeneralFormateado": "0h 1m 41s",
-    "totalDemorasAnalizadas": 434
+    "promedioGeneralMinutos": "1.66",
+    "promedioGeneralFormateado": "0h 1m 39s",
+    "totalDemorasAnalizadas": 431
   },
   "Panel Escaloneta": {
-    "conversaciones": 67,
+    "conversaciones": 68,
     "veces_c4rgado": 0,
     "veces_frase_cierre": 2,
     "demoras_leves": {
@@ -8356,7 +8304,7 @@
     "totalDemorasAnalizadas": 147
   },
   "Panel SimonP": {
-    "conversaciones": 126,
+    "conversaciones": 125,
     "veces_c4rgado": 0,
     "veces_frase_cierre": 24,
     "demoras_leves": {
@@ -8825,12 +8773,6 @@
         "promedioFormateado": "0h 0m 40s",
         "promedioMinutos": "0.68",
         "cantidadMensajes": 4
-      },
-      {
-        "contactoUuid": "d8bbf0aca5da4c0a857842927eacbd36",
-        "promedioFormateado": "0h 0m 2s",
-        "promedioMinutos": "0.03",
-        "cantidadMensajes": 1
       },
       {
         "contactoUuid": "d8bbf0aca5da4c0a857842927eacbd36",
@@ -10597,16 +10539,6 @@
         "mensajeRespuesta": " ⭐ ¡Bienvenid@ a COC0S! ⭐\n\n🎁 Con tu primera CARG4..."
       },
       {
-        "contactoUuid": "d8bbf0aca5da4c0a857842927eacbd36",
-        "horaInicio": "11/07/2025, 01:35:12",
-        "horaRespuesta": "11/07/2025, 01:35:14",
-        "demoraFormateada": "0h 0m 2s",
-        "demoraMs": 2000,
-        "demoraMinutos": "0.03",
-        "mensajeInicio": "Das para probar sin depósito o no",
-        "mensajeRespuesta": " ⭐ ¡Bienvenid@ a COC0S! ⭐\n\n🎁 Con tu primera CARG4..."
-      },
-      {
         "contactoUuid": "7ba31fb0835c4fbb9cdf6d1912d21fac",
         "horaInicio": "11/07/2025, 01:32:10",
         "horaRespuesta": "11/07/2025, 01:33:38",
@@ -11047,16 +10979,16 @@
         "mensajeRespuesta": "Perfecto! Para que se te acrediten las f1chas reen..."
       }
     ],
-    "promedioGeneralMinutos": "2.56",
-    "promedioGeneralFormateado": "0h 2m 33s",
-    "totalDemorasAnalizadas": 211
+    "promedioGeneralMinutos": "2.57",
+    "promedioGeneralFormateado": "0h 2m 34s",
+    "totalDemorasAnalizadas": 210
   },
   "Cocan": {
-    "conversaciones": 259,
+    "conversaciones": 262,
     "veces_c4rgado": 0,
     "veces_frase_cierre": 83,
     "demoras_leves": {
-      "cantidad": 6,
+      "cantidad": 5,
       "detalles": [
         {
           "contactoUuid": "d213f690c6da41d2b62294bd46683f60",
@@ -11099,16 +11031,6 @@
           "mensajeRespuesta": "¡Gracias por comunicarte con nosotros! Ya podés de..."
         },
         {
-          "contactoUuid": "6fd380bb9c934290a763663f85e85957",
-          "horaInicio": "11/07/2025, 17:42:02",
-          "horaRespuesta": "11/07/2025, 17:47:08",
-          "demoraFormateada": "0h 5m 6s",
-          "demoraMs": 306000,
-          "demoraMinutos": "5.10",
-          "mensajeInicio": "👍",
-          "mensajeRespuesta": "¡Gracias por comunicarte con nosotros! Ya podés de..."
-        },
-        {
           "contactoUuid": "6c0e2e458e834a15907d456d3e497a4b",
           "horaInicio": "11/07/2025, 00:33:13",
           "horaRespuesta": "11/07/2025, 00:40:27",
@@ -11134,14 +11056,14 @@
           "mensajeRespuesta": "beunas! perdon por la demora"
         },
         {
-          "contactoUuid": "6fd380bb9c934290a763663f85e85957",
-          "horaInicio": "11/07/2025, 04:13:14",
-          "horaRespuesta": "11/07/2025, 05:30:48",
-          "demoraFormateada": "1h 17m 34s",
-          "demoraMs": 4654000,
-          "demoraMinutos": "77.57",
-          "mensajeInicio": "👍",
-          "mensajeRespuesta": "te dejo nuestro numero principal para cuando quier..."
+          "contactoUuid": "60777be6f8c94707a273449782d9737b",
+          "horaInicio": "11/07/2025, 20:55:05",
+          "horaRespuesta": "11/07/2025, 21:30:37",
+          "demoraFormateada": "0h 35m 32s",
+          "demoraMs": 2132000,
+          "demoraMinutos": "35.53",
+          "mensajeInicio": "Si",
+          "mensajeRespuesta": "beunas! perdon por la demora"
         },
         {
           "contactoUuid": "6fd380bb9c934290a763663f85e85957",
@@ -11271,6 +11193,12 @@
         "cantidadMensajes": 2
       },
       {
+        "contactoUuid": "37d0b5443afc486bb7a5246081d1fd6f",
+        "promedioFormateado": "0h 1m 59s",
+        "promedioMinutos": "1.98",
+        "cantidadMensajes": 2
+      },
+      {
         "contactoUuid": "8bf30ded3f7541edbd2828436f27d576",
         "promedioFormateado": "0h 1m 6s",
         "promedioMinutos": "1.10",
@@ -11332,9 +11260,9 @@
       },
       {
         "contactoUuid": "5685616152804a3fa4bf4b0043eb7a9e",
-        "promedioFormateado": "0h 0m 35s",
-        "promedioMinutos": "0.58",
-        "cantidadMensajes": 1
+        "promedioFormateado": "0h 1m 13s",
+        "promedioMinutos": "1.23",
+        "cantidadMensajes": 4
       },
       {
         "contactoUuid": "746c78342f214375b0ef4162d2f777aa",
@@ -11383,6 +11311,12 @@
         "promedioFormateado": "0h 1m 36s",
         "promedioMinutos": "1.60",
         "cantidadMensajes": 3
+      },
+      {
+        "contactoUuid": "a431f5e72e8e4646a6fb9cfcf9246a18",
+        "promedioFormateado": "0h 1m 39s",
+        "promedioMinutos": "1.65",
+        "cantidadMensajes": 1
       },
       {
         "contactoUuid": "a431f5e72e8e4646a6fb9cfcf9246a18",
@@ -11479,6 +11413,12 @@
         "promedioFormateado": "0h 0m 32s",
         "promedioMinutos": "0.53",
         "cantidadMensajes": 3
+      },
+      {
+        "contactoUuid": "60777be6f8c94707a273449782d9737b",
+        "promedioFormateado": "0h 18m 7s",
+        "promedioMinutos": "18.12",
+        "cantidadMensajes": 2
       },
       {
         "contactoUuid": "60777be6f8c94707a273449782d9737b",
@@ -11913,12 +11853,6 @@
         "cantidadMensajes": 7
       },
       {
-        "contactoUuid": "6fd380bb9c934290a763663f85e85957",
-        "promedioFormateado": "0h 12m 44s",
-        "promedioMinutos": "12.75",
-        "cantidadMensajes": 7
-      },
-      {
         "contactoUuid": "6fc6d00aaec544f784f8c347d6a12d32",
         "promedioFormateado": "0h 1m 19s",
         "promedioMinutos": "1.33",
@@ -12205,12 +12139,6 @@
         "promedioFormateado": "0h 1m 12s",
         "promedioMinutos": "1.20",
         "cantidadMensajes": 2
-      },
-      {
-        "contactoUuid": "d68a7492c0e848bea2b75d4c249903fb",
-        "promedioFormateado": "0h 0m 24s",
-        "promedioMinutos": "0.40",
-        "cantidadMensajes": 1
       },
       {
         "contactoUuid": "d68a7492c0e848bea2b75d4c249903fb",
@@ -12743,6 +12671,26 @@
         "mensajeRespuesta": "vanesa.876.deseo.mp"
       },
       {
+        "contactoUuid": "37d0b5443afc486bb7a5246081d1fd6f",
+        "horaInicio": "11/07/2025, 23:06:47",
+        "horaRespuesta": "11/07/2025, 23:08:02",
+        "demoraFormateada": "0h 1m 15s",
+        "demoraMs": 75000,
+        "demoraMinutos": "1.25",
+        "mensajeInicio": "Daniel",
+        "mensajeRespuesta": "👤 Tu cuenta está lista! ✨\n\nhttps://cokanfun.verce..."
+      },
+      {
+        "contactoUuid": "37d0b5443afc486bb7a5246081d1fd6f",
+        "horaInicio": "11/07/2025, 23:08:39",
+        "horaRespuesta": "11/07/2025, 23:11:22",
+        "demoraFormateada": "0h 2m 43s",
+        "demoraMs": 163000,
+        "demoraMinutos": "2.72",
+        "mensajeInicio": "Si",
+        "mensajeRespuesta": "vanesa.876.deseo.mp"
+      },
+      {
         "contactoUuid": "8bf30ded3f7541edbd2828436f27d576",
         "horaInicio": "11/07/2025, 23:02:48",
         "horaRespuesta": "11/07/2025, 23:03:54",
@@ -13013,6 +12961,36 @@
         "mensajeRespuesta": "👋 ¡Bienvenid@! 🥳\n✨ SOMOS SILVERPL4Y✨\n\n🎁 5OO en ..."
       },
       {
+        "contactoUuid": "5685616152804a3fa4bf4b0043eb7a9e",
+        "horaInicio": "12/07/2025, 11:47:10",
+        "horaRespuesta": "12/07/2025, 11:47:29",
+        "demoraFormateada": "0h 0m 19s",
+        "demoraMs": 19000,
+        "demoraMinutos": "0.32",
+        "mensajeInicio": "Me dejas cbu para cargar",
+        "mensajeRespuesta": "Hola buenas como estas? 👋🍀\n"
+      },
+      {
+        "contactoUuid": "5685616152804a3fa4bf4b0043eb7a9e",
+        "horaInicio": "12/07/2025, 11:48:39",
+        "horaRespuesta": "12/07/2025, 11:49:28",
+        "demoraFormateada": "0h 0m 49s",
+        "demoraMs": 49000,
+        "demoraMinutos": "0.82",
+        "mensajeInicio": "",
+        "mensajeRespuesta": "\n\n💫 ¡Tu B0NUS está listo para activarse!\n\nAhora t..."
+      },
+      {
+        "contactoUuid": "5685616152804a3fa4bf4b0043eb7a9e",
+        "horaInicio": "12/07/2025, 11:49:37",
+        "horaRespuesta": "12/07/2025, 11:52:48",
+        "demoraFormateada": "0h 3m 11s",
+        "demoraMs": 191000,
+        "demoraMinutos": "3.18",
+        "mensajeInicio": "Gracias",
+        "mensajeRespuesta": "¡Gracias por comunicarte con nosotros! Ya podés de..."
+      },
+      {
         "contactoUuid": "746c78342f214375b0ef4162d2f777aa",
         "horaInicio": "11/07/2025, 22:24:23",
         "horaRespuesta": "11/07/2025, 22:25:47",
@@ -13211,6 +13189,16 @@
         "demoraMinutos": "0.23",
         "mensajeInicio": "",
         "mensajeRespuesta": "\n\n💫 ¡Tu B0NUS está listo para activarse!\n\nAhora t..."
+      },
+      {
+        "contactoUuid": "a431f5e72e8e4646a6fb9cfcf9246a18",
+        "horaInicio": "11/07/2025, 22:10:46",
+        "horaRespuesta": "11/07/2025, 22:12:25",
+        "demoraFormateada": "0h 1m 39s",
+        "demoraMs": 99000,
+        "demoraMinutos": "1.65",
+        "mensajeInicio": "Hola buenas mí nombre es irina",
+        "mensajeRespuesta": "Querés activ4r tu b0n0 y empezar a g4n4r☘️🚀\nte pa..."
       },
       {
         "contactoUuid": "a431f5e72e8e4646a6fb9cfcf9246a18",
@@ -13571,6 +13559,26 @@
         "demoraMinutos": "0.32",
         "mensajeInicio": "Gabriela romero",
         "mensajeRespuesta": "\n\n💫 ¡Tu B0NUS está listo para activarse!\n\nAhora t..."
+      },
+      {
+        "contactoUuid": "60777be6f8c94707a273449782d9737b",
+        "horaInicio": "11/07/2025, 20:53:22",
+        "horaRespuesta": "11/07/2025, 20:54:04",
+        "demoraFormateada": "0h 0m 42s",
+        "demoraMs": 42000,
+        "demoraMinutos": "0.70",
+        "mensajeInicio": "Brisa",
+        "mensajeRespuesta": "👤 Tu cuenta está lista! ✨\n\nhttps://cokanfun.verce..."
+      },
+      {
+        "contactoUuid": "60777be6f8c94707a273449782d9737b",
+        "horaInicio": "11/07/2025, 20:55:05",
+        "horaRespuesta": "11/07/2025, 21:30:37",
+        "demoraFormateada": "0h 35m 32s",
+        "demoraMs": 2132000,
+        "demoraMinutos": "35.53",
+        "mensajeInicio": "Si",
+        "mensajeRespuesta": "beunas! perdon por la demora"
       },
       {
         "contactoUuid": "60777be6f8c94707a273449782d9737b",
@@ -15393,76 +15401,6 @@
         "mensajeRespuesta": "¡Gracias por comunicarte con nosotros! Ya podés de..."
       },
       {
-        "contactoUuid": "6fd380bb9c934290a763663f85e85957",
-        "horaInicio": "11/07/2025, 04:08:46",
-        "horaRespuesta": "11/07/2025, 04:09:09",
-        "demoraFormateada": "0h 0m 23s",
-        "demoraMs": 23000,
-        "demoraMinutos": "0.38",
-        "mensajeInicio": "No tengo ahora Pero haceme u usuario",
-        "mensajeRespuesta": "dale! por esta única vez como bienvenida vamos a h..."
-      },
-      {
-        "contactoUuid": "6fd380bb9c934290a763663f85e85957",
-        "horaInicio": "11/07/2025, 04:10:40",
-        "horaRespuesta": "11/07/2025, 04:12:35",
-        "demoraFormateada": "0h 1m 55s",
-        "demoraMs": 115000,
-        "demoraMinutos": "1.92",
-        "mensajeInicio": "No tengo nada si estoy buscando otras plataformas ...",
-        "mensajeRespuesta": "bueno, nosotros no somos estafadores, para cuando ..."
-      },
-      {
-        "contactoUuid": "6fd380bb9c934290a763663f85e85957",
-        "horaInicio": "11/07/2025, 04:13:14",
-        "horaRespuesta": "11/07/2025, 05:30:48",
-        "demoraFormateada": "1h 17m 34s",
-        "demoraMs": 4654000,
-        "demoraMinutos": "77.57",
-        "mensajeInicio": "👍",
-        "mensajeRespuesta": "te dejo nuestro numero principal para cuando quier..."
-      },
-      {
-        "contactoUuid": "6fd380bb9c934290a763663f85e85957",
-        "horaInicio": "11/07/2025, 17:32:40",
-        "horaRespuesta": "11/07/2025, 17:36:37",
-        "demoraFormateada": "0h 3m 57s",
-        "demoraMs": 237000,
-        "demoraMinutos": "3.95",
-        "mensajeInicio": "Hola",
-        "mensajeRespuesta": "Hola buenas como estas? 👋🍀\n"
-      },
-      {
-        "contactoUuid": "6fd380bb9c934290a763663f85e85957",
-        "horaInicio": "11/07/2025, 17:39:12",
-        "horaRespuesta": "11/07/2025, 17:39:29",
-        "demoraFormateada": "0h 0m 17s",
-        "demoraMs": 17000,
-        "demoraMinutos": "0.28",
-        "mensajeInicio": "Dale ahí te mando 700 es lo único q tengo",
-        "mensajeRespuesta": "perfecto!!🤩🍀"
-      },
-      {
-        "contactoUuid": "6fd380bb9c934290a763663f85e85957",
-        "horaInicio": "11/07/2025, 17:41:38",
-        "horaRespuesta": "11/07/2025, 17:41:39",
-        "demoraFormateada": "0h 0m 1s",
-        "demoraMs": 1000,
-        "demoraMinutos": "0.02",
-        "mensajeInicio": "Ahí esta",
-        "mensajeRespuesta": "\n\n💫 ¡Tu B0NUS está listo para activarse!\n\nAhora t..."
-      },
-      {
-        "contactoUuid": "6fd380bb9c934290a763663f85e85957",
-        "horaInicio": "11/07/2025, 17:42:02",
-        "horaRespuesta": "11/07/2025, 17:47:08",
-        "demoraFormateada": "0h 5m 6s",
-        "demoraMs": 306000,
-        "demoraMinutos": "5.10",
-        "mensajeInicio": "👍",
-        "mensajeRespuesta": "¡Gracias por comunicarte con nosotros! Ya podés de..."
-      },
-      {
         "contactoUuid": "6fc6d00aaec544f784f8c347d6a12d32",
         "horaInicio": "11/07/2025, 04:18:04",
         "horaRespuesta": "11/07/2025, 04:21:04",
@@ -16683,16 +16621,6 @@
         "mensajeRespuesta": "👋 ¡Bienvenid@! 🥳\n✨ SOMOS SILVERPL4Y✨\n\n🎁 5OO en ..."
       },
       {
-        "contactoUuid": "d68a7492c0e848bea2b75d4c249903fb",
-        "horaInicio": "11/07/2025, 01:15:25",
-        "horaRespuesta": "11/07/2025, 01:15:49",
-        "demoraFormateada": "0h 0m 24s",
-        "demoraMs": 24000,
-        "demoraMinutos": "0.40",
-        "mensajeInicio": "Las fichas son sin cargar?",
-        "mensajeRespuesta": "👋 ¡Bienvenid@! 🥳\n✨ SOMOS SILVERPL4Y✨\n\n🎁 5OO en ..."
-      },
-      {
         "contactoUuid": "2bea11ef77b343bb817f60f54db7203f",
         "horaInicio": "11/07/2025, 01:15:18",
         "horaRespuesta": "11/07/2025, 01:15:44",
@@ -17253,8 +17181,8 @@
         "mensajeRespuesta": "👋 ¡Bienvenid@! 🥳\n✨ SOMOS SILVERPL4Y✨\n\n🎁 5OO en ..."
       }
     ],
-    "promedioGeneralMinutos": "1.55",
-    "promedioGeneralFormateado": "0h 1m 32s",
+    "promedioGeneralMinutos": "1.46",
+    "promedioGeneralFormateado": "0h 1m 27s",
     "totalDemorasAnalizadas": 493
   },
   "Panel Godzilla": {
@@ -17403,6 +17331,12 @@
         "contactoUuid": "bb0514acca264c06b57ad24f9a4a441a",
         "promedioFormateado": "0h 2m 35s",
         "promedioMinutos": "2.58",
+        "cantidadMensajes": 1
+      },
+      {
+        "contactoUuid": "1aa356e3791c490c97db66e02c10fb45",
+        "promedioFormateado": "0h 2m 26s",
+        "promedioMinutos": "2.43",
         "cantidadMensajes": 1
       },
       {
@@ -17814,12 +17748,6 @@
         "cantidadMensajes": 2
       },
       {
-        "contactoUuid": "2428de9de06547dfba599a1fe21d0b28",
-        "promedioFormateado": "0h 0m 57s",
-        "promedioMinutos": "0.95",
-        "cantidadMensajes": 2
-      },
-      {
         "contactoUuid": "dd4fff52e429486e89aa2bde3d9e9c78",
         "promedioFormateado": "0h 1m 10s",
         "promedioMinutos": "1.18",
@@ -18134,6 +18062,16 @@
         "demoraMinutos": "2.58",
         "mensajeInicio": "Danii",
         "mensajeRespuesta": "🎉 ¡Bienvenid@!\nArrancás con 1000 F1CHAS DE REGAL0..."
+      },
+      {
+        "contactoUuid": "1aa356e3791c490c97db66e02c10fb45",
+        "horaInicio": "11/07/2025, 22:30:53",
+        "horaRespuesta": "11/07/2025, 22:33:19",
+        "demoraFormateada": "0h 2m 26s",
+        "demoraMs": 146000,
+        "demoraMinutos": "2.43",
+        "mensajeInicio": "Hola buenas noches",
+        "mensajeRespuesta": "somos pl4taforma tigeer, me diria su nombre y le c..."
       },
       {
         "contactoUuid": "1aa356e3791c490c97db66e02c10fb45",
@@ -19036,26 +18974,6 @@
         "mensajeRespuesta": "le podemos hacer la excepcion de carg4 de 1.000 pe..."
       },
       {
-        "contactoUuid": "2428de9de06547dfba599a1fe21d0b28",
-        "horaInicio": "11/07/2025, 04:38:42",
-        "horaRespuesta": "11/07/2025, 04:38:47",
-        "demoraFormateada": "0h 0m 5s",
-        "demoraMs": 5000,
-        "demoraMinutos": "0.08",
-        "mensajeInicio": "Walter mi nombre",
-        "mensajeRespuesta": "\n🎉 ¡Bienvenid@!\nEstás en el lugar donde cada JUG4..."
-      },
-      {
-        "contactoUuid": "2428de9de06547dfba599a1fe21d0b28",
-        "horaInicio": "11/07/2025, 04:41:40",
-        "horaRespuesta": "11/07/2025, 04:43:29",
-        "demoraFormateada": "0h 1m 49s",
-        "demoraMs": 109000,
-        "demoraMinutos": "1.82",
-        "mensajeInicio": "Ygual",
-        "mensajeRespuesta": "le podemos hacer la excepcion de carg4 de 1.000 pe..."
-      },
-      {
         "contactoUuid": "dd4fff52e429486e89aa2bde3d9e9c78",
         "horaInicio": "11/07/2025, 04:24:14",
         "horaRespuesta": "11/07/2025, 04:26:31",
@@ -19376,17 +19294,27 @@
         "mensajeRespuesta": "Genial!🤩 Por último te pido reenvies tu usuari0 y..."
       }
     ],
-    "promedioGeneralMinutos": "1.45",
-    "promedioGeneralFormateado": "0h 1m 27s",
-    "totalDemorasAnalizadas": 141
+    "promedioGeneralMinutos": "1.47",
+    "promedioGeneralFormateado": "0h 1m 28s",
+    "totalDemorasAnalizadas": 140
   },
   "Panel Raven": {
     "conversaciones": 51,
     "veces_c4rgado": 0,
     "veces_frase_cierre": 22,
     "demoras_leves": {
-      "cantidad": 1,
+      "cantidad": 2,
       "detalles": [
+        {
+          "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
+          "horaInicio": "12/07/2025, 13:24:05",
+          "horaRespuesta": "12/07/2025, 13:29:30",
+          "demoraFormateada": "0h 5m 25s",
+          "demoraMs": 325000,
+          "demoraMinutos": "5.42",
+          "mensajeInicio": "✅ Verificación: Línea activa, por favor confirma s...",
+          "mensajeRespuesta": "si"
+        },
         {
           "contactoUuid": "83b08a0f2194421f926c4d54784bd5eb",
           "horaInicio": "11/07/2025, 12:46:38",
@@ -19414,12 +19342,12 @@
         },
         {
           "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-          "horaInicio": "12/07/2025, 10:24:05",
-          "horaRespuesta": "12/07/2025, 10:41:26",
-          "demoraFormateada": "0h 17m 21s",
-          "demoraMs": 1041000,
-          "demoraMinutos": "17.35",
-          "mensajeInicio": "🛠️ Test de conexión: ¿La línea está estable? Resp...",
+          "horaInicio": "12/07/2025, 15:44:04",
+          "horaRespuesta": "12/07/2025, 16:01:12",
+          "demoraFormateada": "0h 17m 8s",
+          "demoraMs": 1028000,
+          "demoraMinutos": "17.13",
+          "mensajeInicio": "📝 Chequeo de conexión: ¿Tu línea está activa? Res...",
           "mensajeRespuesta": "si"
         }
       ]
@@ -19499,9 +19427,9 @@
       },
       {
         "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "promedioFormateado": "0h 3m 32s",
-        "promedioMinutos": "3.55",
-        "cantidadMensajes": 10
+        "promedioFormateado": "0h 3m 41s",
+        "promedioMinutos": "3.69",
+        "cantidadMensajes": 9
       },
       {
         "contactoUuid": "836e2702a0ad4a5994e10777d5e83a77",
@@ -20075,102 +20003,92 @@
       },
       {
         "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "horaInicio": "12/07/2025, 07:44:05",
-        "horaRespuesta": "12/07/2025, 07:46:09",
-        "demoraFormateada": "0h 2m 4s",
-        "demoraMs": 124000,
-        "demoraMinutos": "2.07",
-        "mensajeInicio": "🔍 Confirmación de actividad: Por favor responde s...",
+        "horaInicio": "12/07/2025, 12:44:24",
+        "horaRespuesta": "12/07/2025, 12:44:38",
+        "demoraFormateada": "0h 0m 14s",
+        "demoraMs": 14000,
+        "demoraMinutos": "0.23",
+        "mensajeInicio": "📱 Confirmación de conexión: ¿Todo bien por tu lad...",
         "mensajeRespuesta": "si"
       },
       {
         "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "horaInicio": "12/07/2025, 08:04:05",
-        "horaRespuesta": "12/07/2025, 08:04:56",
-        "demoraFormateada": "0h 0m 51s",
-        "demoraMs": 51000,
-        "demoraMinutos": "0.85",
-        "mensajeInicio": "🔔 Prueba de sistema: Verificando estado, responde...",
+        "horaInicio": "12/07/2025, 13:24:05",
+        "horaRespuesta": "12/07/2025, 13:29:30",
+        "demoraFormateada": "0h 5m 25s",
+        "demoraMs": 325000,
+        "demoraMinutos": "5.42",
+        "mensajeInicio": "✅ Verificación: Línea activa, por favor confirma s...",
         "mensajeRespuesta": "si"
       },
       {
         "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "horaInicio": "12/07/2025, 08:24:05",
-        "horaRespuesta": "12/07/2025, 08:26:53",
-        "demoraFormateada": "0h 2m 48s",
-        "demoraMs": 168000,
-        "demoraMinutos": "2.80",
-        "mensajeInicio": "🛠️ Confirmación de sistema: ¿Está todo funcionand...",
+        "horaInicio": "12/07/2025, 13:44:05",
+        "horaRespuesta": "12/07/2025, 13:44:30",
+        "demoraFormateada": "0h 0m 25s",
+        "demoraMs": 25000,
+        "demoraMinutos": "0.42",
+        "mensajeInicio": "💬 Test de sistema: ¿Todo en orden? Responde si pu...",
         "mensajeRespuesta": "si"
       },
       {
         "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "horaInicio": "12/07/2025, 08:44:06",
-        "horaRespuesta": "12/07/2025, 08:47:10",
-        "demoraFormateada": "0h 3m 4s",
-        "demoraMs": 184000,
-        "demoraMinutos": "3.07",
-        "mensajeInicio": "✅ Verificación activa: ¿Todo bien por tu lado? Res...",
+        "horaInicio": "12/07/2025, 14:04:04",
+        "horaRespuesta": "12/07/2025, 14:06:21",
+        "demoraFormateada": "0h 2m 17s",
+        "demoraMs": 137000,
+        "demoraMinutos": "2.28",
+        "mensajeInicio": "🔔 Test de verificación: ¿Todo bien? Responde para...",
         "mensajeRespuesta": "si"
       },
       {
         "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "horaInicio": "12/07/2025, 09:04:04",
-        "horaRespuesta": "12/07/2025, 09:04:36",
-        "demoraFormateada": "0h 0m 32s",
-        "demoraMs": 32000,
-        "demoraMinutos": "0.53",
-        "mensajeInicio": "✅ Confirmación de conexión: ¿Todo funcionando corr...",
+        "horaInicio": "12/07/2025, 14:24:05",
+        "horaRespuesta": "12/07/2025, 14:26:20",
+        "demoraFormateada": "0h 2m 15s",
+        "demoraMs": 135000,
+        "demoraMinutos": "2.25",
+        "mensajeInicio": "💬 Verificación rápida: ¿Puedes responder si la lí...",
         "mensajeRespuesta": "si"
       },
       {
         "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "horaInicio": "12/07/2025, 09:24:05",
-        "horaRespuesta": "12/07/2025, 09:25:19",
-        "demoraFormateada": "0h 1m 14s",
-        "demoraMs": 74000,
-        "demoraMinutos": "1.23",
-        "mensajeInicio": "⚙️ Test de línea: ¿Todo en orden por tu lado? Resp...",
+        "horaInicio": "12/07/2025, 14:44:05",
+        "horaRespuesta": "12/07/2025, 14:48:12",
+        "demoraFormateada": "0h 4m 7s",
+        "demoraMs": 247000,
+        "demoraMinutos": "4.12",
+        "mensajeInicio": "⚙️ Test de línea: Verificación pendiente, responde...",
         "mensajeRespuesta": "si"
       },
       {
         "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "horaInicio": "12/07/2025, 09:44:06",
-        "horaRespuesta": "12/07/2025, 09:48:02",
-        "demoraFormateada": "0h 3m 56s",
-        "demoraMs": 236000,
-        "demoraMinutos": "3.93",
-        "mensajeInicio": "📝 Verificación activa: ¿Todo en orden con tu líne...",
+        "horaInicio": "12/07/2025, 15:04:04",
+        "horaRespuesta": "12/07/2025, 15:05:05",
+        "demoraFormateada": "0h 1m 1s",
+        "demoraMs": 61000,
+        "demoraMinutos": "1.02",
+        "mensajeInicio": "🔍 Test de línea: ¿Estás operativo? Responde si qu...",
         "mensajeRespuesta": "si"
       },
       {
         "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "horaInicio": "12/07/2025, 10:04:06",
-        "horaRespuesta": "12/07/2025, 10:04:57",
-        "demoraFormateada": "0h 0m 51s",
-        "demoraMs": 51000,
-        "demoraMinutos": "0.85",
-        "mensajeInicio": "📝 Testeo de línea: Verificación completa, ¿puedes...",
+        "horaInicio": "12/07/2025, 15:24:05",
+        "horaRespuesta": "12/07/2025, 15:24:24",
+        "demoraFormateada": "0h 0m 19s",
+        "demoraMs": 19000,
+        "demoraMinutos": "0.32",
+        "mensajeInicio": "💬 Test de sistema: ¿Todo en orden? Responde si pu...",
         "mensajeRespuesta": "si"
       },
       {
         "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "horaInicio": "12/07/2025, 10:24:05",
-        "horaRespuesta": "12/07/2025, 10:41:26",
-        "demoraFormateada": "0h 17m 21s",
-        "demoraMs": 1041000,
-        "demoraMinutos": "17.35",
-        "mensajeInicio": "🛠️ Test de conexión: ¿La línea está estable? Resp...",
-        "mensajeRespuesta": "si"
-      },
-      {
-        "contactoUuid": "2dcae79f5173470e9f18bf73d7812002",
-        "horaInicio": "12/07/2025, 10:44:04",
-        "horaRespuesta": "12/07/2025, 10:46:51",
-        "demoraFormateada": "0h 2m 47s",
-        "demoraMs": 167000,
-        "demoraMinutos": "2.78",
-        "mensajeInicio": "🛠️ Testeo rápido: ¿Línea activa? Responde si pued...",
+        "horaInicio": "12/07/2025, 15:44:04",
+        "horaRespuesta": "12/07/2025, 16:01:12",
+        "demoraFormateada": "0h 17m 8s",
+        "demoraMs": 1028000,
+        "demoraMinutos": "17.13",
+        "mensajeInicio": "📝 Chequeo de conexión: ¿Tu línea está activa? Res...",
         "mensajeRespuesta": "si"
       },
       {
@@ -21004,12 +20922,12 @@
         "mensajeRespuesta": ""
       }
     ],
-    "promedioGeneralMinutos": "1.69",
-    "promedioGeneralFormateado": "0h 1m 41s",
-    "totalDemorasAnalizadas": 133
+    "promedioGeneralMinutos": "1.68",
+    "promedioGeneralFormateado": "0h 1m 40s",
+    "totalDemorasAnalizadas": 132
   },
   "Panel Rotterdam": {
-    "conversaciones": 191,
+    "conversaciones": 193,
     "veces_c4rgado": 0,
     "veces_frase_cierre": 28,
     "demoras_leves": {
@@ -24061,7 +23979,7 @@
   "Venecia": {
     "conversaciones": 174,
     "veces_c4rgado": 0,
-    "veces_frase_cierre": 47,
+    "veces_frase_cierre": 49,
     "demoras_leves": {
       "cantidad": 1,
       "detalles": [
@@ -24188,6 +24106,12 @@
         "contactoUuid": "6e8c393777084ed6b73225a4af6a7610",
         "promedioFormateado": "0h 0m 28s",
         "promedioMinutos": "0.47",
+        "cantidadMensajes": 4
+      },
+      {
+        "contactoUuid": "24771d7f59c7433391e8c7e694a0bf22",
+        "promedioFormateado": "0h 0m 29s",
+        "promedioMinutos": "0.50",
         "cantidadMensajes": 4
       },
       {
@@ -24372,9 +24296,9 @@
       },
       {
         "contactoUuid": "8aa7274fcfa44a17b2d37b27dd552b40",
-        "promedioFormateado": "0h 0m 39s",
-        "promedioMinutos": "0.65",
-        "cantidadMensajes": 1
+        "promedioFormateado": "0h 0m 55s",
+        "promedioMinutos": "0.92",
+        "cantidadMensajes": 3
       },
       {
         "contactoUuid": "a7c3dd2ceecc4544a0c2159fedf55765",
@@ -24797,6 +24721,12 @@
         "cantidadMensajes": 2
       },
       {
+        "contactoUuid": "48d35b75fda34a789a3b2b65afdd8ee7",
+        "promedioFormateado": "0h 1m 55s",
+        "promedioMinutos": "1.93",
+        "cantidadMensajes": 2
+      },
+      {
         "contactoUuid": "c6635833e1254cad995a6123e6924f8a",
         "promedioFormateado": "0h 0m 41s",
         "promedioMinutos": "0.69",
@@ -25205,6 +25135,46 @@
         "demoraFormateada": "0h 0m 43s",
         "demoraMs": 43000,
         "demoraMinutos": "0.72",
+        "mensajeInicio": "",
+        "mensajeRespuesta": "💫 ¡Tu B0NUS está listo para activarse!\n\nAhora te ..."
+      },
+      {
+        "contactoUuid": "24771d7f59c7433391e8c7e694a0bf22",
+        "horaInicio": "11/07/2025, 21:14:30",
+        "horaRespuesta": "11/07/2025, 21:15:01",
+        "demoraFormateada": "0h 0m 31s",
+        "demoraMs": 31000,
+        "demoraMinutos": "0.52",
+        "mensajeInicio": "Jorge",
+        "mensajeRespuesta": "👤 Tu cuenta está lista! ✨\n\nEnlace: https://veneci..."
+      },
+      {
+        "contactoUuid": "24771d7f59c7433391e8c7e694a0bf22",
+        "horaInicio": "11/07/2025, 21:18:06",
+        "horaRespuesta": "11/07/2025, 21:18:30",
+        "demoraFormateada": "0h 0m 24s",
+        "demoraMs": 24000,
+        "demoraMinutos": "0.40",
+        "mensajeInicio": "Si cargo me da los 1000",
+        "mensajeRespuesta": "Claro! con tu primera r3carga te damos 1000 de reg..."
+      },
+      {
+        "contactoUuid": "24771d7f59c7433391e8c7e694a0bf22",
+        "horaInicio": "11/07/2025, 21:19:06",
+        "horaRespuesta": "11/07/2025, 21:19:17",
+        "demoraFormateada": "0h 0m 11s",
+        "demoraMs": 11000,
+        "demoraMinutos": "0.18",
+        "mensajeInicio": "Para carga",
+        "mensajeRespuesta": "juan.venecia"
+      },
+      {
+        "contactoUuid": "24771d7f59c7433391e8c7e694a0bf22",
+        "horaInicio": "11/07/2025, 21:20:15",
+        "horaRespuesta": "11/07/2025, 21:21:08",
+        "demoraFormateada": "0h 0m 53s",
+        "demoraMs": 53000,
+        "demoraMinutos": "0.88",
         "mensajeInicio": "",
         "mensajeRespuesta": "💫 ¡Tu B0NUS está listo para activarse!\n\nAhora te ..."
       },
@@ -25727,6 +25697,26 @@
         "demoraMinutos": "0.65",
         "mensajeInicio": "Raúl",
         "mensajeRespuesta": "🔑 USUAR1O: rauul4x\n🔒 Contraseña: Hola12345."
+      },
+      {
+        "contactoUuid": "8aa7274fcfa44a17b2d37b27dd552b40",
+        "horaInicio": "12/07/2025, 13:15:10",
+        "horaRespuesta": "12/07/2025, 13:15:51",
+        "demoraFormateada": "0h 0m 41s",
+        "demoraMs": 41000,
+        "demoraMinutos": "0.68",
+        "mensajeInicio": "Ahí te hice la transferencia",
+        "mensajeRespuesta": "💫 ¡Tu B0NUS está listo para activarse!\n\nAhora te ..."
+      },
+      {
+        "contactoUuid": "8aa7274fcfa44a17b2d37b27dd552b40",
+        "horaInicio": "12/07/2025, 13:45:05",
+        "horaRespuesta": "12/07/2025, 13:46:31",
+        "demoraFormateada": "0h 1m 26s",
+        "demoraMs": 86000,
+        "demoraMinutos": "1.43",
+        "mensajeInicio": "No puedo entrar me da error",
+        "mensajeRespuesta": "hable al ch4t pr1ncipal por favor "
       },
       {
         "contactoUuid": "a7c3dd2ceecc4544a0c2159fedf55765",
@@ -27229,6 +27219,26 @@
         "mensajeRespuesta": "no, tenes un extra de 1000 fich4s con tu primer c4..."
       },
       {
+        "contactoUuid": "48d35b75fda34a789a3b2b65afdd8ee7",
+        "horaInicio": "11/07/2025, 00:44:09",
+        "horaRespuesta": "11/07/2025, 00:45:00",
+        "demoraFormateada": "0h 0m 51s",
+        "demoraMs": 51000,
+        "demoraMinutos": "0.85",
+        "mensajeInicio": "Joaquin",
+        "mensajeRespuesta": "🔑 USUAR1O: joaquinaranda24\n🔒 Contraseña: Hola123..."
+      },
+      {
+        "contactoUuid": "48d35b75fda34a789a3b2b65afdd8ee7",
+        "horaInicio": "11/07/2025, 01:09:38",
+        "horaRespuesta": "11/07/2025, 01:12:38",
+        "demoraFormateada": "0h 3m 0s",
+        "demoraMs": 180000,
+        "demoraMinutos": "3.00",
+        "mensajeInicio": "No había fichas gratis?",
+        "mensajeRespuesta": "no, tenes un extra de 1000 fich4s con tu primer c4..."
+      },
+      {
         "contactoUuid": "c6635833e1254cad995a6123e6924f8a",
         "horaInicio": "11/07/2025, 00:40:06",
         "horaRespuesta": "11/07/2025, 00:40:23",
@@ -27311,14 +27321,14 @@
     ],
     "promedioGeneralMinutos": "0.91",
     "promedioGeneralFormateado": "0h 0m 54s",
-    "totalDemorasAnalizadas": 248
+    "totalDemorasAnalizadas": 256
   },
   "Panel Cokesin": {
-    "conversaciones": 56,
+    "conversaciones": 58,
     "veces_c4rgado": 0,
     "veces_frase_cierre": 21,
     "demoras_leves": {
-      "cantidad": 5,
+      "cantidad": 4,
       "detalles": [
         {
           "contactoUuid": "627dd439972b41c1a79fcc65f46809d1",
@@ -27339,16 +27349,6 @@
           "demoraMinutos": "5.25",
           "mensajeInicio": "",
           "mensajeRespuesta": "Falso"
-        },
-        {
-          "contactoUuid": "736bfe42437f4d77bc562685b4b5d1c8",
-          "horaInicio": "12/07/2025, 06:24:10",
-          "horaRespuesta": "12/07/2025, 06:29:27",
-          "demoraFormateada": "0h 5m 17s",
-          "demoraMs": 317000,
-          "demoraMinutos": "5.28",
-          "mensajeInicio": "🔧 Test de actividad: Verificando línea, responde ...",
-          "mensajeRespuesta": "Aprovecha para DUPL1CAR tu primera CARG4 con nuest..."
         },
         {
           "contactoUuid": "71643514e3b04ee5bb917c01530945e5",
@@ -27441,12 +27441,6 @@
         "cantidadMensajes": 3
       },
       {
-        "contactoUuid": "736bfe42437f4d77bc562685b4b5d1c8",
-        "promedioFormateado": "0h 5m 17s",
-        "promedioMinutos": "5.28",
-        "cantidadMensajes": 1
-      },
-      {
         "contactoUuid": "2973d3a1629641cf9ab1fea5e836804f",
         "promedioFormateado": "0h 2m 46s",
         "promedioMinutos": "2.77",
@@ -27457,6 +27451,12 @@
         "promedioFormateado": "0h 23m 5s",
         "promedioMinutos": "23.08",
         "cantidadMensajes": 2
+      },
+      {
+        "contactoUuid": "21660a0aff4b4753a84f33795a864eae",
+        "promedioFormateado": "0h 1m 4s",
+        "promedioMinutos": "1.07",
+        "cantidadMensajes": 1
       },
       {
         "contactoUuid": "21660a0aff4b4753a84f33795a864eae",
@@ -27630,6 +27630,12 @@
         "contactoUuid": "582d1af8f8f74446bd192fdc54d9be05",
         "promedioFormateado": "0h 5m 8s",
         "promedioMinutos": "5.13",
+        "cantidadMensajes": 1
+      },
+      {
+        "contactoUuid": "4798cad4ef6c457687556fd715b18ae0",
+        "promedioFormateado": "0h 3m 29s",
+        "promedioMinutos": "3.48",
         "cantidadMensajes": 1
       },
       {
@@ -27895,16 +27901,6 @@
         "mensajeRespuesta": "💫 ¡Tu B0NUS está listo para activarse!\n\n\nAhora te..."
       },
       {
-        "contactoUuid": "736bfe42437f4d77bc562685b4b5d1c8",
-        "horaInicio": "12/07/2025, 06:24:10",
-        "horaRespuesta": "12/07/2025, 06:29:27",
-        "demoraFormateada": "0h 5m 17s",
-        "demoraMs": 317000,
-        "demoraMinutos": "5.28",
-        "mensajeInicio": "🔧 Test de actividad: Verificando línea, responde ...",
-        "mensajeRespuesta": "Aprovecha para DUPL1CAR tu primera CARG4 con nuest..."
-      },
-      {
         "contactoUuid": "2973d3a1629641cf9ab1fea5e836804f",
         "horaInicio": "11/07/2025, 17:57:26",
         "horaRespuesta": "11/07/2025, 17:59:13",
@@ -27942,6 +27938,16 @@
         "demoraMs": 2698000,
         "demoraMinutos": "44.97",
         "mensajeInicio": "Gaston",
+        "mensajeRespuesta": "Enlace: https://coskesin24hs-7bh4.vercel.app/\n\n\n🔑..."
+      },
+      {
+        "contactoUuid": "21660a0aff4b4753a84f33795a864eae",
+        "horaInicio": "11/07/2025, 16:16:12",
+        "horaRespuesta": "11/07/2025, 16:17:16",
+        "demoraFormateada": "0h 1m 4s",
+        "demoraMs": 64000,
+        "demoraMinutos": "1.07",
+        "mensajeInicio": "Valentin",
         "mensajeRespuesta": "Enlace: https://coskesin24hs-7bh4.vercel.app/\n\n\n🔑..."
       },
       {
@@ -28695,6 +28701,16 @@
         "mensajeRespuesta": "Enlace: https://coskesin24hs-7bh4.vercel.app/\n\n🔑 ..."
       },
       {
+        "contactoUuid": "4798cad4ef6c457687556fd715b18ae0",
+        "horaInicio": "11/07/2025, 01:33:05",
+        "horaRespuesta": "11/07/2025, 01:36:34",
+        "demoraFormateada": "0h 3m 29s",
+        "demoraMs": 209000,
+        "demoraMinutos": "3.48",
+        "mensajeInicio": "Dario",
+        "mensajeRespuesta": "Enlace: https://coskesin24hs-7bh4.vercel.app/\n\n🔑 ..."
+      },
+      {
         "contactoUuid": "f8a8226f6dcd4e0f9ed623ef78bcbfdf",
         "horaInicio": "11/07/2025, 00:58:58",
         "horaRespuesta": "11/07/2025, 01:00:40",
@@ -28825,9 +28841,9 @@
         "mensajeRespuesta": "Enlace: https://coskesin24hs-7bh4.vercel.app/\n\n🔑 ..."
       }
     ],
-    "promedioGeneralMinutos": "2.05",
-    "promedioGeneralFormateado": "0h 2m 2s",
-    "totalDemorasAnalizadas": 116
+    "promedioGeneralMinutos": "2.03",
+    "promedioGeneralFormateado": "0h 2m 1s",
+    "totalDemorasAnalizadas": 117
   },
   "Panel Miami": {
     "conversaciones": 115,
@@ -28989,7 +29005,7 @@
       ]
     },
     "demoras_graves": {
-      "cantidad": 13,
+      "cantidad": 12,
       "detalles": [
         {
           "contactoUuid": "06c1502916d54733b2040a936ba79f85",
@@ -29070,16 +29086,6 @@
           "demoraMinutos": "24.73",
           "mensajeInicio": "CBU vigente",
           "mensajeRespuesta": "0000007900209617392427"
-        },
-        {
-          "contactoUuid": "e15247c7d6984787b7c9f38d9cbf3ff1",
-          "horaInicio": "11/07/2025, 13:24:07",
-          "horaRespuesta": "11/07/2025, 13:34:30",
-          "demoraFormateada": "0h 10m 23s",
-          "demoraMs": 623000,
-          "demoraMinutos": "10.38",
-          "mensajeInicio": "Yanina",
-          "mensajeRespuesta": "👤 Tu cuenta está lista! ✨\n🔑 Usuar1o: yanina2726r..."
         },
         {
           "contactoUuid": "e15247c7d6984787b7c9f38d9cbf3ff1",
@@ -29411,12 +29417,6 @@
         "promedioFormateado": "0h 1m 10s",
         "promedioMinutos": "1.17",
         "cantidadMensajes": 3
-      },
-      {
-        "contactoUuid": "e15247c7d6984787b7c9f38d9cbf3ff1",
-        "promedioFormateado": "0h 10m 23s",
-        "promedioMinutos": "10.38",
-        "cantidadMensajes": 1
       },
       {
         "contactoUuid": "e15247c7d6984787b7c9f38d9cbf3ff1",
@@ -30505,16 +30505,6 @@
         "mensajeRespuesta": "👤 Tu cuenta está lista! ✨\n🔑 Usuar1o: yanina2726r..."
       },
       {
-        "contactoUuid": "e15247c7d6984787b7c9f38d9cbf3ff1",
-        "horaInicio": "11/07/2025, 13:24:07",
-        "horaRespuesta": "11/07/2025, 13:34:30",
-        "demoraFormateada": "0h 10m 23s",
-        "demoraMs": 623000,
-        "demoraMinutos": "10.38",
-        "mensajeInicio": "Yanina",
-        "mensajeRespuesta": "👤 Tu cuenta está lista! ✨\n🔑 Usuar1o: yanina2726r..."
-      },
-      {
         "contactoUuid": "5a9cf79bcbf9402bba40ba19e5d4a038",
         "horaInicio": "11/07/2025, 13:21:53",
         "horaRespuesta": "11/07/2025, 13:22:45",
@@ -31005,9 +30995,9 @@
         "mensajeRespuesta": "es con carga"
       }
     ],
-    "promedioGeneralMinutos": "3.65",
-    "promedioGeneralFormateado": "0h 3m 38s",
-    "totalDemorasAnalizadas": 138
+    "promedioGeneralMinutos": "3.60",
+    "promedioGeneralFormateado": "0h 3m 35s",
+    "totalDemorasAnalizadas": 137
   },
   "Open24hs": {
     "conversaciones": 45,
@@ -31106,9 +31096,9 @@
     "promedios": [
       {
         "contactoUuid": "e9cb4108f3314fc88c90b2273ee3d67c",
-        "promedioFormateado": "0h 2m 25s",
-        "promedioMinutos": "2.42",
-        "cantidadMensajes": 2
+        "promedioFormateado": "0h 2m 20s",
+        "promedioMinutos": "2.33",
+        "cantidadMensajes": 3
       },
       {
         "contactoUuid": "9c02f98bcb2f4f938384a78710d8a8bb",
@@ -31359,6 +31349,16 @@
         "demoraMinutos": "2.15",
         "mensajeInicio": "flakito",
         "mensajeRespuesta": "https://open24-g4n.vercel.app/"
+      },
+      {
+        "contactoUuid": "e9cb4108f3314fc88c90b2273ee3d67c",
+        "horaInicio": "12/07/2025, 13:38:24",
+        "horaRespuesta": "12/07/2025, 13:40:34",
+        "demoraFormateada": "0h 2m 10s",
+        "demoraMs": 130000,
+        "demoraMinutos": "2.17",
+        "mensajeInicio": "si",
+        "mensajeRespuesta": "buennas! "
       },
       {
         "contactoUuid": "9c02f98bcb2f4f938384a78710d8a8bb",
@@ -32281,14 +32281,14 @@
         "mensajeRespuesta": "PARA C4RG4R correctamente sus FICH4S envia el comp..."
       }
     ],
-    "promedioGeneralMinutos": "16.09",
-    "promedioGeneralFormateado": "0h 16m 5s",
-    "totalDemorasAnalizadas": 94
+    "promedioGeneralMinutos": "15.94",
+    "promedioGeneralFormateado": "0h 15m 56s",
+    "totalDemorasAnalizadas": 95
   },
   "Oporto": {
     "conversaciones": 522,
     "veces_c4rgado": 0,
-    "veces_frase_cierre": 87,
+    "veces_frase_cierre": 88,
     "demoras_leves": {
       "cantidad": 34,
       "detalles": [
@@ -32635,7 +32635,7 @@
       ]
     },
     "demoras_graves": {
-      "cantidad": 27,
+      "cantidad": 28,
       "detalles": [
         {
           "contactoUuid": "f5eee2dc6e564902be3bad009940ca85",
@@ -32646,6 +32646,16 @@
           "demoraMinutos": "10.43",
           "mensajeInicio": "Me mandas información de la página gracias",
           "mensajeRespuesta": "¡Bienvenid@ a  Oport0 SL0TS! 🎲\nEstamos activos co..."
+        },
+        {
+          "contactoUuid": "18b62a6bd81a42649eedc6f28dd1c549",
+          "horaInicio": "11/07/2025, 23:51:02",
+          "horaRespuesta": "12/07/2025, 00:03:39",
+          "demoraFormateada": "0h 12m 37s",
+          "demoraMs": 757000,
+          "demoraMinutos": "12.62",
+          "mensajeInicio": "Gii, es mi nombre.",
+          "mensajeRespuesta": "¡Hola! Te damos la bienvenida a Oport0 SL0TS 💎\nEs..."
         },
         {
           "contactoUuid": "18b62a6bd81a42649eedc6f28dd1c549",
@@ -32927,6 +32937,12 @@
         "promedioFormateado": "0h 1m 24s",
         "promedioMinutos": "1.40",
         "cantidadMensajes": 1
+      },
+      {
+        "contactoUuid": "18b62a6bd81a42649eedc6f28dd1c549",
+        "promedioFormateado": "0h 3m 30s",
+        "promedioMinutos": "3.50",
+        "cantidadMensajes": 5
       },
       {
         "contactoUuid": "18b62a6bd81a42649eedc6f28dd1c549",
@@ -33308,9 +33324,9 @@
       },
       {
         "contactoUuid": "4b731506439f4ca69a1631ddbe42000d",
-        "promedioFormateado": "0h 0m 24s",
-        "promedioMinutos": "0.40",
-        "cantidadMensajes": 1
+        "promedioFormateado": "0h 0m 11s",
+        "promedioMinutos": "0.19",
+        "cantidadMensajes": 2
       },
       {
         "contactoUuid": "2320bc42905a492491a3f1e7a5e42176",
@@ -33536,15 +33552,15 @@
       },
       {
         "contactoUuid": "0aecf6976a084e74bee6ee5d34161580",
-        "promedioFormateado": "0h 1m 6s",
-        "promedioMinutos": "1.11",
-        "cantidadMensajes": 5
+        "promedioFormateado": "0h 1m 19s",
+        "promedioMinutos": "1.32",
+        "cantidadMensajes": 4
       },
       {
         "contactoUuid": "3b05e3b4ad6d40da84cab671a1256cca",
-        "promedioFormateado": "0h 0m 11s",
-        "promedioMinutos": "0.18",
-        "cantidadMensajes": 1
+        "promedioFormateado": "0h 0m 32s",
+        "promedioMinutos": "0.53",
+        "cantidadMensajes": 2
       },
       {
         "contactoUuid": "c2d3de1c32ab4e87a2fbf1f5db128dd2",
@@ -33929,12 +33945,6 @@
         "promedioFormateado": "0h 0m 51s",
         "promedioMinutos": "0.86",
         "cantidadMensajes": 4
-      },
-      {
-        "contactoUuid": "4b2eae40199447dea3bce073301c1967",
-        "promedioFormateado": "0h 1m 24s",
-        "promedioMinutos": "1.41",
-        "cantidadMensajes": 2
       },
       {
         "contactoUuid": "4b2eae40199447dea3bce073301c1967",
@@ -34717,16 +34727,16 @@
         "cantidadMensajes": 1
       },
       {
+        "contactoUuid": "20c3aa4a33a94a3892d2606de6ea3d5b",
+        "promedioFormateado": "0h 0m 29s",
+        "promedioMinutos": "0.48",
+        "cantidadMensajes": 1
+      },
+      {
         "contactoUuid": "144ec13624784b95971fb1220dcd577c",
         "promedioFormateado": "0h 1m 25s",
         "promedioMinutos": "1.43",
         "cantidadMensajes": 3
-      },
-      {
-        "contactoUuid": "6d60a8e15e4a46278a74536f13fc142b",
-        "promedioFormateado": "0h 0m 2s",
-        "promedioMinutos": "0.04",
-        "cantidadMensajes": 2
       },
       {
         "contactoUuid": "6d60a8e15e4a46278a74536f13fc142b",
@@ -34997,6 +35007,56 @@
         "demoraMinutos": "1.40",
         "mensajeInicio": "?",
         "mensajeRespuesta": "¡Te damos la bienvenida a Oport0 SL0TS! 🔥\nJUG4MOS..."
+      },
+      {
+        "contactoUuid": "18b62a6bd81a42649eedc6f28dd1c549",
+        "horaInicio": "11/07/2025, 23:51:02",
+        "horaRespuesta": "12/07/2025, 00:03:39",
+        "demoraFormateada": "0h 12m 37s",
+        "demoraMs": 757000,
+        "demoraMinutos": "12.62",
+        "mensajeInicio": "Gii, es mi nombre.",
+        "mensajeRespuesta": "¡Hola! Te damos la bienvenida a Oport0 SL0TS 💎\nEs..."
+      },
+      {
+        "contactoUuid": "18b62a6bd81a42649eedc6f28dd1c549",
+        "horaInicio": "12/07/2025, 00:06:50",
+        "horaRespuesta": "12/07/2025, 00:09:05",
+        "demoraFormateada": "0h 2m 15s",
+        "demoraMs": 135000,
+        "demoraMinutos": "2.25",
+        "mensajeInicio": "Me creas usuario y m das cbu?!.",
+        "mensajeRespuesta": "Decinos tu n0mbre o algun ap0d0 asi te podemos cre..."
+      },
+      {
+        "contactoUuid": "18b62a6bd81a42649eedc6f28dd1c549",
+        "horaInicio": "12/07/2025, 00:14:42",
+        "horaRespuesta": "12/07/2025, 00:16:09",
+        "demoraFormateada": "0h 1m 27s",
+        "demoraMs": 87000,
+        "demoraMinutos": "1.45",
+        "mensajeInicio": ".",
+        "mensajeRespuesta": "USU4R10: gil9963\nCL4VE: hola123"
+      },
+      {
+        "contactoUuid": "18b62a6bd81a42649eedc6f28dd1c549",
+        "horaInicio": "12/07/2025, 00:17:33",
+        "horaRespuesta": "12/07/2025, 00:17:55",
+        "demoraFormateada": "0h 0m 22s",
+        "demoraMs": 22000,
+        "demoraMinutos": "0.37",
+        "mensajeInicio": "2000",
+        "mensajeRespuesta": "0000003100094790860807"
+      },
+      {
+        "contactoUuid": "18b62a6bd81a42649eedc6f28dd1c549",
+        "horaInicio": "12/07/2025, 00:20:56",
+        "horaRespuesta": "12/07/2025, 00:21:45",
+        "demoraFormateada": "0h 0m 49s",
+        "demoraMs": 49000,
+        "demoraMinutos": "0.82",
+        "mensajeInicio": "",
+        "mensajeRespuesta": "Para próximas C4RG4S o RET1R0S, hace click en el e..."
       },
       {
         "contactoUuid": "18b62a6bd81a42649eedc6f28dd1c549",
@@ -36530,13 +36590,23 @@
       },
       {
         "contactoUuid": "4b731506439f4ca69a1631ddbe42000d",
-        "horaInicio": "11/07/2025, 20:58:11",
-        "horaRespuesta": "11/07/2025, 20:58:35",
-        "demoraFormateada": "0h 0m 24s",
-        "demoraMs": 24000,
-        "demoraMinutos": "0.40",
-        "mensajeInicio": "Julieta",
-        "mensajeRespuesta": "¡Hola! Te damos la bienvenida a Oport0 SL0TS 💎\nEs..."
+        "horaInicio": "12/07/2025, 14:10:45",
+        "horaRespuesta": "12/07/2025, 14:10:49",
+        "demoraFormateada": "0h 0m 4s",
+        "demoraMs": 4000,
+        "demoraMinutos": "0.07",
+        "mensajeInicio": "No",
+        "mensajeRespuesta": "los numeros van junts"
+      },
+      {
+        "contactoUuid": "4b731506439f4ca69a1631ddbe42000d",
+        "horaInicio": "12/07/2025, 14:11:01",
+        "horaRespuesta": "12/07/2025, 14:11:20",
+        "demoraFormateada": "0h 0m 19s",
+        "demoraMs": 19000,
+        "demoraMinutos": "0.32",
+        "mensajeInicio": "Ya los puse",
+        "mensajeRespuesta": "Si, el nombre va junto con los numeros"
       },
       {
         "contactoUuid": "2320bc42905a492491a3f1e7a5e42176",
@@ -37420,16 +37490,6 @@
       },
       {
         "contactoUuid": "0aecf6976a084e74bee6ee5d34161580",
-        "horaInicio": "11/07/2025, 19:46:46",
-        "horaRespuesta": "11/07/2025, 19:47:01",
-        "demoraFormateada": "0h 0m 15s",
-        "demoraMs": 15000,
-        "demoraMinutos": "0.25",
-        "mensajeInicio": "CBU",
-        "mensajeRespuesta": "Te recuerdo que este CBU es de un unico uso y vali..."
-      },
-      {
-        "contactoUuid": "0aecf6976a084e74bee6ee5d34161580",
         "horaInicio": "11/07/2025, 19:49:10",
         "horaRespuesta": "11/07/2025, 19:50:12",
         "demoraFormateada": "0h 1m 2s",
@@ -37477,6 +37537,16 @@
         "demoraMinutos": "0.18",
         "mensajeInicio": "Ficha gratis para probar plataforma",
         "mensajeRespuesta": "El b0n0 de $2.000 viene incluido despues de la PRI..."
+      },
+      {
+        "contactoUuid": "3b05e3b4ad6d40da84cab671a1256cca",
+        "horaInicio": "12/07/2025, 12:45:19",
+        "horaRespuesta": "12/07/2025, 12:46:12",
+        "demoraFormateada": "0h 0m 53s",
+        "demoraMs": 53000,
+        "demoraMinutos": "0.88",
+        "mensajeInicio": "Claudio",
+        "mensajeRespuesta": "USU4R10: claudio3265\nCL4VE: hola123"
       },
       {
         "contactoUuid": "c2d3de1c32ab4e87a2fbf1f5db128dd2",
@@ -39167,26 +39237,6 @@
         "demoraMinutos": "0.65",
         "mensajeInicio": "No puedo entrar a la página",
         "mensajeRespuesta": "¡Gracias por comunicarte con nosotros! Ya podés de..."
-      },
-      {
-        "contactoUuid": "4b2eae40199447dea3bce073301c1967",
-        "horaInicio": "11/07/2025, 14:03:30",
-        "horaRespuesta": "11/07/2025, 14:04:50",
-        "demoraFormateada": "0h 1m 20s",
-        "demoraMs": 80000,
-        "demoraMinutos": "1.33",
-        "mensajeInicio": "Juan",
-        "mensajeRespuesta": "Genial, enseguida estaremos creando su usuar10"
-      },
-      {
-        "contactoUuid": "4b2eae40199447dea3bce073301c1967",
-        "horaInicio": "11/07/2025, 14:09:03",
-        "horaRespuesta": "11/07/2025, 14:10:32",
-        "demoraFormateada": "0h 1m 29s",
-        "demoraMs": 89000,
-        "demoraMinutos": "1.48",
-        "mensajeInicio": "?",
-        "mensajeRespuesta": "reintente en unos minutos "
       },
       {
         "contactoUuid": "4b2eae40199447dea3bce073301c1967",
@@ -42389,6 +42439,16 @@
         "mensajeRespuesta": "https://oropuro.vip/\n\n\nPara CARG4R SALD0, es media..."
       },
       {
+        "contactoUuid": "20c3aa4a33a94a3892d2606de6ea3d5b",
+        "horaInicio": "11/07/2025, 00:56:59",
+        "horaRespuesta": "11/07/2025, 00:57:28",
+        "demoraFormateada": "0h 0m 29s",
+        "demoraMs": 29000,
+        "demoraMinutos": "0.48",
+        "mensajeInicio": "me armas mi usuario",
+        "mensajeRespuesta": "https://oropuro.vip/\n\n\nPara CARG4R SALD0, es media..."
+      },
+      {
         "contactoUuid": "144ec13624784b95971fb1220dcd577c",
         "horaInicio": "11/07/2025, 00:55:08",
         "horaRespuesta": "11/07/2025, 00:55:57",
@@ -42417,26 +42477,6 @@
         "demoraMinutos": "3.20",
         "mensajeInicio": "",
         "mensajeRespuesta": "¡CARG4DO ¡Te deseo buena suerte!🍀\nhttps://oporto-..."
-      },
-      {
-        "contactoUuid": "6d60a8e15e4a46278a74536f13fc142b",
-        "horaInicio": "11/07/2025, 00:47:56",
-        "horaRespuesta": "11/07/2025, 00:47:57",
-        "demoraFormateada": "0h 0m 1s",
-        "demoraMs": 1000,
-        "demoraMinutos": "0.02",
-        "mensajeInicio": "Ganlu",
-        "mensajeRespuesta": "¡Te damos la bienvenida a Oport0 SL0TS! 🔥\nJUG4MOS..."
-      },
-      {
-        "contactoUuid": "6d60a8e15e4a46278a74536f13fc142b",
-        "horaInicio": "11/07/2025, 00:48:11",
-        "horaRespuesta": "11/07/2025, 00:48:15",
-        "demoraFormateada": "0h 0m 4s",
-        "demoraMs": 4000,
-        "demoraMinutos": "0.07",
-        "mensajeInicio": "Ganlu",
-        "mensajeRespuesta": "USU4R10:Ganlu4836\nCL4VE:hola123"
       },
       {
         "contactoUuid": "6d60a8e15e4a46278a74536f13fc142b",
@@ -43039,14 +43079,14 @@
         "mensajeRespuesta": "USU4R10:PaabloLescano\nCL4VE:hola123"
       }
     ],
-    "promedioGeneralMinutos": "1.81",
-    "promedioGeneralFormateado": "0h 1m 48s",
-    "totalDemorasAnalizadas": 814
+    "promedioGeneralMinutos": "1.82",
+    "promedioGeneralFormateado": "0h 1m 49s",
+    "totalDemorasAnalizadas": 817
   },
   "BT300": {
-    "conversaciones": 155,
+    "conversaciones": 157,
     "veces_c4rgado": 0,
-    "veces_frase_cierre": 85,
+    "veces_frase_cierre": 86,
     "demoras_leves": {
       "cantidad": 10,
       "detalles": [
@@ -44061,6 +44101,12 @@
         "cantidadMensajes": 1
       },
       {
+        "contactoUuid": "60e088f12bf94c70ab83bea9ad39309e",
+        "promedioFormateado": "0h 3m 33s",
+        "promedioMinutos": "3.55",
+        "cantidadMensajes": 1
+      },
+      {
         "contactoUuid": "0ebdd319d57d45d6bb04afe1c1921cf6",
         "promedioFormateado": "0h 7m 9s",
         "promedioMinutos": "7.15",
@@ -44191,6 +44237,12 @@
         "promedioFormateado": "0h 16m 49s",
         "promedioMinutos": "16.82",
         "cantidadMensajes": 5
+      },
+      {
+        "contactoUuid": "745a3ee773a243dfb0938f5f0c47c40f",
+        "promedioFormateado": "0h 1m 14s",
+        "promedioMinutos": "1.24",
+        "cantidadMensajes": 2
       },
       {
         "contactoUuid": "745a3ee773a243dfb0938f5f0c47c40f",
@@ -46673,6 +46725,16 @@
         "mensajeRespuesta": "👋 ¡Bienvenido! 🥳 ✨ SOMOS B3T300 ✨\n\n✨✨ 2000 FlCH4..."
       },
       {
+        "contactoUuid": "60e088f12bf94c70ab83bea9ad39309e",
+        "horaInicio": "11/07/2025, 03:48:32",
+        "horaRespuesta": "11/07/2025, 03:52:05",
+        "demoraFormateada": "0h 3m 33s",
+        "demoraMs": 213000,
+        "demoraMinutos": "3.55",
+        "mensajeInicio": "Fichas gratis",
+        "mensajeRespuesta": "👋 ¡Bienvenido! 🥳 ✨ SOMOS B3T300 ✨\n\n✨✨ 2000 FlCH4..."
+      },
+      {
         "contactoUuid": "0ebdd319d57d45d6bb04afe1c1921cf6",
         "horaInicio": "11/07/2025, 03:20:23",
         "horaRespuesta": "11/07/2025, 03:20:39",
@@ -47243,6 +47305,26 @@
         "mensajeRespuesta": "3xcelente, envia tu USU4R10 Y C0MPR0B4NT3  a este ..."
       },
       {
+        "contactoUuid": "745a3ee773a243dfb0938f5f0c47c40f",
+        "horaInicio": "11/07/2025, 00:19:29",
+        "horaRespuesta": "11/07/2025, 00:20:03",
+        "demoraFormateada": "0h 0m 34s",
+        "demoraMs": 34000,
+        "demoraMinutos": "0.57",
+        "mensajeInicio": "Monchy",
+        "mensajeRespuesta": "Monchy4155\nhola123"
+      },
+      {
+        "contactoUuid": "745a3ee773a243dfb0938f5f0c47c40f",
+        "horaInicio": "11/07/2025, 00:36:19",
+        "horaRespuesta": "11/07/2025, 00:38:14",
+        "demoraFormateada": "0h 1m 55s",
+        "demoraMs": 115000,
+        "demoraMinutos": "1.92",
+        "mensajeInicio": "Olaaaaa",
+        "mensajeRespuesta": "3xcelente, envia tu USU4R10 Y C0MPR0B4NT3  a este ..."
+      },
+      {
         "contactoUuid": "b889b9d6c4fa497ba1ab24b5814b9206",
         "horaInicio": "11/07/2025, 00:25:39",
         "horaRespuesta": "11/07/2025, 00:36:54",
@@ -47443,14 +47525,14 @@
         "mensajeRespuesta": "envieme primero el comprobante"
       }
     ],
-    "promedioGeneralMinutos": "6.21",
-    "promedioGeneralFormateado": "0h 6m 12s",
-    "totalDemorasAnalizadas": 320
+    "promedioGeneralMinutos": "6.17",
+    "promedioGeneralFormateado": "0h 6m 10s",
+    "totalDemorasAnalizadas": 323
   },
   "Panel Luck": {
-    "conversaciones": 201,
+    "conversaciones": 202,
     "veces_c4rgado": 0,
-    "veces_frase_cierre": 17,
+    "veces_frase_cierre": 19,
     "demoras_leves": {
       "cantidad": 53,
       "detalles": [
@@ -47987,7 +48069,7 @@
       ]
     },
     "demoras_graves": {
-      "cantidad": 31,
+      "cantidad": 28,
       "detalles": [
         {
           "contactoUuid": "59b5293a2725425c972107d0e4a3309e",
@@ -48150,26 +48232,6 @@
           "mensajeRespuesta": "Nombre de usuari0: teo6827\nC0ntraseña: hola123"
         },
         {
-          "contactoUuid": "9313dd3a48d1410a9310f43163f19429",
-          "horaInicio": "11/07/2025, 15:08:36",
-          "horaRespuesta": "11/07/2025, 15:23:38",
-          "demoraFormateada": "0h 15m 2s",
-          "demoraMs": 902000,
-          "demoraMinutos": "15.03",
-          "mensajeInicio": "Yoha",
-          "mensajeRespuesta": "Hola! ¿como estas?🤗"
-        },
-        {
-          "contactoUuid": "9313dd3a48d1410a9310f43163f19429",
-          "horaInicio": "11/07/2025, 16:05:56",
-          "horaRespuesta": "11/07/2025, 16:17:20",
-          "demoraFormateada": "0h 11m 24s",
-          "demoraMs": 684000,
-          "demoraMinutos": "11.40",
-          "mensajeInicio": "Teo",
-          "mensajeRespuesta": "Nombre de usuari0: teo6827\nC0ntraseña: hola123"
-        },
-        {
           "contactoUuid": "c83f0b94e0e64aac91101c313a0597b3",
           "horaInicio": "11/07/2025, 15:16:49",
           "horaRespuesta": "11/07/2025, 15:31:24",
@@ -48228,16 +48290,6 @@
           "demoraMinutos": "14.90",
           "mensajeInicio": "Pablo villafañe",
           "mensajeRespuesta": "Nombre de usuari0: pablo4761\nC0ntraseña: hola123"
-        },
-        {
-          "contactoUuid": "3bef917805884217802bb600bd6b0540",
-          "horaInicio": "11/07/2025, 14:19:28",
-          "horaRespuesta": "11/07/2025, 14:29:30",
-          "demoraFormateada": "0h 10m 2s",
-          "demoraMs": 602000,
-          "demoraMinutos": "10.03",
-          "mensajeInicio": "Me llamo micaela",
-          "mensajeRespuesta": "Nombre de usuari0: micaela0188\nC0ntraseña: hola123"
         },
         {
           "contactoUuid": "fda58c9b815b4e839892cd5e1b1fa59e",
@@ -48355,6 +48407,12 @@
         "promedioFormateado": "0h 1m 32s",
         "promedioMinutos": "1.54",
         "cantidadMensajes": 3
+      },
+      {
+        "contactoUuid": "46cbefaf9fa54837bb60d9bb27aaba39",
+        "promedioFormateado": "0h 2m 20s",
+        "promedioMinutos": "2.33",
+        "cantidadMensajes": 1
       },
       {
         "contactoUuid": "1611002069e545eda3c7c0f71a703463",
@@ -48759,12 +48817,6 @@
         "cantidadMensajes": 2
       },
       {
-        "contactoUuid": "9313dd3a48d1410a9310f43163f19429",
-        "promedioFormateado": "0h 13m 13s",
-        "promedioMinutos": "13.22",
-        "cantidadMensajes": 2
-      },
-      {
         "contactoUuid": "c83f0b94e0e64aac91101c313a0597b3",
         "promedioFormateado": "0h 8m 16s",
         "promedioMinutos": "8.27",
@@ -48820,9 +48872,9 @@
       },
       {
         "contactoUuid": "3bef917805884217802bb600bd6b0540",
-        "promedioFormateado": "0h 10m 2s",
-        "promedioMinutos": "10.03",
-        "cantidadMensajes": 1
+        "promedioFormateado": "0h 1m 48s",
+        "promedioMinutos": "1.81",
+        "cantidadMensajes": 4
       },
       {
         "contactoUuid": "770fc5ca5eaa4ebea08a87e149f80e62",
@@ -48897,6 +48949,12 @@
         "cantidadMensajes": 3
       },
       {
+        "contactoUuid": "c9b96510a5264c01b16c1b46e96ff696",
+        "promedioFormateado": "0h 0m 11s",
+        "promedioMinutos": "0.19",
+        "cantidadMensajes": 2
+      },
+      {
         "contactoUuid": "dfec9a7a559a48d694acb9c20bce8b7a",
         "promedioFormateado": "0h 15m 29s",
         "promedioMinutos": "15.49",
@@ -48967,6 +49025,12 @@
         "promedioFormateado": "0h 14m 15s",
         "promedioMinutos": "14.25",
         "cantidadMensajes": 1
+      },
+      {
+        "contactoUuid": "71f0c2e5d6f44f53992e727567f2a4cd",
+        "promedioFormateado": "0h 2m 25s",
+        "promedioMinutos": "2.42",
+        "cantidadMensajes": 3
       },
       {
         "contactoUuid": "71f0c2e5d6f44f53992e727567f2a4cd",
@@ -49119,12 +49183,6 @@
         "cantidadMensajes": 1
       },
       {
-        "contactoUuid": "433a3970badf442fad3cfdbd05179a85",
-        "promedioFormateado": "0h 2m 31s",
-        "promedioMinutos": "2.52",
-        "cantidadMensajes": 1
-      },
-      {
         "contactoUuid": "1e609a01a0c14fda8812e95c9c19406b",
         "promedioFormateado": "0h 0m 48s",
         "promedioMinutos": "0.80",
@@ -49179,6 +49237,12 @@
         "cantidadMensajes": 4
       },
       {
+        "contactoUuid": "28795cab4ca641b194dfa262c6d21f7c",
+        "promedioFormateado": "0h 0m 54s",
+        "promedioMinutos": "0.90",
+        "cantidadMensajes": 4
+      },
+      {
         "contactoUuid": "cb30babd3d6e4410bfe6e00a05fc9bd7",
         "promedioFormateado": "0h 0m 7s",
         "promedioMinutos": "0.12",
@@ -49186,9 +49250,9 @@
       },
       {
         "contactoUuid": "10782a97aec14e77b508eb8a4e884963",
-        "promedioFormateado": "0h 1m 40s",
-        "promedioMinutos": "1.67",
-        "cantidadMensajes": 4
+        "promedioFormateado": "0h 1m 39s",
+        "promedioMinutos": "1.66",
+        "cantidadMensajes": 6
       }
     ],
     "demoras_totales": [
@@ -49421,6 +49485,16 @@
         "demoraMinutos": "0.10",
         "mensajeInicio": "Y como retiro?",
         "mensajeRespuesta": "No pasa nada! La prox envialo"
+      },
+      {
+        "contactoUuid": "46cbefaf9fa54837bb60d9bb27aaba39",
+        "horaInicio": "12/07/2025, 11:42:44",
+        "horaRespuesta": "12/07/2025, 11:45:04",
+        "demoraFormateada": "0h 2m 20s",
+        "demoraMs": 140000,
+        "demoraMinutos": "2.33",
+        "mensajeInicio": "Hola Me manda un cbu",
+        "mensajeRespuesta": "Maximiliano Ceferino Vasanella - Naranja X"
       },
       {
         "contactoUuid": "1611002069e545eda3c7c0f71a703463",
@@ -51253,26 +51327,6 @@
         "mensajeRespuesta": "Nombre de usuari0: teo6827\nC0ntraseña: hola123"
       },
       {
-        "contactoUuid": "9313dd3a48d1410a9310f43163f19429",
-        "horaInicio": "11/07/2025, 15:08:36",
-        "horaRespuesta": "11/07/2025, 15:23:38",
-        "demoraFormateada": "0h 15m 2s",
-        "demoraMs": 902000,
-        "demoraMinutos": "15.03",
-        "mensajeInicio": "Yoha",
-        "mensajeRespuesta": "Hola! ¿como estas?🤗"
-      },
-      {
-        "contactoUuid": "9313dd3a48d1410a9310f43163f19429",
-        "horaInicio": "11/07/2025, 16:05:56",
-        "horaRespuesta": "11/07/2025, 16:17:20",
-        "demoraFormateada": "0h 11m 24s",
-        "demoraMs": 684000,
-        "demoraMinutos": "11.40",
-        "mensajeInicio": "Teo",
-        "mensajeRespuesta": "Nombre de usuari0: teo6827\nC0ntraseña: hola123"
-      },
-      {
         "contactoUuid": "c83f0b94e0e64aac91101c313a0597b3",
         "horaInicio": "11/07/2025, 15:16:49",
         "horaRespuesta": "11/07/2025, 15:31:24",
@@ -51444,13 +51498,43 @@
       },
       {
         "contactoUuid": "3bef917805884217802bb600bd6b0540",
-        "horaInicio": "11/07/2025, 14:19:28",
-        "horaRespuesta": "11/07/2025, 14:29:30",
-        "demoraFormateada": "0h 10m 2s",
-        "demoraMs": 602000,
-        "demoraMinutos": "10.03",
-        "mensajeInicio": "Me llamo micaela",
-        "mensajeRespuesta": "Nombre de usuari0: micaela0188\nC0ntraseña: hola123"
+        "horaInicio": "12/07/2025, 12:31:43",
+        "horaRespuesta": "12/07/2025, 12:34:20",
+        "demoraFormateada": "0h 2m 37s",
+        "demoraMs": 157000,
+        "demoraMinutos": "2.62",
+        "mensajeInicio": "",
+        "mensajeRespuesta": "wa.link/9jxf38"
+      },
+      {
+        "contactoUuid": "3bef917805884217802bb600bd6b0540",
+        "horaInicio": "12/07/2025, 12:35:06",
+        "horaRespuesta": "12/07/2025, 12:36:35",
+        "demoraFormateada": "0h 1m 29s",
+        "demoraMs": 89000,
+        "demoraMinutos": "1.48",
+        "mensajeInicio": "Dale graciass",
+        "mensajeRespuesta": "A voss🫶🥰"
+      },
+      {
+        "contactoUuid": "3bef917805884217802bb600bd6b0540",
+        "horaInicio": "12/07/2025, 12:46:14",
+        "horaRespuesta": "12/07/2025, 12:48:33",
+        "demoraFormateada": "0h 2m 19s",
+        "demoraMs": 139000,
+        "demoraMinutos": "2.32",
+        "mensajeInicio": "Tardan un pokito? Porque no me cargan",
+        "mensajeRespuesta": "esta cargado hace rato"
+      },
+      {
+        "contactoUuid": "3bef917805884217802bb600bd6b0540",
+        "horaInicio": "12/07/2025, 12:49:02",
+        "horaRespuesta": "12/07/2025, 12:49:51",
+        "demoraFormateada": "0h 0m 49s",
+        "demoraMs": 49000,
+        "demoraMinutos": "0.82",
+        "mensajeInicio": "Ahh no me aviso nada",
+        "mensajeRespuesta": "si lo tenes en los mensajes anteriores"
       },
       {
         "contactoUuid": "770fc5ca5eaa4ebea08a87e149f80e62",
@@ -51833,6 +51917,26 @@
         "mensajeRespuesta": "Cargad00 🍀🍀☺️!"
       },
       {
+        "contactoUuid": "c9b96510a5264c01b16c1b46e96ff696",
+        "horaInicio": "12/07/2025, 13:42:50",
+        "horaRespuesta": "12/07/2025, 13:43:03",
+        "demoraFormateada": "0h 0m 13s",
+        "demoraMs": 13000,
+        "demoraMinutos": "0.22",
+        "mensajeInicio": "Hola",
+        "mensajeRespuesta": "Hola! ¿como estas?🤗"
+      },
+      {
+        "contactoUuid": "c9b96510a5264c01b16c1b46e96ff696",
+        "horaInicio": "12/07/2025, 13:43:20",
+        "horaRespuesta": "12/07/2025, 13:43:30",
+        "demoraFormateada": "0h 0m 10s",
+        "demoraMs": 10000,
+        "demoraMinutos": "0.17",
+        "mensajeInicio": "Con ese hay deporte para apostar",
+        "mensajeRespuesta": "si podes fijarte"
+      },
+      {
         "contactoUuid": "dfec9a7a559a48d694acb9c20bce8b7a",
         "horaInicio": "11/07/2025, 11:12:44",
         "horaRespuesta": "11/07/2025, 11:56:56",
@@ -52151,6 +52255,36 @@
         "demoraMinutos": "14.25",
         "mensajeInicio": "Negra",
         "mensajeRespuesta": "Hola! ¿como estas?🤗"
+      },
+      {
+        "contactoUuid": "71f0c2e5d6f44f53992e727567f2a4cd",
+        "horaInicio": "11/07/2025, 07:29:09",
+        "horaRespuesta": "11/07/2025, 07:32:43",
+        "demoraFormateada": "0h 3m 34s",
+        "demoraMs": 214000,
+        "demoraMinutos": "3.57",
+        "mensajeInicio": "Tere",
+        "mensajeRespuesta": "USUARI0: Tere478\nCLAVE: hola123"
+      },
+      {
+        "contactoUuid": "71f0c2e5d6f44f53992e727567f2a4cd",
+        "horaInicio": "11/07/2025, 07:51:32",
+        "horaRespuesta": "11/07/2025, 07:54:29",
+        "demoraFormateada": "0h 2m 57s",
+        "demoraMs": 177000,
+        "demoraMinutos": "2.95",
+        "mensajeInicio": "Cbu 2000$",
+        "mensajeRespuesta": "Salomon Mariano Oscar - Mercado Pago"
+      },
+      {
+        "contactoUuid": "71f0c2e5d6f44f53992e727567f2a4cd",
+        "horaInicio": "11/07/2025, 08:01:19",
+        "horaRespuesta": "11/07/2025, 08:02:03",
+        "demoraFormateada": "0h 0m 44s",
+        "demoraMs": 44000,
+        "demoraMinutos": "0.73",
+        "mensajeInicio": "",
+        "mensajeRespuesta": "Vuelva a enviar el c0mprob4nte a este link de what..."
       },
       {
         "contactoUuid": "71f0c2e5d6f44f53992e727567f2a4cd",
@@ -52783,16 +52917,6 @@
         "mensajeRespuesta": "Hola! ¿como estas?🤗"
       },
       {
-        "contactoUuid": "433a3970badf442fad3cfdbd05179a85",
-        "horaInicio": "11/07/2025, 02:21:34",
-        "horaRespuesta": "11/07/2025, 02:24:05",
-        "demoraFormateada": "0h 2m 31s",
-        "demoraMs": 151000,
-        "demoraMinutos": "2.52",
-        "mensajeInicio": "Hola regalan fichas x hacerme usuario",
-        "mensajeRespuesta": "Hola! ¿como estas?🤗"
-      },
-      {
         "contactoUuid": "1e609a01a0c14fda8812e95c9c19406b",
         "horaInicio": "11/07/2025, 02:01:46",
         "horaRespuesta": "11/07/2025, 02:02:50",
@@ -53033,6 +53157,46 @@
         "mensajeRespuesta": "Bueno escribinos x ahi para hacer tu carga"
       },
       {
+        "contactoUuid": "28795cab4ca641b194dfa262c6d21f7c",
+        "horaInicio": "11/07/2025, 00:50:04",
+        "horaRespuesta": "11/07/2025, 00:52:18",
+        "demoraFormateada": "0h 2m 14s",
+        "demoraMs": 134000,
+        "demoraMinutos": "2.23",
+        "mensajeInicio": "nehemias",
+        "mensajeRespuesta": "Enlace de jueg0:\nhttps://luckdiversion24.vercel.ap..."
+      },
+      {
+        "contactoUuid": "28795cab4ca641b194dfa262c6d21f7c",
+        "horaInicio": "11/07/2025, 00:53:30",
+        "horaRespuesta": "11/07/2025, 00:53:53",
+        "demoraFormateada": "0h 0m 23s",
+        "demoraMs": 23000,
+        "demoraMinutos": "0.38",
+        "mensajeInicio": "me deriva,no?",
+        "mensajeRespuesta": "puede ser si"
+      },
+      {
+        "contactoUuid": "28795cab4ca641b194dfa262c6d21f7c",
+        "horaInicio": "11/07/2025, 00:54:41",
+        "horaRespuesta": "11/07/2025, 00:54:52",
+        "demoraFormateada": "0h 0m 11s",
+        "demoraMs": 11000,
+        "demoraMinutos": "0.18",
+        "mensajeInicio": "puede preguntar porfavor",
+        "mensajeRespuesta": "wa.link/9jxf38"
+      },
+      {
+        "contactoUuid": "28795cab4ca641b194dfa262c6d21f7c",
+        "horaInicio": "11/07/2025, 00:56:39",
+        "horaRespuesta": "11/07/2025, 00:57:28",
+        "demoraFormateada": "0h 0m 49s",
+        "demoraMs": 49000,
+        "demoraMinutos": "0.82",
+        "mensajeInicio": "a si tengo",
+        "mensajeRespuesta": "Bueno escribinos x ahi para hacer tu carga"
+      },
+      {
         "contactoUuid": "cb30babd3d6e4410bfe6e00a05fc9bd7",
         "horaInicio": "11/07/2025, 00:47:05",
         "horaRespuesta": "11/07/2025, 00:47:12",
@@ -53041,16 +53205,6 @@
         "demoraMinutos": "0.12",
         "mensajeInicio": "Hola",
         "mensajeRespuesta": "Nombre de usuari0: basi7193\nC0ntraseña: hola123"
-      },
-      {
-        "contactoUuid": "10782a97aec14e77b508eb8a4e884963",
-        "horaInicio": "11/07/2025, 02:47:34",
-        "horaRespuesta": "11/07/2025, 02:49:57",
-        "demoraFormateada": "0h 2m 23s",
-        "demoraMs": 143000,
-        "demoraMinutos": "2.38",
-        "mensajeInicio": "Edu",
-        "mensajeRespuesta": "USUARI0: Edu2710\nCLAVE: hola123"
       },
       {
         "contactoUuid": "10782a97aec14e77b508eb8a4e884963",
@@ -53081,14 +53235,44 @@
         "demoraMinutos": "0.70",
         "mensajeInicio": "Cbu",
         "mensajeRespuesta": "wa.link/9jxf38 al tel principal"
+      },
+      {
+        "contactoUuid": "10782a97aec14e77b508eb8a4e884963",
+        "horaInicio": "12/07/2025, 14:37:08",
+        "horaRespuesta": "12/07/2025, 14:38:54",
+        "demoraFormateada": "0h 1m 46s",
+        "demoraMs": 106000,
+        "demoraMinutos": "1.77",
+        "mensajeInicio": "Cbu",
+        "mensajeRespuesta": "Maximiliano Ceferino Vasanella - Naranja X"
+      },
+      {
+        "contactoUuid": "10782a97aec14e77b508eb8a4e884963",
+        "horaInicio": "12/07/2025, 14:39:33",
+        "horaRespuesta": "12/07/2025, 14:39:46",
+        "demoraFormateada": "0h 0m 13s",
+        "demoraMs": 13000,
+        "demoraMinutos": "0.22",
+        "mensajeInicio": "",
+        "mensajeRespuesta": "Vuelva a enviar el c0mprob4nte a este link de what..."
+      },
+      {
+        "contactoUuid": "10782a97aec14e77b508eb8a4e884963",
+        "horaInicio": "12/07/2025, 15:05:06",
+        "horaRespuesta": "12/07/2025, 15:08:46",
+        "demoraFormateada": "0h 3m 40s",
+        "demoraMs": 220000,
+        "demoraMinutos": "3.67",
+        "mensajeInicio": "",
+        "mensajeRespuesta": "wa.link/9jxf38"
       }
     ],
-    "promedioGeneralMinutos": "4.19",
-    "promedioGeneralFormateado": "0h 4m 11s",
-    "totalDemorasAnalizadas": 389
+    "promedioGeneralMinutos": "4.03",
+    "promedioGeneralFormateado": "0h 4m 1s",
+    "totalDemorasAnalizadas": 401
   },
   "VGanamos": {
-    "conversaciones": 144,
+    "conversaciones": 143,
     "veces_c4rgado": 0,
     "veces_frase_cierre": 38,
     "demoras_leves": {
@@ -55504,9 +55688,9 @@
     "promedios": [
       {
         "contactoUuid": "79a1092f60a845f79207e13bed603b47",
-        "promedioFormateado": "0h 0m 54s",
-        "promedioMinutos": "0.91",
-        "cantidadMensajes": 4
+        "promedioFormateado": "0h 0m 46s",
+        "promedioMinutos": "0.77",
+        "cantidadMensajes": 5
       },
       {
         "contactoUuid": "22c358e57d884a47a750ab865796c0e8",
@@ -55896,43 +56080,53 @@
     "demoras_totales": [
       {
         "contactoUuid": "79a1092f60a845f79207e13bed603b47",
-        "horaInicio": "12/07/2025, 08:24:08",
-        "horaRespuesta": "12/07/2025, 08:26:15",
-        "demoraFormateada": "0h 2m 7s",
-        "demoraMs": 127000,
-        "demoraMinutos": "2.12",
-        "mensajeInicio": "📝 Test de verificación: ¿Tu línea está activa? Re...",
-        "mensajeRespuesta": "tODOOK"
+        "horaInicio": "12/07/2025, 11:44:13",
+        "horaRespuesta": "12/07/2025, 11:44:28",
+        "demoraFormateada": "0h 0m 15s",
+        "demoraMs": 15000,
+        "demoraMinutos": "0.25",
+        "mensajeInicio": "📲 Confirmación de servicio: ¿Todo bien por tu par...",
+        "mensajeRespuesta": "Todo bien"
       },
       {
         "contactoUuid": "79a1092f60a845f79207e13bed603b47",
-        "horaInicio": "12/07/2025, 09:44:10",
-        "horaRespuesta": "12/07/2025, 09:44:23",
-        "demoraFormateada": "0h 0m 13s",
-        "demoraMs": 13000,
-        "demoraMinutos": "0.22",
-        "mensajeInicio": "🔧 Chequeo rápido: ¿Estás disponible? Responde si ...",
-        "mensajeRespuesta": "Esta todo ok"
-      },
-      {
-        "contactoUuid": "79a1092f60a845f79207e13bed603b47",
-        "horaInicio": "12/07/2025, 10:24:08",
-        "horaRespuesta": "12/07/2025, 10:24:29",
-        "demoraFormateada": "0h 0m 21s",
-        "demoraMs": 21000,
-        "demoraMinutos": "0.35",
-        "mensajeInicio": "🔧 Revisión de línea: ¿Todo en orden con la conexi...",
+        "horaInicio": "12/07/2025, 12:24:30",
+        "horaRespuesta": "12/07/2025, 12:25:06",
+        "demoraFormateada": "0h 0m 36s",
+        "demoraMs": 36000,
+        "demoraMinutos": "0.60",
+        "mensajeInicio": "⚙️ Test de línea: ¿Todo en orden por tu lado? Resp...",
         "mensajeRespuesta": "Todo en orden"
       },
       {
         "contactoUuid": "79a1092f60a845f79207e13bed603b47",
-        "horaInicio": "12/07/2025, 10:44:07",
-        "horaRespuesta": "12/07/2025, 10:45:04",
-        "demoraFormateada": "0h 0m 57s",
-        "demoraMs": 57000,
-        "demoraMinutos": "0.95",
-        "mensajeInicio": "📲 Confirmación de servicio: ¿Todo bien por tu par...",
-        "mensajeRespuesta": "Todo OK"
+        "horaInicio": "12/07/2025, 13:44:08",
+        "horaRespuesta": "12/07/2025, 13:44:20",
+        "demoraFormateada": "0h 0m 12s",
+        "demoraMs": 12000,
+        "demoraMinutos": "0.20",
+        "mensajeInicio": "⚙️ Test de línea: ¿Todo en orden por tu lado? Resp...",
+        "mensajeRespuesta": "Tod en orden"
+      },
+      {
+        "contactoUuid": "79a1092f60a845f79207e13bed603b47",
+        "horaInicio": "12/07/2025, 14:04:08",
+        "horaRespuesta": "12/07/2025, 14:05:29",
+        "demoraFormateada": "0h 1m 21s",
+        "demoraMs": 81000,
+        "demoraMinutos": "1.35",
+        "mensajeInicio": "🛠️ Testeo rápido: ¿Línea activa? Responde si pued...",
+        "mensajeRespuesta": "Linea activa"
+      },
+      {
+        "contactoUuid": "79a1092f60a845f79207e13bed603b47",
+        "horaInicio": "12/07/2025, 15:04:06",
+        "horaRespuesta": "12/07/2025, 15:05:34",
+        "demoraFormateada": "0h 1m 28s",
+        "demoraMs": 88000,
+        "demoraMinutos": "1.47",
+        "mensajeInicio": "✅ Confirmación de conexión: ¿Todo funcionando corr...",
+        "mensajeRespuesta": "Todo bien"
       },
       {
         "contactoUuid": "22c358e57d884a47a750ab865796c0e8",
@@ -57517,10 +57711,10 @@
     ],
     "promedioGeneralMinutos": "0.45",
     "promedioGeneralFormateado": "0h 0m 26s",
-    "totalDemorasAnalizadas": 162
+    "totalDemorasAnalizadas": 163
   },
   "Panel Red": {
-    "conversaciones": 275,
+    "conversaciones": 279,
     "veces_c4rgado": 0,
     "veces_frase_cierre": 87,
     "demoras_leves": {
@@ -57737,6 +57931,12 @@
         "cantidadMensajes": 1
       },
       {
+        "contactoUuid": "6f480667b2ad41a89dfc3e7adc9e1f1d",
+        "promedioFormateado": "0h 4m 13s",
+        "promedioMinutos": "4.22",
+        "cantidadMensajes": 1
+      },
+      {
         "contactoUuid": "bfab91f9e99348a3a43323e55a5d9707",
         "promedioFormateado": "0h 1m 16s",
         "promedioMinutos": "1.27",
@@ -57758,12 +57958,6 @@
         "contactoUuid": "9ab84fd3f630448f86a9fee88b231966",
         "promedioFormateado": "0h 1m 1s",
         "promedioMinutos": "1.02",
-        "cantidadMensajes": 1
-      },
-      {
-        "contactoUuid": "69a0f6d2024a4dd2a2e7af166eb033df",
-        "promedioFormateado": "0h 0m 9s",
-        "promedioMinutos": "0.15",
         "cantidadMensajes": 1
       },
       {
@@ -57878,6 +58072,12 @@
         "contactoUuid": "1f3e4dcb3c9043ea89448017cbcd0518",
         "promedioFormateado": "0h 3m 9s",
         "promedioMinutos": "3.15",
+        "cantidadMensajes": 1
+      },
+      {
+        "contactoUuid": "e13d92edbaf34e3baa98670c697fccfb",
+        "promedioFormateado": "0h 3m 52s",
+        "promedioMinutos": "3.87",
         "cantidadMensajes": 1
       },
       {
@@ -58097,6 +58297,12 @@
         "cantidadMensajes": 1
       },
       {
+        "contactoUuid": "cb4d21aba2b5444eada2eb5f6e5bb562",
+        "promedioFormateado": "0h 3m 30s",
+        "promedioMinutos": "3.50",
+        "cantidadMensajes": 1
+      },
+      {
         "contactoUuid": "2c2ec8409f4645d9ba032c9b0db3b5fb",
         "promedioFormateado": "0h 3m 49s",
         "promedioMinutos": "3.83",
@@ -58215,6 +58421,12 @@
         "promedioFormateado": "0h 0m 41s",
         "promedioMinutos": "0.69",
         "cantidadMensajes": 4
+      },
+      {
+        "contactoUuid": "616fe8ae71a648e7815fe152f7cfbefe",
+        "promedioFormateado": "0h 0m 25s",
+        "promedioMinutos": "0.42",
+        "cantidadMensajes": 1
       },
       {
         "contactoUuid": "616fe8ae71a648e7815fe152f7cfbefe",
@@ -58355,6 +58567,12 @@
         "cantidadMensajes": 3
       },
       {
+        "contactoUuid": "96a3fc4e08a442fc899930ac7fe62d5b",
+        "promedioFormateado": "0h 0m 38s",
+        "promedioMinutos": "0.64",
+        "cantidadMensajes": 3
+      },
+      {
         "contactoUuid": "162784a273374d5bb6a7b12bb0991e50",
         "promedioFormateado": "0h 0m 24s",
         "promedioMinutos": "0.40",
@@ -58377,12 +58595,6 @@
         "promedioFormateado": "0h 1m 7s",
         "promedioMinutos": "1.13",
         "cantidadMensajes": 5
-      },
-      {
-        "contactoUuid": "2478e53e366a4ffc8fd216ae32c3fbc9",
-        "promedioFormateado": "0h 1m 40s",
-        "promedioMinutos": "1.68",
-        "cantidadMensajes": 3
       },
       {
         "contactoUuid": "2478e53e366a4ffc8fd216ae32c3fbc9",
@@ -58694,6 +58906,12 @@
         "contactoUuid": "ad867caa69154d159b56226f91920c29",
         "promedioFormateado": "0h 0m 14s",
         "promedioMinutos": "0.23",
+        "cantidadMensajes": 1
+      },
+      {
+        "contactoUuid": "055741cb4cf54d1dbbdecfc4fed147f5",
+        "promedioFormateado": "0h 0m 15s",
+        "promedioMinutos": "0.25",
         "cantidadMensajes": 1
       },
       {
@@ -59153,6 +59371,16 @@
         "mensajeRespuesta": "usuario:daia1460\ncl4ve:hola123"
       },
       {
+        "contactoUuid": "6f480667b2ad41a89dfc3e7adc9e1f1d",
+        "horaInicio": "11/07/2025, 22:45:43",
+        "horaRespuesta": "11/07/2025, 22:49:56",
+        "demoraFormateada": "0h 4m 13s",
+        "demoraMs": 253000,
+        "demoraMinutos": "4.22",
+        "mensajeInicio": "Daia",
+        "mensajeRespuesta": "usuario:daia1460\ncl4ve:hola123"
+      },
+      {
         "contactoUuid": "bfab91f9e99348a3a43323e55a5d9707",
         "horaInicio": "11/07/2025, 22:42:57",
         "horaRespuesta": "11/07/2025, 22:44:13",
@@ -59201,16 +59429,6 @@
         "demoraMinutos": "1.02",
         "mensajeInicio": "Aún no cobro gracias",
         "mensajeRespuesta": "cualquier cosa avise!"
-      },
-      {
-        "contactoUuid": "69a0f6d2024a4dd2a2e7af166eb033df",
-        "horaInicio": "11/07/2025, 22:30:35",
-        "horaRespuesta": "11/07/2025, 22:30:44",
-        "demoraFormateada": "0h 0m 9s",
-        "demoraMs": 9000,
-        "demoraMinutos": "0.15",
-        "mensajeInicio": "Bruno",
-        "mensajeRespuesta": "1000 FICH4S extra te están esperando con tu c4rga ..."
       },
       {
         "contactoUuid": "69a0f6d2024a4dd2a2e7af166eb033df",
@@ -59611,6 +59829,16 @@
         "demoraMinutos": "3.15",
         "mensajeInicio": "Enzo Giménez",
         "mensajeRespuesta": "usuario:enzo6267\ncl4ve:hola123"
+      },
+      {
+        "contactoUuid": "e13d92edbaf34e3baa98670c697fccfb",
+        "horaInicio": "11/07/2025, 21:32:17",
+        "horaRespuesta": "11/07/2025, 21:36:09",
+        "demoraFormateada": "0h 3m 52s",
+        "demoraMs": 232000,
+        "demoraMinutos": "3.87",
+        "mensajeInicio": "Sin carga son las fichas gratis",
+        "mensajeRespuesta": "1000 FICH4S extra te están esperando con tu c4rga ..."
       },
       {
         "contactoUuid": "e13d92edbaf34e3baa98670c697fccfb",
@@ -60453,6 +60681,16 @@
         "mensajeRespuesta": "1000 FICH4S extra te están esperando con tu c4rga ..."
       },
       {
+        "contactoUuid": "cb4d21aba2b5444eada2eb5f6e5bb562",
+        "horaInicio": "11/07/2025, 18:42:29",
+        "horaRespuesta": "11/07/2025, 18:45:59",
+        "demoraFormateada": "0h 3m 30s",
+        "demoraMs": 210000,
+        "demoraMinutos": "3.50",
+        "mensajeInicio": "Hola",
+        "mensajeRespuesta": "1000 FICH4S extra te están esperando con tu c4rga ..."
+      },
+      {
         "contactoUuid": "2c2ec8409f4645d9ba032c9b0db3b5fb",
         "horaInicio": "11/07/2025, 18:40:49",
         "horaRespuesta": "11/07/2025, 18:44:55",
@@ -60981,6 +61219,16 @@
         "demoraMinutos": "0.50",
         "mensajeInicio": "",
         "mensajeRespuesta": "☺️❤️⚡ perfecto!, te pido que te comuniques con mi ..."
+      },
+      {
+        "contactoUuid": "616fe8ae71a648e7815fe152f7cfbefe",
+        "horaInicio": "11/07/2025, 17:03:39",
+        "horaRespuesta": "11/07/2025, 17:04:04",
+        "demoraFormateada": "0h 0m 25s",
+        "demoraMs": 25000,
+        "demoraMinutos": "0.42",
+        "mensajeInicio": "Hola me llamo estefano",
+        "mensajeRespuesta": "usuario:estefano8188\ncl4ve:hola123"
       },
       {
         "contactoUuid": "616fe8ae71a648e7815fe152f7cfbefe",
@@ -61533,6 +61781,36 @@
         "mensajeRespuesta": "☺️❤️⚡ perfecto!, te pido que te comuniques con mi ..."
       },
       {
+        "contactoUuid": "96a3fc4e08a442fc899930ac7fe62d5b",
+        "horaInicio": "11/07/2025, 14:42:09",
+        "horaRespuesta": "11/07/2025, 14:43:10",
+        "demoraFormateada": "0h 1m 1s",
+        "demoraMs": 61000,
+        "demoraMinutos": "1.02",
+        "mensajeInicio": "Fabian",
+        "mensajeRespuesta": "\nusuario:fabian703\ncl4ve:hola123\nhttps://c0-c0-s-f..."
+      },
+      {
+        "contactoUuid": "96a3fc4e08a442fc899930ac7fe62d5b",
+        "horaInicio": "11/07/2025, 14:44:07",
+        "horaRespuesta": "11/07/2025, 14:44:43",
+        "demoraFormateada": "0h 0m 36s",
+        "demoraMs": 36000,
+        "demoraMinutos": "0.60",
+        "mensajeInicio": "Cbu",
+        "mensajeRespuesta": "Mariano Nicolas Iglesias - MP \n"
+      },
+      {
+        "contactoUuid": "96a3fc4e08a442fc899930ac7fe62d5b",
+        "horaInicio": "11/07/2025, 14:49:11",
+        "horaRespuesta": "11/07/2025, 14:49:30",
+        "demoraFormateada": "0h 0m 19s",
+        "demoraMs": 19000,
+        "demoraMinutos": "0.32",
+        "mensajeInicio": "",
+        "mensajeRespuesta": "☺️❤️⚡ perfecto!, te pido que te comuniques con mi ..."
+      },
+      {
         "contactoUuid": "162784a273374d5bb6a7b12bb0991e50",
         "horaInicio": "11/07/2025, 14:41:51",
         "horaRespuesta": "11/07/2025, 14:42:15",
@@ -61619,36 +61897,6 @@
         "demoraFormateada": "0h 1m 7s",
         "demoraMs": 67000,
         "demoraMinutos": "1.12",
-        "mensajeInicio": "",
-        "mensajeRespuesta": "☺️❤️⚡ perfecto!, te pido que te comuniques con mi ..."
-      },
-      {
-        "contactoUuid": "2478e53e366a4ffc8fd216ae32c3fbc9",
-        "horaInicio": "11/07/2025, 14:32:14",
-        "horaRespuesta": "11/07/2025, 14:34:09",
-        "demoraFormateada": "0h 1m 55s",
-        "demoraMs": 115000,
-        "demoraMinutos": "1.92",
-        "mensajeInicio": "Yani",
-        "mensajeRespuesta": "usuario:yani059\ncl4ve:hola123\nhttps://c0-c0-s-funn..."
-      },
-      {
-        "contactoUuid": "2478e53e366a4ffc8fd216ae32c3fbc9",
-        "horaInicio": "11/07/2025, 14:38:07",
-        "horaRespuesta": "11/07/2025, 14:40:26",
-        "demoraFormateada": "0h 2m 19s",
-        "demoraMs": 139000,
-        "demoraMinutos": "2.32",
-        "mensajeInicio": "Cvu",
-        "mensajeRespuesta": "Mariano Nicolas Iglesias - MP \n"
-      },
-      {
-        "contactoUuid": "2478e53e366a4ffc8fd216ae32c3fbc9",
-        "horaInicio": "11/07/2025, 14:41:59",
-        "horaRespuesta": "11/07/2025, 14:42:47",
-        "demoraFormateada": "0h 0m 48s",
-        "demoraMs": 48000,
-        "demoraMinutos": "0.80",
         "mensajeInicio": "",
         "mensajeRespuesta": "☺️❤️⚡ perfecto!, te pido que te comuniques con mi ..."
       },
@@ -63113,6 +63361,16 @@
         "mensajeRespuesta": "1000 FICH4S extra te están esperando con tu c4rga ..."
       },
       {
+        "contactoUuid": "055741cb4cf54d1dbbdecfc4fed147f5",
+        "horaInicio": "11/07/2025, 06:13:06",
+        "horaRespuesta": "11/07/2025, 06:13:21",
+        "demoraFormateada": "0h 0m 15s",
+        "demoraMs": 15000,
+        "demoraMinutos": "0.25",
+        "mensajeInicio": "No dan fichas gratis para probar la plataforma??",
+        "mensajeRespuesta": "1000 FICH4S extra te están esperando con tu c4rga ..."
+      },
+      {
         "contactoUuid": "ffd98007a0b44ce3b1e9a1eed57bd912",
         "horaInicio": "11/07/2025, 05:58:15",
         "horaRespuesta": "11/07/2025, 06:00:41",
@@ -63484,15 +63742,15 @@
       }
     ],
     "promedioGeneralMinutos": "1.30",
-    "promedioGeneralFormateado": "0h 1m 17s",
-    "totalDemorasAnalizadas": 464
+    "promedioGeneralFormateado": "0h 1m 18s",
+    "totalDemorasAnalizadas": 468
   },
   "PubliW": {
-    "conversaciones": 33,
+    "conversaciones": 34,
     "veces_c4rgado": 0,
     "veces_frase_cierre": 8,
     "demoras_leves": {
-      "cantidad": 2,
+      "cantidad": 3,
       "detalles": [
         {
           "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
@@ -63502,6 +63760,16 @@
           "demoraMs": 397000,
           "demoraMinutos": "6.62",
           "mensajeInicio": "📱 Prueba de línea: ¿Recibiste el mensaje correcta...",
+          "mensajeRespuesta": "."
+        },
+        {
+          "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
+          "horaInicio": "12/07/2025, 12:24:29",
+          "horaRespuesta": "12/07/2025, 12:30:35",
+          "demoraFormateada": "0h 6m 6s",
+          "demoraMs": 366000,
+          "demoraMinutos": "6.10",
+          "mensajeInicio": "⚙️ Test de línea: ¿Todo en orden por tu lado? Resp...",
           "mensajeRespuesta": "."
         },
         {
@@ -63550,9 +63818,9 @@
       },
       {
         "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
-        "promedioFormateado": "0h 1m 32s",
-        "promedioMinutos": "1.53",
-        "cantidadMensajes": 10
+        "promedioFormateado": "0h 3m 19s",
+        "promedioMinutos": "3.32",
+        "cantidadMensajes": 8
       },
       {
         "contactoUuid": "49295c43450e474797487a28cbc9587b",
@@ -63619,6 +63887,12 @@
         "promedioFormateado": "0h 0m 18s",
         "promedioMinutos": "0.30",
         "cantidadMensajes": 4
+      },
+      {
+        "contactoUuid": "dafa944b45c24a6d9477403f2279de2d",
+        "promedioFormateado": "0h 0m 41s",
+        "promedioMinutos": "0.68",
+        "cantidadMensajes": 1
       },
       {
         "contactoUuid": "dafa944b45c24a6d9477403f2279de2d",
@@ -63702,76 +63976,6 @@
       },
       {
         "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
-        "horaInicio": "12/07/2025, 08:04:08",
-        "horaRespuesta": "12/07/2025, 08:04:29",
-        "demoraFormateada": "0h 0m 21s",
-        "demoraMs": 21000,
-        "demoraMinutos": "0.35",
-        "mensajeInicio": "📝 Chequeo de conexión: ¿Tu línea está activa? Res...",
-        "mensajeRespuesta": ".."
-      },
-      {
-        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
-        "horaInicio": "12/07/2025, 08:24:07",
-        "horaRespuesta": "12/07/2025, 08:25:03",
-        "demoraFormateada": "0h 0m 56s",
-        "demoraMs": 56000,
-        "demoraMinutos": "0.93",
-        "mensajeInicio": "🔍 Chequeo de línea: ¿Tu línea está funcionando bi...",
-        "mensajeRespuesta": ".."
-      },
-      {
-        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
-        "horaInicio": "12/07/2025, 08:44:08",
-        "horaRespuesta": "12/07/2025, 08:45:11",
-        "demoraFormateada": "0h 1m 3s",
-        "demoraMs": 63000,
-        "demoraMinutos": "1.05",
-        "mensajeInicio": "🔔 Chequeo de sistema: Verificación realizada, res...",
-        "mensajeRespuesta": "."
-      },
-      {
-        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
-        "horaInicio": "12/07/2025, 09:04:07",
-        "horaRespuesta": "12/07/2025, 09:06:32",
-        "demoraFormateada": "0h 2m 25s",
-        "demoraMs": 145000,
-        "demoraMinutos": "2.42",
-        "mensajeInicio": "✅ Confirmación de conexión: ¿Todo funcionando corr...",
-        "mensajeRespuesta": "."
-      },
-      {
-        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
-        "horaInicio": "12/07/2025, 09:24:07",
-        "horaRespuesta": "12/07/2025, 09:25:44",
-        "demoraFormateada": "0h 1m 37s",
-        "demoraMs": 97000,
-        "demoraMinutos": "1.62",
-        "mensajeInicio": "🔍 Verificación de línea: No es necesario que resp...",
-        "mensajeRespuesta": "."
-      },
-      {
-        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
-        "horaInicio": "12/07/2025, 09:44:09",
-        "horaRespuesta": "12/07/2025, 09:44:45",
-        "demoraFormateada": "0h 0m 36s",
-        "demoraMs": 36000,
-        "demoraMinutos": "0.60",
-        "mensajeInicio": "🔧 Test de actividad: Verificando línea, responde ...",
-        "mensajeRespuesta": "."
-      },
-      {
-        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
-        "horaInicio": "12/07/2025, 10:04:09",
-        "horaRespuesta": "12/07/2025, 10:04:27",
-        "demoraFormateada": "0h 0m 18s",
-        "demoraMs": 18000,
-        "demoraMinutos": "0.30",
-        "mensajeInicio": "🛠️ Test de conexión: ¿La línea está estable? Resp...",
-        "mensajeRespuesta": "."
-      },
-      {
-        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
         "horaInicio": "12/07/2025, 10:24:08",
         "horaRespuesta": "12/07/2025, 10:25:26",
         "demoraFormateada": "0h 1m 18s",
@@ -63798,6 +64002,56 @@
         "demoraMs": 10000,
         "demoraMinutos": "0.17",
         "mensajeInicio": "✅ Confirmación de conexión: ¿Todo funcionando corr...",
+        "mensajeRespuesta": "."
+      },
+      {
+        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
+        "horaInicio": "12/07/2025, 11:24:09",
+        "horaRespuesta": "12/07/2025, 11:29:06",
+        "demoraFormateada": "0h 4m 57s",
+        "demoraMs": 297000,
+        "demoraMinutos": "4.95",
+        "mensajeInicio": "💬 Test de sistema: ¿Todo en orden? Responde si pu...",
+        "mensajeRespuesta": "."
+      },
+      {
+        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
+        "horaInicio": "12/07/2025, 11:44:12",
+        "horaRespuesta": "12/07/2025, 11:45:05",
+        "demoraFormateada": "0h 0m 53s",
+        "demoraMs": 53000,
+        "demoraMinutos": "0.88",
+        "mensajeInicio": "📱 Confirmación de conexión: ¿Todo bien por tu lad...",
+        "mensajeRespuesta": "."
+      },
+      {
+        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
+        "horaInicio": "12/07/2025, 12:04:28",
+        "horaRespuesta": "12/07/2025, 12:07:59",
+        "demoraFormateada": "0h 3m 31s",
+        "demoraMs": 211000,
+        "demoraMinutos": "3.52",
+        "mensajeInicio": "🔔 Prueba de sistema: Verificando estado, responde...",
+        "mensajeRespuesta": "."
+      },
+      {
+        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
+        "horaInicio": "12/07/2025, 12:24:29",
+        "horaRespuesta": "12/07/2025, 12:30:35",
+        "demoraFormateada": "0h 6m 6s",
+        "demoraMs": 366000,
+        "demoraMinutos": "6.10",
+        "mensajeInicio": "⚙️ Test de línea: ¿Todo en orden por tu lado? Resp...",
+        "mensajeRespuesta": "."
+      },
+      {
+        "contactoUuid": "8ae2aae6f5c5479dbd242ca0ab1c11a0",
+        "horaInicio": "12/07/2025, 12:44:27",
+        "horaRespuesta": "12/07/2025, 12:47:28",
+        "demoraFormateada": "0h 3m 1s",
+        "demoraMs": 181000,
+        "demoraMinutos": "3.02",
+        "mensajeInicio": "🔧 Revisión de línea: ¿Recibiste el mensaje? Respo...",
         "mensajeRespuesta": "."
       },
       {
@@ -64101,6 +64355,16 @@
         "mensajeRespuesta": "✨ ¡Hola! Te damos la bienvenida a 300 ✨\n🍀❤️🔥 La ..."
       },
       {
+        "contactoUuid": "dafa944b45c24a6d9477403f2279de2d",
+        "horaInicio": "11/07/2025, 14:17:22",
+        "horaRespuesta": "11/07/2025, 14:18:03",
+        "demoraFormateada": "0h 0m 41s",
+        "demoraMs": 41000,
+        "demoraMinutos": "0.68",
+        "mensajeInicio": "Hola. Mi nombre es:",
+        "mensajeRespuesta": "✨ ¡Hola! Te damos la bienvenida a 300 ✨\n🍀❤️🔥 La ..."
+      },
+      {
         "contactoUuid": "7f17f3862bf94e648ae98a992a1ac554",
         "horaInicio": "11/07/2025, 13:42:21",
         "horaRespuesta": "11/07/2025, 13:43:25",
@@ -64301,9 +64565,9 @@
         "mensajeRespuesta": "Chequeado"
       }
     ],
-    "promedioGeneralMinutos": "2.71",
-    "promedioGeneralFormateado": "0h 2m 42s",
-    "totalDemorasAnalizadas": 63
+    "promedioGeneralMinutos": "2.95",
+    "promedioGeneralFormateado": "0h 2m 56s",
+    "totalDemorasAnalizadas": 62
   },
   "Detager": {
     "conversaciones": 101,
@@ -64496,9 +64760,9 @@
       },
       {
         "contactoUuid": "b4bc61bbc177450aa06a929bef3bb5d4",
-        "promedioFormateado": "0h 1m 4s",
-        "promedioMinutos": "1.08",
-        "cantidadMensajes": 5
+        "promedioFormateado": "0h 0m 26s",
+        "promedioMinutos": "0.43",
+        "cantidadMensajes": 4
       },
       {
         "contactoUuid": "c9a01bae32314a3b9da1da7c231fb760",
@@ -65444,52 +65708,42 @@
       },
       {
         "contactoUuid": "b4bc61bbc177450aa06a929bef3bb5d4",
-        "horaInicio": "11/07/2025, 14:29:28",
-        "horaRespuesta": "11/07/2025, 14:29:54",
-        "demoraFormateada": "0h 0m 26s",
-        "demoraMs": 26000,
-        "demoraMinutos": "0.43",
-        "mensajeInicio": "Cuánto sería si cargo mil",
-        "mensajeRespuesta": "https://detager-24.vercel.app/"
+        "horaInicio": "12/07/2025, 15:33:40",
+        "horaRespuesta": "12/07/2025, 15:34:07",
+        "demoraFormateada": "0h 0m 27s",
+        "demoraMs": 27000,
+        "demoraMinutos": "0.45",
+        "mensajeInicio": "Ahy cargó",
+        "mensajeRespuesta": "ℹ️ Recuerde: La carga mínima es de $1000 y el míni..."
       },
       {
         "contactoUuid": "b4bc61bbc177450aa06a929bef3bb5d4",
-        "horaInicio": "11/07/2025, 14:33:07",
-        "horaRespuesta": "11/07/2025, 14:34:29",
-        "demoraFormateada": "0h 1m 22s",
-        "demoraMs": 82000,
-        "demoraMinutos": "1.37",
+        "horaInicio": "12/07/2025, 15:36:43",
+        "horaRespuesta": "12/07/2025, 15:37:29",
+        "demoraFormateada": "0h 0m 46s",
+        "demoraMs": 46000,
+        "demoraMinutos": "0.77",
         "mensajeInicio": "Listo",
         "mensajeRespuesta": "Para c4rg4r c4rrect4mente sus f1ch4s envie el c0mp..."
       },
       {
         "contactoUuid": "b4bc61bbc177450aa06a929bef3bb5d4",
-        "horaInicio": "11/07/2025, 14:36:12",
-        "horaRespuesta": "11/07/2025, 14:36:36",
-        "demoraFormateada": "0h 0m 24s",
-        "demoraMs": 24000,
-        "demoraMinutos": "0.40",
-        "mensajeInicio": "Ya me cargaron",
-        "mensajeRespuesta": "buen4s, para consult4s, dep0sit0s y retir0s comuni..."
+        "horaInicio": "12/07/2025, 15:40:39",
+        "horaRespuesta": "12/07/2025, 15:40:49",
+        "demoraFormateada": "0h 0m 10s",
+        "demoraMs": 10000,
+        "demoraMinutos": "0.17",
+        "mensajeInicio": "Por q tiene otro usuario",
+        "mensajeRespuesta": "Danielgana3425"
       },
       {
         "contactoUuid": "b4bc61bbc177450aa06a929bef3bb5d4",
-        "horaInicio": "11/07/2025, 22:59:29",
-        "horaRespuesta": "11/07/2025, 22:59:32",
-        "demoraFormateada": "0h 0m 3s",
-        "demoraMs": 3000,
-        "demoraMinutos": "0.05",
-        "mensajeInicio": "Ahy bonus todabia",
-        "mensajeRespuesta": "Hola como estas"
-      },
-      {
-        "contactoUuid": "b4bc61bbc177450aa06a929bef3bb5d4",
-        "horaInicio": "12/07/2025, 01:34:05",
-        "horaRespuesta": "12/07/2025, 01:37:14",
-        "demoraFormateada": "0h 3m 9s",
-        "demoraMs": 189000,
-        "demoraMinutos": "3.15",
-        "mensajeInicio": "Hola",
+        "horaInicio": "12/07/2025, 15:40:57",
+        "horaRespuesta": "12/07/2025, 15:41:18",
+        "demoraFormateada": "0h 0m 21s",
+        "demoraMs": 21000,
+        "demoraMinutos": "0.35",
+        "mensajeInicio": "",
         "mensajeRespuesta": "buen4s, para consult4s, dep0sit0s y retir0s comuni..."
       },
       {
@@ -66783,14 +67037,14 @@
         "mensajeRespuesta": "ganamos.io"
       }
     ],
-    "promedioGeneralMinutos": "1.23",
-    "promedioGeneralFormateado": "0h 1m 14s",
-    "totalDemorasAnalizadas": 192
+    "promedioGeneralMinutos": "1.22",
+    "promedioGeneralFormateado": "0h 1m 13s",
+    "totalDemorasAnalizadas": 191
   },
   "Somos": {
-    "conversaciones": 39,
+    "conversaciones": 40,
     "veces_c4rgado": 0,
-    "veces_frase_cierre": 17,
+    "veces_frase_cierre": 18,
     "demoras_leves": {
       "cantidad": 0,
       "detalles": []
@@ -66949,6 +67203,12 @@
         "promedioFormateado": "0h 0m 39s",
         "promedioMinutos": "0.65",
         "cantidadMensajes": 2
+      },
+      {
+        "contactoUuid": "07acf72de0704ead97c1c91b0f8a1bac",
+        "promedioFormateado": "0h 1m 12s",
+        "promedioMinutos": "1.20",
+        "cantidadMensajes": 1
       },
       {
         "contactoUuid": "07acf72de0704ead97c1c91b0f8a1bac",
@@ -67487,6 +67747,16 @@
         "mensajeRespuesta": "💫 ¡Tu B0NUS está listo para activarse!\n\nAhora te ..."
       },
       {
+        "contactoUuid": "07acf72de0704ead97c1c91b0f8a1bac",
+        "horaInicio": "11/07/2025, 00:36:05",
+        "horaRespuesta": "11/07/2025, 00:37:17",
+        "demoraFormateada": "0h 1m 12s",
+        "demoraMs": 72000,
+        "demoraMinutos": "1.20",
+        "mensajeInicio": "Listoo",
+        "mensajeRespuesta": "💫 ¡Tu B0NUS está listo para activarse!\n\nAhora te ..."
+      },
+      {
         "contactoUuid": "80005edb4292456cb071d0581e9b51c7",
         "horaInicio": "11/07/2025, 00:27:55",
         "horaRespuesta": "11/07/2025, 00:29:51",
@@ -67547,8 +67817,8 @@
         "mensajeRespuesta": "💫 ¡Tu B0NUS está listo para activarse!\n\nAhora te ..."
       }
     ],
-    "promedioGeneralMinutos": "0.59",
-    "promedioGeneralFormateado": "0h 0m 35s",
-    "totalDemorasAnalizadas": 57
+    "promedioGeneralMinutos": "0.60",
+    "promedioGeneralFormateado": "0h 0m 36s",
+    "totalDemorasAnalizadas": 58
   }
 }

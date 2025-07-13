@@ -1,5 +1,777 @@
 [
   {
+    "nombre": "Amparo",
+    "paginas": [
+      {
+        "nombre": "Rueda Suertuda",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Flor Juega",
+        "followers": 16,
+        "fans": 16,
+        "posteosCount": 23,
+        "fechaUltimoPost": "2025-07-06T00:41:32+0000",
+        "primerPosteo": {
+          "created_time": "2025-04-27T21:59:43+0000",
+          "story": "Rueda Suertuda actualizó su foto del perfil.",
+          "id": "617817604749976_122104409102845921"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Gana NsOtros",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Flor Juega",
+        "followers": 14,
+        "fans": 13,
+        "posteosCount": 21,
+        "fechaUltimoPost": "2025-07-06T00:39:18+0000",
+        "primerPosteo": {
+          "created_time": "2025-04-27T21:48:47+0000",
+          "story": "Gana NsOtros actualizó su foto del perfil.",
+          "id": "682600631595102_122094642920863022"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Comunidad de la Suerte",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Franci Omero",
+        "followers": 28,
+        "fans": 27,
+        "posteosCount": 19,
+        "fechaUltimoPost": "2025-06-30T18:31:35+0000",
+        "primerPosteo": {
+          "created_time": "2025-04-27T21:31:08+0000",
+          "story": "Comunidad de la Suerte actualizó su foto de portada.",
+          "id": "618500291353627_4585980608294983"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Jessica VIP",
+        "categoria": "Agencia de marketing",
+        "negocio": "Modo Casa",
+        "followers": 28,
+        "fans": 29,
+        "posteosCount": 29,
+        "fechaUltimoPost": "2025-06-30T22:19:01+0000",
+        "primerPosteo": {
+          "created_time": "2025-04-11T23:43:50+0000",
+          "story": "Jessica VIP actualizó su foto del perfil.",
+          "id": "653545234489330_122093970716843905"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Floricienta Divierte",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Flor Juega",
+        "followers": 40,
+        "fans": 38,
+        "posteosCount": 61,
+        "fechaUltimoPost": "2025-07-06T00:35:45+0000",
+        "primerPosteo": {
+          "created_time": "2025-02-21T13:30:31+0000",
+          "story": "Floricienta Divierte actualizó su foto de portada.",
+          "id": "566889663175510_1210207360670917"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Camisama Juega",
+        "categoria": "Agencia de marketing",
+        "negocio": "Camisama Juega ",
+        "followers": 17,
+        "fans": 18,
+        "posteosCount": 26,
+        "fechaUltimoPost": "2025-07-02T12:06:01+0000",
+        "primerPosteo": {
+          "created_time": "2025-02-12T02:32:43+0000",
+          "story": "Camisama Juega actualizó su foto de portada.",
+          "id": "571966525997291_1287970442257674"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Camilito Juega",
+        "categoria": "Publicidad/marketing",
+        "negocio": "Camiliito Juega",
+        "followers": 46,
+        "fans": 45,
+        "posteosCount": 46,
+        "fechaUltimoPost": "2025-07-11T01:01:45+0000",
+        "primerPosteo": {
+          "created_time": "2025-02-11T02:12:04+0000",
+          "story": "Camilito Juega actualizó su foto de portada.",
+          "id": "537791256090497_632874305796945"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Andres Diversión",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "ConVirtual",
+        "followers": 2,
+        "fans": 0,
+        "posteosCount": 15,
+        "fechaUltimoPost": "2025-03-31T16:55:36+0000",
+        "primerPosteo": {
+          "created_time": "2024-12-16T21:21:47+0000",
+          "message": "🐉✨🍀",
+          "story": "Andres Diversión actualizó su foto del perfil.",
+          "id": "445030658703135_122097039338690566"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Ginna Divierte",
+        "categoria": "Publicidad/marketing",
+        "negocio": "Ginna Divierte",
+        "followers": 85,
+        "fans": 82,
+        "posteosCount": 77,
+        "fechaUltimoPost": "2025-07-11T15:16:38+0000",
+        "primerPosteo": {
+          "created_time": "2024-11-09T21:10:36+0000",
+          "story": "Ginna Divierte actualizó su foto de portada.",
+          "id": "429264880276730_1127157425519046"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Camilo Divierte",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Camilo Divierte",
+        "followers": 42,
+        "fans": 38,
+        "posteosCount": 51,
+        "fechaUltimoPost": "2025-07-11T00:58:32+0000",
+        "primerPosteo": {
+          "created_time": "2024-09-24T04:54:00+0000",
+          "story": "Camilo Divierte actualizó su foto de portada.",
+          "id": "447268098466733_8153896781385758"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Camilo Crupier",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Camilo Crupier",
+        "followers": 15,
+        "fans": 14,
+        "posteosCount": 31,
+        "fechaUltimoPost": "2025-06-28T16:15:39+0000",
+        "primerPosteo": {
+          "created_time": "2024-09-22T20:16:37+0000",
+          "story": "Camilo Crupier actualizó su foto del perfil.",
+          "id": "411405338727572_122104046642531128"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Claudi Crupier",
+        "categoria": "Publicidad/marketing",
+        "negocio": "Claudi Crupier",
+        "followers": 23,
+        "fans": 24,
+        "posteosCount": 21,
+        "fechaUltimoPost": "2025-06-20T23:36:24+0000",
+        "primerPosteo": {
+          "created_time": "2024-09-12T15:44:17+0000",
+          "story": "Claudi Crupier actualizó su foto del perfil.",
+          "id": "387776844426959_122105950298514210"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Leidy M Crupier",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Leidy M Crupier",
+        "followers": 36,
+        "fans": 36,
+        "posteosCount": 36,
+        "fechaUltimoPost": "2025-07-11T13:56:38+0000",
+        "primerPosteo": {
+          "created_time": "2024-09-12T16:20:05+0000",
+          "message": "¡Hola y bienvenido a tu nuevo espacio! 🎰💫 Aquí encontrarás el ambiente perfecto para relajarte y vivir experiencias únicas. Comparte tu pasión y conecta con otros entusiastas. ¡Nos alegra que te unas a esta travesía llena de emoción! 🎲⭐",
+          "id": "382332804971158_122096442974528054"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Clau Crupier",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Clau Crupier",
+        "followers": 32,
+        "fans": 23,
+        "posteosCount": 34,
+        "fechaUltimoPost": "2025-06-20T23:39:42+0000",
+        "primerPosteo": {
+          "created_time": "2024-09-09T00:02:44+0000",
+          "story": "Clau Crupier actualizó su foto del perfil.",
+          "id": "380094458528430_122096168012521772"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      }
+    ],
+    "bms": [
+      {
+        "nombre": "Camiliito Juega",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Ampi crupierzocket manager",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Camilo Crupier",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "gedeborah_wright.e096brcy",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Camilo diviertezocket manager",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Enel SpA",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Chloebek",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "IRSA",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Camisama Juega ",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Dippyaman Nath",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Camilo Divierte",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "César Sales",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "GgGroup-3627",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Modo Casa",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Straight North",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Betti Snow",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "ClicConcept",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Somos Uno - MCI USME",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      }
+    ]
+  },
+  {
+    "nombre": "Camilo",
+    "paginas": [
+      {
+        "nombre": "Rueda Suertuda",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Flor Juega",
+        "followers": 16,
+        "fans": 16,
+        "posteosCount": 23,
+        "fechaUltimoPost": "2025-07-06T00:41:32+0000",
+        "primerPosteo": {
+          "created_time": "2025-04-27T21:59:43+0000",
+          "story": "Rueda Suertuda actualizó su foto del perfil.",
+          "id": "617817604749976_122104409102845921"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Gana NsOtros",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Flor Juega",
+        "followers": 14,
+        "fans": 13,
+        "posteosCount": 21,
+        "fechaUltimoPost": "2025-07-06T00:39:18+0000",
+        "primerPosteo": {
+          "created_time": "2025-04-27T21:48:47+0000",
+          "story": "Gana NsOtros actualizó su foto del perfil.",
+          "id": "682600631595102_122094642920863022"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Comunidad de la Suerte",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Franci Omero",
+        "followers": 28,
+        "fans": 27,
+        "posteosCount": 19,
+        "fechaUltimoPost": "2025-06-30T18:31:35+0000",
+        "primerPosteo": {
+          "created_time": "2025-04-27T21:31:08+0000",
+          "story": "Comunidad de la Suerte actualizó su foto de portada.",
+          "id": "618500291353627_4585980608294983"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Jessica VIP",
+        "categoria": "Agencia de marketing",
+        "negocio": "Modo Casa",
+        "followers": 28,
+        "fans": 29,
+        "posteosCount": 29,
+        "fechaUltimoPost": "2025-06-30T22:19:01+0000",
+        "primerPosteo": {
+          "created_time": "2025-04-11T23:43:50+0000",
+          "story": "Jessica VIP actualizó su foto del perfil.",
+          "id": "653545234489330_122093970716843905"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Floricienta Divierte",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Flor Juega",
+        "followers": 40,
+        "fans": 38,
+        "posteosCount": 61,
+        "fechaUltimoPost": "2025-07-06T00:35:45+0000",
+        "primerPosteo": {
+          "created_time": "2025-02-21T13:30:31+0000",
+          "story": "Floricienta Divierte actualizó su foto de portada.",
+          "id": "566889663175510_1210207360670917"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Camisama Juega",
+        "categoria": "Agencia de marketing",
+        "negocio": "Camisama Juega ",
+        "followers": 17,
+        "fans": 18,
+        "posteosCount": 26,
+        "fechaUltimoPost": "2025-07-02T12:06:01+0000",
+        "primerPosteo": {
+          "created_time": "2025-02-12T02:32:43+0000",
+          "story": "Camisama Juega actualizó su foto de portada.",
+          "id": "571966525997291_1287970442257674"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Camilito Juega",
+        "categoria": "Publicidad/marketing",
+        "negocio": "Camiliito Juega",
+        "followers": 46,
+        "fans": 45,
+        "posteosCount": 46,
+        "fechaUltimoPost": "2025-07-11T01:01:45+0000",
+        "primerPosteo": {
+          "created_time": "2025-02-11T02:12:04+0000",
+          "story": "Camilito Juega actualizó su foto de portada.",
+          "id": "537791256090497_632874305796945"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Andres Diversión",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "ConVirtual",
+        "followers": 2,
+        "fans": 0,
+        "posteosCount": 15,
+        "fechaUltimoPost": "2025-03-31T16:55:36+0000",
+        "primerPosteo": {
+          "created_time": "2024-12-16T21:21:47+0000",
+          "message": "🐉✨🍀",
+          "story": "Andres Diversión actualizó su foto del perfil.",
+          "id": "445030658703135_122097039338690566"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Ginna Divierte",
+        "categoria": "Publicidad/marketing",
+        "negocio": "Ginna Divierte",
+        "followers": 85,
+        "fans": 82,
+        "posteosCount": 77,
+        "fechaUltimoPost": "2025-07-11T15:16:38+0000",
+        "primerPosteo": {
+          "created_time": "2024-11-09T21:10:36+0000",
+          "story": "Ginna Divierte actualizó su foto de portada.",
+          "id": "429264880276730_1127157425519046"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Camilo Divierte",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Camilo Divierte",
+        "followers": 42,
+        "fans": 38,
+        "posteosCount": 51,
+        "fechaUltimoPost": "2025-07-11T00:58:32+0000",
+        "primerPosteo": {
+          "created_time": "2024-09-24T04:54:00+0000",
+          "story": "Camilo Divierte actualizó su foto de portada.",
+          "id": "447268098466733_8153896781385758"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Camilo Crupier",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Camilo Crupier",
+        "followers": 15,
+        "fans": 14,
+        "posteosCount": 31,
+        "fechaUltimoPost": "2025-06-28T16:15:39+0000",
+        "primerPosteo": {
+          "created_time": "2024-09-22T20:16:37+0000",
+          "story": "Camilo Crupier actualizó su foto del perfil.",
+          "id": "411405338727572_122104046642531128"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Claudi Crupier",
+        "categoria": "Publicidad/marketing",
+        "negocio": "Claudi Crupier",
+        "followers": 23,
+        "fans": 24,
+        "posteosCount": 21,
+        "fechaUltimoPost": "2025-06-20T23:36:24+0000",
+        "primerPosteo": {
+          "created_time": "2024-09-12T15:44:17+0000",
+          "story": "Claudi Crupier actualizó su foto del perfil.",
+          "id": "387776844426959_122105950298514210"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Leidy M Crupier",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Leidy M Crupier",
+        "followers": 36,
+        "fans": 36,
+        "posteosCount": 36,
+        "fechaUltimoPost": "2025-07-11T13:56:38+0000",
+        "primerPosteo": {
+          "created_time": "2024-09-12T16:20:05+0000",
+          "message": "¡Hola y bienvenido a tu nuevo espacio! 🎰💫 Aquí encontrarás el ambiente perfecto para relajarte y vivir experiencias únicas. Comparte tu pasión y conecta con otros entusiastas. ¡Nos alegra que te unas a esta travesía llena de emoción! 🎲⭐",
+          "id": "382332804971158_122096442974528054"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      },
+      {
+        "nombre": "Clau Crupier",
+        "categoria": "Sitio web de entretenimiento",
+        "negocio": "Clau Crupier",
+        "followers": 32,
+        "fans": 23,
+        "posteosCount": 34,
+        "fechaUltimoPost": "2025-06-20T23:39:42+0000",
+        "primerPosteo": {
+          "created_time": "2024-09-09T00:02:44+0000",
+          "story": "Clau Crupier actualizó su foto del perfil.",
+          "id": "380094458528430_122096168012521772"
+        },
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 0,
+        "reac30": 0
+      }
+    ],
+    "bms": [
+      {
+        "nombre": "Camiliito Juega",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Ampi crupierzocket manager",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Camilo Crupier",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "gedeborah_wright.e096brcy",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Camilo diviertezocket manager",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Enel SpA",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Chloebek",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "IRSA",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Camisama Juega ",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Dippyaman Nath",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Camilo Divierte",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "César Sales",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "GgGroup-3627",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Modo Casa",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Straight North",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Betti Snow",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "ClicConcept",
+        "verificado": "verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      },
+      {
+        "nombre": "Somos Uno - MCI USME",
+        "verificado": "not_verified",
+        "waNombre": "Error",
+        "waTelefono": "Error",
+        "waUltimoUso": "Error"
+      }
+    ]
+  },
+  {
     "nombre": "Jose",
     "paginas": [
       {
@@ -33,10 +805,10 @@
           "story": "Jose Online actualizó su foto del perfil.",
           "id": "571938789333705_122096009732772926"
         },
-        "impDay": 5,
+        "impDay": 0,
         "reacDay": 0,
-        "imp30": 17449,
-        "reac30": 2
+        "imp30": 54347,
+        "reac30": 8
       },
       {
         "nombre": "Astrid Cajera",
@@ -51,10 +823,10 @@
           "story": "Astrid Cajera actualizó su foto de portada.",
           "id": "534359306425792_1448645329429785"
         },
-        "impDay": 1,
-        "reacDay": 0,
-        "imp30": 1084401,
-        "reac30": 161
+        "impDay": 45192,
+        "reacDay": 3,
+        "imp30": 1039942,
+        "reac30": 152
       },
       {
         "nombre": "Zulma Entretiene",
@@ -69,17 +841,17 @@
           "story": "Zulma Entretiene actualizó su foto de portada.",
           "id": "550958751426120_8651118924998187"
         },
-        "impDay": 49662,
+        "impDay": 48467,
         "reacDay": 0,
-        "imp30": 174404,
+        "imp30": 209581,
         "reac30": 2
       },
       {
         "nombre": "Renata Entretiene ",
         "categoria": "Agencia de marketing",
         "negocio": "Renata Crupier",
-        "followers": 59,
-        "fans": 56,
+        "followers": 58,
+        "fans": 55,
         "posteosCount": 48,
         "fechaUltimoPost": "2025-07-06T00:04:44+0000",
         "primerPosteo": {
@@ -87,10 +859,10 @@
           "story": "Renata Entretiene  actualizó su foto del perfil.",
           "id": "477808548753874_122101291934655569"
         },
-        "impDay": 0,
+        "impDay": 5,
         "reacDay": 0,
-        "imp30": 105446,
-        "reac30": 76
+        "imp30": 144237,
+        "reac30": 77
       },
       {
         "nombre": "Mariana Entretiene",
@@ -105,10 +877,10 @@
           "story": "Mariana Entretiene actualizó su foto del perfil.",
           "id": "532262296628522_122105168156622846"
         },
-        "impDay": 85971,
-        "reacDay": 15,
-        "imp30": 645968,
-        "reac30": 142
+        "impDay": 66988,
+        "reacDay": 16,
+        "imp30": 645975,
+        "reac30": 143
       },
       {
         "nombre": "Mariana Crupier",
@@ -123,17 +895,17 @@
           "story": "Mariana Crupier actualizó su foto del perfil.",
           "id": "456639884202733_122099726750602196"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 5588,
+        "impDay": 5556,
+        "reacDay": 11,
+        "imp30": 5602,
         "reac30": 62
       },
       {
         "nombre": "Ginna Divierte",
         "categoria": "Publicidad/marketing",
         "negocio": "Ginna Divierte",
-        "followers": 84,
-        "fans": 81,
+        "followers": 85,
+        "fans": 82,
         "posteosCount": 77,
         "fechaUltimoPost": "2025-07-11T15:16:38+0000",
         "primerPosteo": {
@@ -141,10 +913,10 @@
           "story": "Ginna Divierte actualizó su foto de portada.",
           "id": "429264880276730_1127157425519046"
         },
-        "impDay": 49260,
-        "reacDay": 4,
-        "imp30": 270179,
-        "reac30": 59
+        "impDay": 75483,
+        "reacDay": 15,
+        "imp30": 339200,
+        "reac30": 73
       },
       {
         "nombre": "Zulma Crupier",
@@ -152,17 +924,17 @@
         "negocio": "Zulma Crupier",
         "followers": 8,
         "fans": 6,
-        "posteosCount": 53,
-        "fechaUltimoPost": "2025-06-28T21:50:30+0000",
+        "posteosCount": 54,
+        "fechaUltimoPost": "2025-07-12T20:15:04+0000",
         "primerPosteo": {
           "created_time": "2024-10-10T21:54:54+0000",
           "story": "Zulma Crupier actualizó su foto del perfil.",
           "id": "472389769281219_122096582306570808"
         },
-        "impDay": 54963,
+        "impDay": 58505,
         "reacDay": 9,
-        "imp30": 734900,
-        "reac30": 87
+        "imp30": 775054,
+        "reac30": 86
       },
       {
         "nombre": "Jose Divierte",
@@ -197,8 +969,8 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 31571,
-        "reac30": 20
+        "imp30": 34250,
+        "reac30": 21
       },
       {
         "nombre": "Juli Divierte",
@@ -206,8 +978,8 @@
         "negocio": "Juli Divierte",
         "followers": 24,
         "fans": 24,
-        "posteosCount": 36,
-        "fechaUltimoPost": "2025-06-17T00:53:19+0000",
+        "posteosCount": 37,
+        "fechaUltimoPost": "2025-07-11T21:38:01+0000",
         "primerPosteo": {
           "created_time": "2024-09-16T13:47:48+0000",
           "story": "Juli Divierte actualizó su foto del perfil.",
@@ -357,10 +1129,10 @@
           "story": "Hoy Ganás actualizó su foto del perfil.",
           "id": "678319842021488_122094139208866712"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 293578,
-        "reac30": 16
+        "impDay": 293694,
+        "reacDay": 16,
+        "imp30": 431526,
+        "reac30": 23
       },
       {
         "nombre": "SpinRush",
@@ -377,7 +1149,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 44,
+        "imp30": 42,
         "reac30": 7
       },
       {
@@ -395,26 +1167,8 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 26,
+        "imp30": 24,
         "reac30": 3
-      },
-      {
-        "nombre": "FortuMax",
-        "categoria": "Sitio web de entretenimiento",
-        "negocio": "Sofia Crupier",
-        "followers": 20,
-        "fans": 19,
-        "posteosCount": 23,
-        "fechaUltimoPost": "2025-07-10T01:26:35+0000",
-        "primerPosteo": {
-          "created_time": "2025-04-27T22:42:19+0000",
-          "story": "FortuMax actualizó su foto de portada.",
-          "id": "561258163747844_2735706366628364"
-        },
-        "impDay": 1,
-        "reacDay": 0,
-        "imp30": 2,
-        "reac30": 0
       },
       {
         "nombre": "Sindyangulo159",
@@ -467,7 +1221,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 8367,
+        "imp30": 8373,
         "reac30": 36
       },
       {
@@ -482,10 +1236,10 @@
           "created_time": "2025-01-16T20:46:39+0000",
           "id": "525638637306087_122099672096731970"
         },
-        "impDay": 2931,
-        "reacDay": 1,
-        "imp30": 354482,
-        "reac30": 116
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 351188,
+        "reac30": 115
       },
       {
         "nombre": "Geremy Cajero",
@@ -511,16 +1265,16 @@
         "negocio": "Angela Entretiene",
         "followers": 26,
         "fans": 26,
-        "posteosCount": 57,
-        "fechaUltimoPost": "2025-07-09T04:09:37+0000",
+        "posteosCount": 58,
+        "fechaUltimoPost": "2025-07-12T01:28:33+0000",
         "primerPosteo": {
           "created_time": "2024-12-31T21:32:51+0000",
           "story": "Angela Cajera actualizó su foto del perfil.",
           "id": "477070142165580_122098398824712581"
         },
-        "impDay": 542,
-        "reacDay": 1,
-        "imp30": 6639,
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 30593,
         "reac30": 33
       },
       {
@@ -590,10 +1344,10 @@
           "story": "Sharith Divierte actualizó su foto del perfil.",
           "id": "456710204196481_122099218100609274"
         },
-        "impDay": 0,
+        "impDay": 1,
         "reacDay": 0,
-        "imp30": 231692,
-        "reac30": 19
+        "imp30": 179920,
+        "reac30": 16
       },
       {
         "nombre": "Cata Divierte",
@@ -608,10 +1362,10 @@
           "story": "Cata Divierte actualizó su foto del perfil.",
           "id": "441756545692221_122094223688602702"
         },
-        "impDay": 6865,
-        "reacDay": 2,
-        "imp30": 232145,
-        "reac30": 78
+        "impDay": 0,
+        "reacDay": 0,
+        "imp30": 189868,
+        "reac30": 77
       },
       {
         "nombre": "Ana Divierte",
@@ -619,8 +1373,8 @@
         "negocio": "Ana Divierte",
         "followers": 15,
         "fans": 13,
-        "posteosCount": 36,
-        "fechaUltimoPost": "2025-07-08T17:12:10+0000",
+        "posteosCount": 37,
+        "fechaUltimoPost": "2025-07-12T00:53:56+0000",
         "primerPosteo": {
           "created_time": "2024-10-27T16:20:18+0000",
           "story": "Ana Divierte actualizó su foto del perfil.",
@@ -628,7 +1382,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 21,
+        "imp30": 22,
         "reac30": 27
       },
       {
@@ -644,10 +1398,10 @@
           "story": "Dani Divierte actualizó su foto del perfil.",
           "id": "444084278791378_122108617430571073"
         },
-        "impDay": 95897,
-        "reacDay": 20,
-        "imp30": 610757,
-        "reac30": 122
+        "impDay": 86370,
+        "reacDay": 15,
+        "imp30": 648225,
+        "reac30": 139
       },
       {
         "nombre": "Salo Crupier",
@@ -664,7 +1418,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 211688,
+        "imp30": 211687,
         "reac30": 34
       },
       {
@@ -682,8 +1436,8 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 74289,
-        "reac30": 51
+        "imp30": 28491,
+        "reac30": 45
       },
       {
         "nombre": "Sara Crupier",
@@ -700,7 +1454,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 206994,
+        "imp30": 201570,
         "reac30": 27
       }
     ],
@@ -933,7 +1687,7 @@
           "story": "Sala de los Ganadores actualizó su foto del perfil.",
           "id": "626115523918254_122110329350842660"
         },
-        "impDay": 4,
+        "impDay": 0,
         "reacDay": 0,
         "imp30": 4,
         "reac30": 0
@@ -951,9 +1705,9 @@
           "story": "Gabi Crupier actualizó su foto del perfil.",
           "id": "533086519894138_122099656370765705"
         },
-        "impDay": 8,
-        "reacDay": 0,
-        "imp30": 215680,
+        "impDay": 3864,
+        "reacDay": 3,
+        "imp30": 186319,
         "reac30": 49
       },
       {
@@ -987,7 +1741,7 @@
           "story": "Astrid Diversión actualizó su foto del perfil.",
           "id": "487575084449854_122098020230766428"
         },
-        "impDay": 7852,
+        "impDay": 0,
         "reacDay": 0,
         "imp30": 200974,
         "reac30": 46
@@ -1059,10 +1813,10 @@
           "story": "Jimena Online  actualizó su foto del perfil.",
           "id": "525629813970886_122104118234705257"
         },
-        "impDay": 51787,
-        "reacDay": 12,
-        "imp30": 243794,
-        "reac30": 93
+        "impDay": 31505,
+        "reacDay": 4,
+        "imp30": 228283,
+        "reac30": 86
       },
       {
         "nombre": "Gabriela Divertida",
@@ -1079,7 +1833,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 42,
+        "imp30": 39,
         "reac30": 7
       },
       {
@@ -1095,17 +1849,17 @@
           "story": "Valen Enretiene actualizó su foto del perfil.",
           "id": "520762431113009_122098429244664700"
         },
-        "impDay": 20539,
-        "reacDay": 1,
-        "imp30": 121567,
-        "reac30": 23
+        "impDay": 33339,
+        "reacDay": 3,
+        "imp30": 126073,
+        "reac30": 25
       },
       {
         "nombre": "Bri Crupier",
         "categoria": "Agencia de publicidad",
         "negocio": "Bri Crupier",
-        "followers": 47,
-        "fans": 47,
+        "followers": 48,
+        "fans": 48,
         "posteosCount": 59,
         "fechaUltimoPost": "2025-07-05T00:24:03+0000",
         "primerPosteo": {
@@ -1115,8 +1869,8 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 223848,
-        "reac30": 89
+        "imp30": 170614,
+        "reac30": 84
       },
       {
         "nombre": "Vane Acompaña 1",
@@ -1133,7 +1887,7 @@
         },
         "impDay": 1,
         "reacDay": 0,
-        "imp30": 254343,
+        "imp30": 254348,
         "reac30": 63
       },
       {
@@ -1169,8 +1923,8 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 555393,
-        "reac30": 148
+        "imp30": 535001,
+        "reac30": 140
       },
       {
         "nombre": "Luisa Crupier",
@@ -1187,15 +1941,15 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 3617,
-        "reac30": 14
+        "imp30": 3599,
+        "reac30": 13
       },
       {
         "nombre": "Aleja crupier",
         "categoria": "Sitio web de entretenimiento",
         "negocio": "Aleja crupier",
         "followers": 42,
-        "fans": 21,
+        "fans": 20,
         "posteosCount": 63,
         "fechaUltimoPost": "2025-07-11T17:49:09+0000",
         "primerPosteo": {
@@ -1203,10 +1957,10 @@
           "story": "Aleja crupier actualizó su foto del perfil.",
           "id": "412262818640439_122098734266538137"
         },
-        "impDay": 59902,
-        "reacDay": 10,
-        "imp30": 781592,
-        "reac30": 182
+        "impDay": 4442,
+        "reacDay": 9,
+        "imp30": 815625,
+        "reac30": 184
       },
       {
         "nombre": "Luisa Divierte",
@@ -1241,7 +1995,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 376569,
+        "imp30": 376559,
         "reac30": 211
       }
     ],
@@ -1346,8 +2100,8 @@
         "nombre": "Moni Online",
         "categoria": "Agencia de marketing",
         "negocio": "Monica divierte",
-        "followers": 24,
-        "fans": 21,
+        "followers": 26,
+        "fans": 23,
         "posteosCount": 17,
         "fechaUltimoPost": "2025-06-29T01:09:55+0000",
         "primerPosteo": {
@@ -1355,10 +2109,10 @@
           "story": "Moni Online actualizó su foto del perfil.",
           "id": "540065639196242_122103133208763856"
         },
-        "impDay": 104023,
-        "reacDay": 27,
-        "imp30": 643392,
-        "reac30": 188
+        "impDay": 120218,
+        "reacDay": 22,
+        "imp30": 704753,
+        "reac30": 214
       },
       {
         "nombre": "Lourdes juega",
@@ -1366,17 +2120,17 @@
         "negocio": "Agente Lourdes",
         "followers": 45,
         "fans": 39,
-        "posteosCount": 53,
-        "fechaUltimoPost": "2025-07-05T20:17:48+0000",
+        "posteosCount": 54,
+        "fechaUltimoPost": "2025-07-12T19:38:10+0000",
         "primerPosteo": {
           "created_time": "2025-02-02T01:40:14+0000",
           "story": "Lourdes juega actualizó su foto de portada.",
           "id": "539588975911511_533208452432076"
         },
-        "impDay": 69751,
-        "reacDay": 5,
-        "imp30": 776534,
-        "reac30": 104
+        "impDay": 69349,
+        "reacDay": 11,
+        "imp30": 790767,
+        "reac30": 108
       },
       {
         "nombre": "Fatima Online",
@@ -1391,9 +2145,9 @@
           "story": "Fatima Online actualizó su foto del perfil.",
           "id": "568710996314948_122103050078706634"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 49578,
+        "impDay": 45325,
+        "reacDay": 3,
+        "imp30": 56426,
         "reac30": 3
       },
       {
@@ -1411,8 +2165,8 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 12217,
-        "reac30": 16
+        "imp30": 12214,
+        "reac30": 15
       },
       {
         "nombre": "Astrid Divierte",
@@ -1445,10 +2199,10 @@
           "story": "Valentina Crupier actualizó su foto del perfil.",
           "id": "414661878405127_122106110558555844"
         },
-        "impDay": 6420,
+        "impDay": 0,
         "reacDay": 0,
-        "imp30": 257248,
-        "reac30": 32
+        "imp30": 362117,
+        "reac30": 49
       },
       {
         "nombre": "Vane Acompaña",
@@ -1474,17 +2228,17 @@
         "negocio": "Aleja Divierte",
         "followers": 30,
         "fans": 22,
-        "posteosCount": 38,
-        "fechaUltimoPost": "2025-07-10T20:21:29+0000",
+        "posteosCount": 39,
+        "fechaUltimoPost": "2025-07-12T00:00:10+0000",
         "primerPosteo": {
           "created_time": "2024-09-22T21:36:09+0000",
           "story": "Aleja Divierte actualizó su foto del perfil.",
           "id": "445078988685043_122104738616530343"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 282207,
-        "reac30": 122
+        "impDay": 5,
+        "reacDay": 7,
+        "imp30": 262513,
+        "reac30": 115
       },
       {
         "nombre": "Marcela Crupier",
@@ -1544,8 +2298,8 @@
         "nombre": "Fatima Crupier",
         "categoria": "Sitio web de entretenimiento",
         "negocio": "Fatima Crupier",
-        "followers": 54,
-        "fans": 33,
+        "followers": 56,
+        "fans": 35,
         "posteosCount": 43,
         "fechaUltimoPost": "2025-06-07T04:52:50+0000",
         "primerPosteo": {
@@ -1555,8 +2309,8 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 275417,
-        "reac30": 181
+        "imp30": 262959,
+        "reac30": 173
       },
       {
         "nombre": "Nati Crupier",
@@ -1571,9 +2325,9 @@
           "story": "Nati Crupier actualizó su foto del perfil.",
           "id": "414083915124720_122099486768513591"
         },
-        "impDay": 2785,
+        "impDay": 0,
         "reacDay": 0,
-        "imp30": 348073,
+        "imp30": 348072,
         "reac30": 133
       }
     ],
@@ -1675,7 +2429,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 1680,
+        "imp30": 1679,
         "reac30": 9
       },
       {
@@ -1702,35 +2456,17 @@
         "negocio": "Angela Entretiene",
         "followers": 18,
         "fans": 17,
-        "posteosCount": 41,
-        "fechaUltimoPost": "2025-07-04T22:21:39+0000",
+        "posteosCount": 42,
+        "fechaUltimoPost": "2025-07-12T01:23:43+0000",
         "primerPosteo": {
           "created_time": "2025-02-11T01:47:16+0000",
           "story": "Angela Entretiene actualizó su foto del perfil.",
           "id": "559591767238216_122098093688767091"
         },
-        "impDay": 0,
+        "impDay": 3,
         "reacDay": 0,
-        "imp30": 38,
-        "reac30": 30
-      },
-      {
-        "nombre": "Hernán Juega",
-        "categoria": "Agencia de marketing",
-        "negocio": "Agente Hernán",
-        "followers": 38,
-        "fans": 38,
-        "posteosCount": 33,
-        "fechaUltimoPost": "2025-07-07T02:06:06+0000",
-        "primerPosteo": {
-          "created_time": "2025-01-31T00:53:14+0000",
-          "story": "Hernán Juega actualizó su foto del perfil.",
-          "id": "489147854291280_122103728120744258"
-        },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 9762,
-        "reac30": 33
+        "imp30": 18994,
+        "reac30": 31
       },
       {
         "nombre": "Miguel Angel Crupier",
@@ -1747,26 +2483,26 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 135,
+        "imp30": 132,
         "reac30": 0
       },
       {
         "nombre": "Castillo Crupier",
         "categoria": "Agencia de marketing",
         "negocio": "Aleja Divierte",
-        "followers": 27,
-        "fans": 17,
-        "posteosCount": 50,
-        "fechaUltimoPost": "2025-07-10T21:06:28+0000",
+        "followers": 28,
+        "fans": 18,
+        "posteosCount": 51,
+        "fechaUltimoPost": "2025-07-12T00:05:03+0000",
         "primerPosteo": {
           "created_time": "2025-01-23T21:32:36+0000",
           "story": "Castillo Crupier actualizó su foto del perfil.",
           "id": "582990444890610_122098596980746074"
         },
-        "impDay": 104728,
-        "reacDay": 33,
-        "imp30": 925955,
-        "reac30": 205
+        "impDay": 75106,
+        "reacDay": 25,
+        "imp30": 996530,
+        "reac30": 216
       },
       {
         "nombre": "Astrid Cajera",
@@ -1781,10 +2517,10 @@
           "story": "Astrid Cajera actualizó su foto de portada.",
           "id": "534359306425792_1448645329429785"
         },
-        "impDay": 1,
-        "reacDay": 0,
-        "imp30": 1084401,
-        "reac30": 161
+        "impDay": 45192,
+        "reacDay": 3,
+        "imp30": 1039942,
+        "reac30": 152
       },
       {
         "nombre": "Mar Cajera",
@@ -1799,9 +2535,9 @@
           "story": "Mar Cajera actualizó su foto del perfil.",
           "id": "502079859659658_122096133848714467"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 225981,
+        "impDay": 86628,
+        "reacDay": 9,
+        "imp30": 236687,
         "reac30": 38
       },
       {
@@ -1817,9 +2553,9 @@
           "story": "Gloria Crupier actualizó su foto del perfil.",
           "id": "509640152229782_122103610274671622"
         },
-        "impDay": 0,
+        "impDay": 1,
         "reacDay": 0,
-        "imp30": 10,
+        "imp30": 32866,
         "reac30": 0
       },
       {
@@ -1837,7 +2573,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 34,
+        "imp30": 33,
         "reac30": 14
       },
       {
@@ -1853,10 +2589,10 @@
           "story": "Lore Entretiene actualizó su foto del perfil.",
           "id": "514816311711551_122108813624651063"
         },
-        "impDay": 37134,
-        "reacDay": 2,
-        "imp30": 327051,
-        "reac30": 17
+        "impDay": 58183,
+        "reacDay": 12,
+        "imp30": 370184,
+        "reac30": 26
       },
       {
         "nombre": "Lua Entretiene",
@@ -1864,17 +2600,17 @@
         "negocio": "Luathy Crupier",
         "followers": 48,
         "fans": 43,
-        "posteosCount": 52,
-        "fechaUltimoPost": "2025-07-11T12:52:07+0000",
+        "posteosCount": 53,
+        "fechaUltimoPost": "2025-07-12T19:55:01+0000",
         "primerPosteo": {
           "created_time": "2024-11-21T00:43:51+0000",
           "story": "Lua Entretiene actualizó su foto del perfil.",
           "id": "430333513507492_122098882352636066"
         },
-        "impDay": 5408,
+        "impDay": 0,
         "reacDay": 0,
-        "imp30": 26939,
-        "reac30": 13
+        "imp30": 52489,
+        "reac30": 15
       },
       {
         "nombre": "Marti Divierte",
@@ -1891,7 +2627,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 30,
+        "imp30": 1019,
         "reac30": 15
       },
       {
@@ -1907,9 +2643,9 @@
           "story": "Cristina Crupier actualizó su foto del perfil.",
           "id": "407605829111869_122109727814555430"
         },
-        "impDay": 1,
+        "impDay": 3,
         "reacDay": 0,
-        "imp30": 770098,
+        "imp30": 762595,
         "reac30": 123
       },
       {
@@ -1961,8 +2697,8 @@
           "story": "Sofia Crupier actualizó su foto del perfil.",
           "id": "407691119097866_122101781840506364"
         },
-        "impDay": 46443,
-        "reacDay": 3,
+        "impDay": 5056,
+        "reacDay": 0,
         "imp30": 361951,
         "reac30": 33
       }
@@ -2204,8 +2940,8 @@
         "negocio": "Zoe51",
         "followers": 14,
         "fans": 14,
-        "posteosCount": 19,
-        "fechaUltimoPost": "2025-07-04T22:33:05+0000",
+        "posteosCount": 20,
+        "fechaUltimoPost": "2025-07-12T01:32:22+0000",
         "primerPosteo": {
           "created_time": "2025-04-27T19:08:12+0000",
           "story": "Juega y Gana actualizó su foto del perfil.",
@@ -2213,7 +2949,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 27,
+        "imp30": 29,
         "reac30": 31
       },
       {
@@ -2247,10 +2983,10 @@
           "story": "Muskan Online actualizó su foto del perfil.",
           "id": "540368622499028_122107135904762479"
         },
-        "impDay": 23118,
-        "reacDay": 2,
-        "imp30": 155240,
-        "reac30": 104
+        "impDay": 23610,
+        "reacDay": 6,
+        "imp30": 218649,
+        "reac30": 101
       },
       {
         "nombre": "Muskan Crupier",
@@ -2264,7 +3000,7 @@
           "created_time": "2025-02-12T08:14:19+0000",
           "id": "595951293600488_122102194520763221"
         },
-        "impDay": 1,
+        "impDay": 0,
         "reacDay": 0,
         "imp30": 9,
         "reac30": 9
@@ -2282,10 +3018,10 @@
           "story": "Lu Cajera actualizó su foto del perfil.",
           "id": "494647103738326_122098635794710868"
         },
-        "impDay": 19889,
+        "impDay": 0,
         "reacDay": 0,
-        "imp30": 459262,
-        "reac30": 149
+        "imp30": 447186,
+        "reac30": 143
       },
       {
         "nombre": "Maria Entretiene",
@@ -2318,10 +3054,10 @@
           "story": "Vane Entretiene actualizó su foto del perfil.",
           "id": "430530673487146_122098278104659541"
         },
-        "impDay": 86478,
-        "reacDay": 17,
-        "imp30": 751284,
-        "reac30": 124
+        "impDay": 98190,
+        "reacDay": 29,
+        "imp30": 783248,
+        "reac30": 137
       },
       {
         "nombre": "Ginna Entretiene",
@@ -2345,18 +3081,18 @@
         "nombre": "Luathany Divierte",
         "categoria": "Agencia de marketing",
         "negocio": "Luathy Divierte",
-        "followers": 26,
-        "fans": 16,
-        "posteosCount": 37,
-        "fechaUltimoPost": "2025-07-05T21:09:20+0000",
+        "followers": 27,
+        "fans": 17,
+        "posteosCount": 38,
+        "fechaUltimoPost": "2025-07-12T20:00:59+0000",
         "primerPosteo": {
           "created_time": "2024-11-16T00:07:11+0000",
           "message": "😍😍",
           "id": "400091373196979_122114755154590131"
         },
-        "impDay": 9503,
+        "impDay": 0,
         "reacDay": 0,
-        "imp30": 277969,
+        "imp30": 277968,
         "reac30": 37
       },
       {
@@ -2372,10 +3108,10 @@
           "story": "Is Divierte actualizó su foto del perfil.",
           "id": "364904900050730_122098362674547817"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 27571,
-        "reac30": 18
+        "impDay": 27566,
+        "reacDay": 2,
+        "imp30": 109854,
+        "reac30": 25
       },
       {
         "nombre": "Ana Crupier",
@@ -2390,10 +3126,10 @@
           "story": "Ana Crupier actualizó su foto del perfil.",
           "id": "422988634232903_122102703044529096"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 65,
-        "reac30": 58
+        "impDay": 8,
+        "reacDay": 10,
+        "imp30": 31687,
+        "reac30": 60
       },
       {
         "nombre": "Anita Crupier",
@@ -2408,9 +3144,9 @@
           "story": "Anita Crupier actualizó su foto del perfil.",
           "id": "391426607394875_122097689594531873"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 175378,
+        "impDay": 54460,
+        "reacDay": 5,
+        "imp30": 186956,
         "reac30": 74
       }
     ],
@@ -2589,6 +3325,24 @@
     "nombre": "Lorena",
     "paginas": [
       {
+        "nombre": "Hernán Juega",
+        "categoria": "Agencia de marketing",
+        "negocio": "Agente Hernán",
+        "followers": 38,
+        "fans": 38,
+        "posteosCount": 33,
+        "fechaUltimoPost": "2025-07-07T02:06:06+0000",
+        "primerPosteo": {
+          "created_time": "2025-01-31T00:53:14+0000",
+          "story": "Hernán Juega actualizó su foto del perfil.",
+          "id": "489147854291280_122103728120744258"
+        },
+        "impDay": 2,
+        "reacDay": 0,
+        "imp30": 10209,
+        "reac30": 33
+      },
+      {
         "nombre": "Lorena  entretiene",
         "categoria": "Bar",
         "negocio": "Sin negocio",
@@ -2601,8 +3355,8 @@
           "story": "Lorena  entretiene actualizó su foto del perfil.",
           "id": "545056885354918_122124714974733811"
         },
-        "impDay": 8,
-        "reacDay": 6,
+        "impDay": 1,
+        "reacDay": 0,
         "imp30": 9,
         "reac30": 6
       },
@@ -2619,10 +3373,10 @@
           "story": "Ginna Divertida actualizó su foto del perfil.",
           "id": "452011044673132_122100098336707986"
         },
-        "impDay": 20026,
+        "impDay": 53598,
         "reacDay": 0,
-        "imp30": 817767,
-        "reac30": 130
+        "imp30": 856878,
+        "reac30": 135
       },
       {
         "nombre": "Lore Entretiene",
@@ -2637,10 +3391,10 @@
           "story": "Lore Entretiene actualizó su foto del perfil.",
           "id": "514816311711551_122108813624651063"
         },
-        "impDay": 37134,
-        "reacDay": 2,
-        "imp30": 327051,
-        "reac30": 17
+        "impDay": 58183,
+        "reacDay": 12,
+        "imp30": 370185,
+        "reac30": 26
       },
       {
         "nombre": "Zulma Crupier",
@@ -2648,17 +3402,17 @@
         "negocio": "Zulma Crupier",
         "followers": 8,
         "fans": 6,
-        "posteosCount": 53,
-        "fechaUltimoPost": "2025-06-28T21:50:30+0000",
+        "posteosCount": 54,
+        "fechaUltimoPost": "2025-07-12T20:15:04+0000",
         "primerPosteo": {
           "created_time": "2024-10-10T21:54:54+0000",
           "story": "Zulma Crupier actualizó su foto del perfil.",
           "id": "472389769281219_122096582306570808"
         },
-        "impDay": 54963,
+        "impDay": 58505,
         "reacDay": 9,
-        "imp30": 734900,
-        "reac30": 87
+        "imp30": 775054,
+        "reac30": 86
       }
     ],
     "bms": [
@@ -2689,6 +3443,24 @@
     "nombre": "Zulma",
     "paginas": [
       {
+        "nombre": "Hernán Juega",
+        "categoria": "Agencia de marketing",
+        "negocio": "Agente Hernán",
+        "followers": 38,
+        "fans": 38,
+        "posteosCount": 33,
+        "fechaUltimoPost": "2025-07-07T02:06:06+0000",
+        "primerPosteo": {
+          "created_time": "2025-01-31T00:53:14+0000",
+          "story": "Hernán Juega actualizó su foto del perfil.",
+          "id": "489147854291280_122103728120744258"
+        },
+        "impDay": 2,
+        "reacDay": 0,
+        "imp30": 10209,
+        "reac30": 33
+      },
+      {
         "nombre": "Lorena  entretiene",
         "categoria": "Bar",
         "negocio": "Sin negocio",
@@ -2701,8 +3473,8 @@
           "story": "Lorena  entretiene actualizó su foto del perfil.",
           "id": "545056885354918_122124714974733811"
         },
-        "impDay": 8,
-        "reacDay": 6,
+        "impDay": 1,
+        "reacDay": 0,
         "imp30": 9,
         "reac30": 6
       },
@@ -2719,10 +3491,10 @@
           "story": "Ginna Divertida actualizó su foto del perfil.",
           "id": "452011044673132_122100098336707986"
         },
-        "impDay": 20026,
+        "impDay": 53598,
         "reacDay": 0,
-        "imp30": 817767,
-        "reac30": 130
+        "imp30": 856878,
+        "reac30": 135
       },
       {
         "nombre": "Lore Entretiene",
@@ -2737,10 +3509,10 @@
           "story": "Lore Entretiene actualizó su foto del perfil.",
           "id": "514816311711551_122108813624651063"
         },
-        "impDay": 37134,
-        "reacDay": 2,
-        "imp30": 327051,
-        "reac30": 17
+        "impDay": 58183,
+        "reacDay": 12,
+        "imp30": 370185,
+        "reac30": 26
       },
       {
         "nombre": "Zulma Crupier",
@@ -2748,17 +3520,17 @@
         "negocio": "Zulma Crupier",
         "followers": 8,
         "fans": 6,
-        "posteosCount": 53,
-        "fechaUltimoPost": "2025-06-28T21:50:30+0000",
+        "posteosCount": 54,
+        "fechaUltimoPost": "2025-07-12T20:15:04+0000",
         "primerPosteo": {
           "created_time": "2024-10-10T21:54:54+0000",
           "story": "Zulma Crupier actualizó su foto del perfil.",
           "id": "472389769281219_122096582306570808"
         },
-        "impDay": 54963,
+        "impDay": 58505,
         "reacDay": 9,
-        "imp30": 734900,
-        "reac30": 87
+        "imp30": 775054,
+        "reac30": 86
       }
     ],
     "bms": [
@@ -2801,9 +3573,9 @@
           "story": "La Jefa Cindy actualizó su foto del perfil.",
           "id": "625577423971233_122101083098833636"
         },
-        "impDay": 6187,
+        "impDay": 4,
         "reacDay": 0,
-        "imp30": 473314,
+        "imp30": 473319,
         "reac30": 73
       },
       {
@@ -2835,8 +3607,8 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 17,
-        "reac30": 16
+        "imp30": 26121,
+        "reac30": 18
       },
       {
         "nombre": "Agente Caty",
@@ -2851,7 +3623,7 @@
           "story": "Agente Caty actualizó su foto del perfil.",
           "id": "590453547484515_122093327120807708"
         },
-        "impDay": 17034,
+        "impDay": 3385,
         "reacDay": 0,
         "imp30": 366564,
         "reac30": 33
@@ -2869,9 +3641,9 @@
           "story": "Tere Cajera actualizó su foto del perfil.",
           "id": "512016952000746_122103095960705854"
         },
-        "impDay": 72408,
-        "reacDay": 9,
-        "imp30": 620017,
+        "impDay": 55293,
+        "reacDay": 2,
+        "imp30": 624291,
         "reac30": 106
       },
       {
@@ -2889,7 +3661,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 16884,
+        "imp30": 16873,
         "reac30": 15
       },
       {
@@ -2905,10 +3677,10 @@
           "story": "Patri Entretiene actualizó su foto del perfil.",
           "id": "469421856262698_122097562712662148"
         },
-        "impDay": 548,
-        "reacDay": 0,
-        "imp30": 264661,
-        "reac30": 55
+        "impDay": 52292,
+        "reacDay": 9,
+        "imp30": 323970,
+        "reac30": 67
       },
       {
         "nombre": "Tere Divierte ",
@@ -2923,8 +3695,8 @@
           "story": "Tere Divierte  actualizó su foto del perfil.",
           "id": "475834548950581_122105531990645036"
         },
-        "impDay": 14742,
-        "reacDay": 1,
+        "impDay": 0,
+        "reacDay": 0,
         "imp30": 14742,
         "reac30": 1
       },
@@ -2941,9 +3713,9 @@
           "story": "Darly Entretiene actualizó su foto del perfil.",
           "id": "453328961205031_122105283734622219"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 100985,
+        "impDay": 48065,
+        "reacDay": 2,
+        "imp30": 105431,
         "reac30": 58
       },
       {
@@ -2959,10 +3731,10 @@
           "story": "Patri Divierte actualizó su foto del perfil.",
           "id": "494516143737279_122093434022604476"
         },
-        "impDay": 16830,
-        "reacDay": 1,
-        "imp30": 178229,
-        "reac30": 31
+        "impDay": 14869,
+        "reacDay": 0,
+        "imp30": 126618,
+        "reac30": 30
       },
       {
         "nombre": "Ana Crupier 2",
@@ -2970,17 +3742,17 @@
         "negocio": "Ana Crupier 2",
         "followers": 41,
         "fans": 40,
-        "posteosCount": 61,
-        "fechaUltimoPost": "2025-07-10T21:16:35+0000",
+        "posteosCount": 62,
+        "fechaUltimoPost": "2025-07-12T00:52:15+0000",
         "primerPosteo": {
           "created_time": "2024-11-12T16:20:51+0000",
           "story": "Ana Crupier 2 actualizó su foto del perfil.",
           "id": "441758192357880_122114848166573071"
         },
-        "impDay": 50649,
-        "reacDay": 2,
-        "imp30": 551745,
-        "reac30": 142
+        "impDay": 6239,
+        "reacDay": 10,
+        "imp30": 485346,
+        "reac30": 129
       },
       {
         "nombre": "Mar Crupier ",
@@ -2997,7 +3769,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 391376,
+        "imp30": 391374,
         "reac30": 153
       },
       {
@@ -3013,10 +3785,10 @@
           "message": "¡Buen diaa! 🥰✨🍀",
           "id": "393715980499664_122108479256532805"
         },
-        "impDay": 54956,
-        "reacDay": 36,
-        "imp30": 334659,
-        "reac30": 196
+        "impDay": 39823,
+        "reacDay": 26,
+        "imp30": 343199,
+        "reac30": 208
       },
       {
         "nombre": "Darly Crupier",
@@ -3031,17 +3803,17 @@
           "story": "Darly Crupier actualizó su foto del perfil.",
           "id": "409992615536984_122099516324541660"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 448510,
-        "reac30": 265
+        "impDay": 6261,
+        "reacDay": 1,
+        "imp30": 444325,
+        "reac30": 261
       },
       {
         "nombre": "Aleja crupier",
         "categoria": "Sitio web de entretenimiento",
         "negocio": "Aleja crupier",
         "followers": 42,
-        "fans": 21,
+        "fans": 20,
         "posteosCount": 63,
         "fechaUltimoPost": "2025-07-11T17:49:09+0000",
         "primerPosteo": {
@@ -3049,10 +3821,10 @@
           "story": "Aleja crupier actualizó su foto del perfil.",
           "id": "412262818640439_122098734266538137"
         },
-        "impDay": 59902,
-        "reacDay": 10,
-        "imp30": 781592,
-        "reac30": 182
+        "impDay": 4442,
+        "reacDay": 9,
+        "imp30": 815625,
+        "reac30": 184
       },
       {
         "nombre": "Pili Vargas",
@@ -3067,9 +3839,9 @@
           "story": "Pili Vargas actualizó su foto del perfil.",
           "id": "400350299836910_122093460032547781"
         },
-        "impDay": 0,
+        "impDay": 7624,
         "reacDay": 0,
-        "imp30": 7648,
+        "imp30": 63960,
         "reac30": 16
       }
     ],
@@ -3242,8 +4014,8 @@
         "nombre": "Kasi Juega",
         "categoria": "Agencia de marketing",
         "negocio": "Kasi Juega",
-        "followers": 37,
-        "fans": 37,
+        "followers": 39,
+        "fans": 39,
         "posteosCount": 22,
         "fechaUltimoPost": "2025-07-09T21:45:11+0000",
         "primerPosteo": {
@@ -3251,10 +4023,10 @@
           "story": "Kasi Juega actualizó su foto de portada.",
           "id": "556410904224152_3318672784933524"
         },
-        "impDay": 26213,
-        "reacDay": 15,
-        "imp30": 587591,
-        "reac30": 156
+        "impDay": 23087,
+        "reacDay": 14,
+        "imp30": 697734,
+        "reac30": 167
       },
       {
         "nombre": "Kasu Diversión",
@@ -3305,9 +4077,9 @@
           "story": "Danna Divierte actualizó su foto de portada.",
           "id": "471726549366591_1150822259707039"
         },
-        "impDay": 8,
+        "impDay": 3,
         "reacDay": 0,
-        "imp30": 7738,
+        "imp30": 804,
         "reac30": 0
       },
       {
@@ -3325,8 +4097,8 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 189531,
-        "reac30": 116
+        "imp30": 171735,
+        "reac30": 111
       },
       {
         "nombre": "Vane Entretiene",
@@ -3341,10 +4113,10 @@
           "story": "Vane Entretiene actualizó su foto del perfil.",
           "id": "430530673487146_122098278104659541"
         },
-        "impDay": 86478,
-        "reacDay": 17,
-        "imp30": 751285,
-        "reac30": 124
+        "impDay": 98190,
+        "reacDay": 29,
+        "imp30": 783248,
+        "reac30": 137
       },
       {
         "nombre": "Lourdes Divierte",
@@ -3352,24 +4124,24 @@
         "negocio": "Agente Lourdes",
         "followers": 48,
         "fans": 48,
-        "posteosCount": 85,
-        "fechaUltimoPost": "2025-07-05T20:21:10+0000",
+        "posteosCount": 86,
+        "fechaUltimoPost": "2025-07-12T20:07:50+0000",
         "primerPosteo": {
           "created_time": "2024-10-26T15:59:58+0000",
           "story": "Lourdes Divierte actualizó su foto del perfil.",
           "id": "449351298267685_122102959940582315"
         },
-        "impDay": 25130,
-        "reacDay": 17,
-        "imp30": 318144,
-        "reac30": 128
+        "impDay": 21254,
+        "reacDay": 12,
+        "imp30": 315898,
+        "reac30": 137
       },
       {
         "nombre": "Mariana Crupier",
         "categoria": "Publicidad/marketing",
         "negocio": "Mariana Crupier",
-        "followers": 84,
-        "fans": 84,
+        "followers": 85,
+        "fans": 85,
         "posteosCount": 56,
         "fechaUltimoPost": "2025-07-06T01:11:49+0000",
         "primerPosteo": {
@@ -3379,8 +4151,8 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 188787,
-        "reac30": 162
+        "imp30": 172729,
+        "reac30": 154
       },
       {
         "nombre": "Valentina Crupier",
@@ -3395,10 +4167,10 @@
           "story": "Valentina Crupier actualizó su foto del perfil.",
           "id": "414661878405127_122106110558555844"
         },
-        "impDay": 6420,
+        "impDay": 0,
         "reacDay": 0,
-        "imp30": 257248,
-        "reac30": 32
+        "imp30": 362117,
+        "reac30": 49
       },
       {
         "nombre": "Luathy Crupier",
@@ -3406,8 +4178,8 @@
         "negocio": "Luathy Crupier",
         "followers": 41,
         "fans": 39,
-        "posteosCount": 36,
-        "fechaUltimoPost": "2025-07-05T20:39:47+0000",
+        "posteosCount": 37,
+        "fechaUltimoPost": "2025-07-12T19:57:19+0000",
         "primerPosteo": {
           "created_time": "2024-09-30T20:05:23+0000",
           "story": "Luathy Crupier actualizó su foto del perfil.",
@@ -3431,10 +4203,10 @@
           "story": "Kasi Crupier actualizó su foto del perfil.",
           "id": "459572827228970_122107884626523331"
         },
-        "impDay": 0,
+        "impDay": 1,
         "reacDay": 0,
-        "imp30": 648074,
-        "reac30": 249
+        "imp30": 585504,
+        "reac30": 233
       },
       {
         "nombre": "Kasandra Crupier",
@@ -3451,7 +4223,7 @@
         },
         "impDay": 0,
         "reacDay": 0,
-        "imp30": 609457,
+        "imp30": 609456,
         "reac30": 162
       }
     ],
@@ -3621,9 +4393,9 @@
           "story": "La Jefa Kim ha actualizado su foto del perfil.",
           "id": "646270525240846_122096959040839066"
         },
-        "impDay": 1,
-        "reacDay": 0,
-        "imp30": 67297,
+        "impDay": 67306,
+        "reacDay": 5,
+        "imp30": 73879,
         "reac30": 5
       },
       {
@@ -3675,7 +4447,7 @@
           "story": "Agente Caty ha actualizado su foto del perfil.",
           "id": "590453547484515_122093327120807708"
         },
-        "impDay": 17034,
+        "impDay": 3385,
         "reacDay": 0,
         "imp30": 366564,
         "reac30": 33
@@ -3693,10 +4465,10 @@
           "story": "Zambrano Juega ha actualizado su foto de portada.",
           "id": "554324614430871_894846119223795"
         },
-        "impDay": 0,
-        "reacDay": 0,
-        "imp30": 456737,
-        "reac30": 130
+        "impDay": 14,
+        "reacDay": 11,
+        "imp30": 507854,
+        "reac30": 135
       },
       {
         "nombre": "Claudi Juega",
@@ -3711,9 +4483,9 @@
           "story": "Claudi Juega ha actualizado su foto de portada.",
           "id": "575456162308952_656332786741696"
         },
-        "impDay": 3166,
-        "reacDay": 0,
-        "imp30": 258051,
+        "impDay": 30679,
+        "reacDay": 6,
+        "imp30": 267812,
         "reac30": 107
       },
       {
@@ -3729,8 +4501,8 @@
           "message": "Cuando nos juntamos los amigos y en este ambiente, sabemos que anécdotas, risas y momentos no van a faltar🤘",
           "id": "560464540478956_122131686050749262"
         },
-        "impDay": 53829,
-        "reacDay": 5,
+        "impDay": 3857,
+        "reacDay": 0,
         "imp30": 57711,
         "reac30": 13
       },
@@ -3747,7 +4519,7 @@
           "message": "Que esperas para convertirte en tu mejor versión? solo los lentos se quedan atrás, los ganadores no se rinden y prueban hasta al final 😘",
           "id": "586287107893875_122132938460746651"
         },
-        "impDay": 4,
+        "impDay": 0,
         "reacDay": 0,
         "imp30": 13,
         "reac30": 9
@@ -3764,28 +4536,28 @@
           "created_time": "2025-01-07T16:38:32+0000",
           "id": "509950595540825_122098108346721906"
         },
-        "impDay": 41256,
-        "reacDay": 1,
-        "imp30": 99508,
-        "reac30": 52
+        "impDay": 58190,
+        "reacDay": 3,
+        "imp30": 107321,
+        "reac30": 51
       },
       {
         "nombre": "Ana Divierte Online",
         "categoria": "Agencia de marketing",
         "negocio": "Ana Entretiene",
-        "followers": 35,
-        "fans": 31,
-        "posteosCount": 41,
-        "fechaUltimoPost": "2025-07-08T13:18:24+0000",
+        "followers": 37,
+        "fans": 33,
+        "posteosCount": 42,
+        "fechaUltimoPost": "2025-07-12T01:12:24+0000",
         "primerPosteo": {
           "created_time": "2024-11-22T19:56:44+0000",
           "story": "Ana Divierte Online ha actualizado su foto del perfil.",
           "id": "500514416475543_122096668568645106"
         },
-        "impDay": 75970,
-        "reacDay": 13,
-        "imp30": 534153,
-        "reac30": 108
+        "impDay": 69504,
+        "reacDay": 15,
+        "imp30": 605595,
+        "reac30": 120
       },
       {
         "nombre": "Karen Divierte",
@@ -3800,9 +4572,9 @@
           "story": "Karen Divierte ha actualizado su foto del perfil.",
           "id": "480313071826499_122093368028576345"
         },
-        "impDay": 3228,
+        "impDay": 0,
         "reacDay": 0,
-        "imp30": 43497,
+        "imp30": 43490,
         "reac30": 4
       },
       {
@@ -3818,7 +4590,7 @@
           "story": "Valen Crupier ha actualizado su foto del perfil.",
           "id": "437167002811713_122099558078552126"
         },
-        "impDay": 927,
+        "impDay": 0,
         "reacDay": 0,
         "imp30": 160893,
         "reac30": 48
@@ -3836,9 +4608,9 @@
           "story": "Gime Crupier ha actualizado su foto del perfil.",
           "id": "451511274704895_122101463492535823"
         },
-        "impDay": 4335,
+        "impDay": 0,
         "reacDay": 0,
-        "imp30": 440961,
+        "imp30": 440960,
         "reac30": 52
       },
       {
@@ -3854,9 +4626,9 @@
           "story": "Moni Crupier ha actualizado su foto del perfil.",
           "id": "452614244595416_122107819898524031"
         },
-        "impDay": 3925,
+        "impDay": 27,
         "reacDay": 0,
-        "imp30": 152814,
+        "imp30": 152739,
         "reac30": 37
       }
     ],

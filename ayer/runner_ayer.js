@@ -6,7 +6,7 @@ let isRunning = false;
 // -------- CONFIG --------
 const WORKDIR = '/root/superbot1.0';
 const LOG_FILE = path.join(WORKDIR, 'cron_ejecuciones.log');
-const INTERVAL = 8 * 60 * 60 * 1000; // 8 horas
+const INTERVAL = 10 * 60 * 60 * 1000; // 8 horas
 const SCRIPTS = [
   'ayer/generarayer.js',
   'ayer/informeayer.js',

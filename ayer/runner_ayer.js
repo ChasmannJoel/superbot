@@ -1,12 +1,14 @@
 import { spawn } from 'child_process';
+import fetch from 'node-fetch';
 import fs from 'fs';
 import path from 'path';
 
 let isRunning = false;
+
 // -------- CONFIG --------
 const WORKDIR = '/root/superbot1.0';
 const LOG_FILE = path.join(WORKDIR, 'cron_ejecuciones.log');
-const INTERVAL = 10 * 60 * 60 * 1000; // 8 horas
+
 const SCRIPTS = [
   'ayer/generarayer.js',
   'ayer/informeayer.js',
@@ -21,7 +23,6 @@ function log(line) {
   const stamp = `[${new Date().toISOString()}] `;
   fs.appendFileSync(LOG_FILE, stamp + line + '\n');
 }
-
 
 /** Ejecuta un script hijo y encadena la promesa */
 function runScript(script) {
@@ -41,38 +42,50 @@ function runScript(script) {
   });
 }
 
-
+/** Ejecuta todos los scripts en orden */
 async function runBatch() {
   if (isRunning) {
     log('⏳ Batch anterior aún en ejecución. Omitiendo...');
-    return;
+    console.log('⏳ Batch anterior aún en ejecución.');
+    process.exit(1);
   }
 
   isRunning = true;
   try {
-    // Ejecutar todos los scripts
     for (const s of SCRIPTS) {
       await runScript(s);
     }
-    
-    // Notificar a Apps Script solo si todo salió bien
-    const result = await notifyAppScript();
-    log(`📤 Notificación exitosa: ${JSON.stringify(result)}`);
-    
+
     log('🎉 Batch completa');
+    console.log('✅ Batch completa sin errores.');
+
+    // Notificar al bot que todo terminó OK
+    try {
+      console.log('[RUNNER] Enviando notificación al bot...');
+      const res = await fetch('http://localhost:3066/alerta', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ mensaje: '✅ Batch completa sin errores.', secret: 'tu_clave_super_secreta' })
+      });
+      const text = await res.text();
+      console.log(`[RUNNER] Respuesta del bot: ${res.status} - ${text}`);
+    } catch (err) {
+      console.error('[RUNNER] Error notificando al bot:', err.message);
+    }
+
+    // Espera 2 segundos para asegurar que los logs y la petición se completen
+    await new Promise(r => setTimeout(r, 4000));
+    process.exit(0);
+
   } catch (err) {
     log(`💥 Error en batch: ${err.message}`);
+    console.error(`💥 Error en batch: ${err.message}`);
+    process.exit(1);
+
   } finally {
     isRunning = false;
   }
 }
 
-async function main() {
-  while (true) {
-    await runBatch();
-    log(`⏳ Esperando ${INTERVAL / 60000} minutos para la próxima tanda...`);
-    await new Promise(res => setTimeout(res, INTERVAL));
-  }
-}
-
-main();
+// Ejecutar una sola vez:
+runBatch();

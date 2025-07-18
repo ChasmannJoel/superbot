@@ -173,14 +173,14 @@ async function obtenerDatosCampania(campaignId, accessToken) {
 
 /// Función principal
 (async () => {
-  for (const cuenta of cuentas) {
+  await Promise.all(cuentas.map(async (cuenta) => {
     console.log(`Procesando cuenta: ${cuenta.nombre}`);
     const datosCuenta = {
       nombre: cuenta.nombre,
       cuentas: []
     };
 
-    for (const idCuenta of cuenta.idsCuentasAnuncios) {
+    await Promise.all(cuenta.idsCuentasAnuncios.map(async (idCuenta) => {
       console.log(`Procesando cuenta publicitaria: ${idCuenta}`);
       const cuentaData = { id: idCuenta };
 
@@ -196,30 +196,32 @@ async function obtenerDatosCampania(campaignId, accessToken) {
         const campaniasRes = await fetch(campaniasUrl);
         const campaniasData = await campaniasRes.json();
 
-        // 3. Procesar cada campaña (sin filtro de fechas)
-        cuentaData.campanias = [];
-        for (const campania of campaniasData.data || []) {
-          console.log(`Procesando campaña: ${campania.id} (${campania.name})`);
-          const campaniaCompleta = await obtenerDatosCampania(campania.id, cuenta.token);
-          if (
-            campaniaCompleta &&
-            (
-              campaniaCompleta.metricas_diarias?.spend > 0 ||
-              campaniaCompleta.metricas_diarias?.messages > 0
-            )
-          ) {
-            cuentaData.campanias.push(campaniaCompleta);
-          }
-        }
+        // 3. Procesar cada campaña en paralelo
+        cuentaData.campanias = (await Promise.all(
+          (campaniasData.data || []).map(async (campania) => {
+            console.log(`Procesando campaña: ${campania.id} (${campania.name})`);
+            const campaniaCompleta = await obtenerDatosCampania(campania.id, cuenta.token);
+            if (
+              campaniaCompleta &&
+              (
+                campaniaCompleta.metricas_diarias?.spend > 0 ||
+                campaniaCompleta.metricas_diarias?.messages > 0
+              )
+            ) {
+              return campaniaCompleta;
+            }
+            return null;
+          })
+        )).filter(Boolean);
       } catch (error) {
         console.error(`Error procesando cuenta ${idCuenta}: ${error.message}`);
       }
 
       datosCuenta.cuentas.push(cuentaData);
-    }
+    }));
 
     output.push(datosCuenta);
-  }
+  }));
 
   // Antes de guardar los resultados, agrega:
   console.log('Datos recolectados:', JSON.stringify(output, null, 2));

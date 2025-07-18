@@ -1,347 +1,326 @@
 [
   {
-    "panel": "Raven",
-    "total_mensajes_hoy": 38,
-    "detalle_por_origen": {
-      "https://fb.me/4UU4j9cMx": 7,
-      "https://fb.me/8BYnHfGeD": 1,
-      "https://fb.me/56MEnm16r": 7,
-      "https://fb.me/4NeDUc5uV": 8,
-      "Sin campaña": 2,
-      "https://fb.me/abpY73XQe": 7,
-      "https://www.instagram.com/p/DL_ChV6s-mf/": 1,
-      "https://www.instagram.com/p/DMB0duRMJ8i/": 2,
-      "https://fb.me/3ffyQPZxM": 3
-    },
-    "totales_por_usuario": {
-      "ravencyberpubli@gmail.com": 38
-    }
-  },
-  {
-    "panel": "SimonP",
-    "total_mensajes_hoy": 28,
-    "detalle_por_origen": {
-      "https://fb.me/3jMhdkDKQ": 5,
-      "https://fb.me/89146ToL0": 9,
-      "https://www.instagram.com/p/DMBtxvrsoVZ/": 5,
-      "https://fb.me/6KraLrjOk": 7,
-      "https://fb.me/dmDmECZEm": 1,
-      "Sin campaña": 1
-    },
-    "totales_por_usuario": {
-      "simonplatacyberpubli@gmail.com": 28
-    }
-  },
-  {
     "panel": "Rotterdam",
-    "total_mensajes_hoy": 34,
+    "total_mensajes_hoy": 47,
     "detalle_por_origen": {
-      "https://fb.me/2Vmq66sJL": 16,
-      "https://fb.me/8OaLKT2mc": 12,
-      "Sin campaña": 2,
-      "https://fb.me/cV9VJNMmM": 2,
-      "https://www.instagram.com/p/DMBDsfPMP2q/": 2
+      "https://fb.me/a6V6cmeJf": 17,
+      "https://fb.me/3qh6VLLaG": 19,
+      "https://www.instagram.com/p/DMHYV_FAI5r/": 3,
+      "https://fb.me/7vVWgosUn": 4,
+      "https://fb.me/1O94BQiNgi": 4
     },
     "totales_por_usuario": {
-      "rotterdamcyberpubli@gmail.com": 34
-    }
-  },
-  {
-    "panel": "Godzilla",
-    "total_mensajes_hoy": 101,
-    "detalle_por_origen": {
-      "https://fb.me/6c0FhKsyZ": 9,
-      "https://fb.me/6AbI79V87": 14,
-      "https://fb.me/3lFopVi8x": 32,
-      "https://fb.me/4VFLpPjke": 18,
-      "https://www.instagram.com/p/DMBs4LhAD3l/": 6,
-      "https://fb.me/ifu4Am7O7": 1,
-      "https://www.instagram.com/p/DMBiYfCAR9r/": 7,
-      "Sin campaña": 3,
-      "https://fb.me/6u6odguMy": 10,
-      "https://fb.me/3dUJ91rYm": 1
-    },
-    "totales_por_usuario": {
-      "godzillacyberpubli@gmail.com": 101
-    }
-  },
-  {
-    "panel": "Escaloneta",
-    "total_mensajes_hoy": 43,
-    "detalle_por_origen": {
-      "https://fb.me/3ggY9d2jQ": 17,
-      "https://fb.me/7CDjod6ds": 17,
-      "https://www.instagram.com/p/DL7hUYzM4b9/": 7,
-      "Sin campaña": 1,
-      "https://fb.me/8CkhM4FTt": 1
-    },
-    "totales_por_usuario": {
-      "lascalonetacyberpubli@gmail.com": 43
-    }
-  },
-  {
-    "panel": "ThiagoP",
-    "total_mensajes_hoy": 139,
-    "detalle_por_origen": {
-      "https://fb.me/6TFami3Jq": 54,
-      "https://fb.me/8ttpbx9Eo": 49,
-      "https://www.instagram.com/p/DL_E2W0gdWE/": 20,
-      "Sin campaña": 11,
-      "https://fb.me/55eBHwKcx": 4,
-      "https://fb.me/32kffNM4a": 1
-    },
-    "totales_por_usuario": {
-      "thiagopcyberpubli@gmail.com": 139
-    }
-  },
-  {
-    "panel": "GoatGaming",
-    "total_mensajes_hoy": 165,
-    "detalle_por_origen": {
-      "https://fb.me/8cVC33Zdw": 37,
-      "https://fb.me/2AlpFPBqD": 40,
-      "https://fb.me/65ido1Cib": 33,
-      "https://fb.me/awTjCSjXY": 29,
-      "Sin campaña": 14,
-      "https://www.instagram.com/p/DL4sB4HsH5D/": 6,
-      "https://www.instagram.com/p/DL20slFM057/": 2,
-      "https://fb.me/59pO1DQNx": 2,
-      "https://fb.me/5Mo0YIRjJ": 2
-    },
-    "totales_por_usuario": {
-      "goatgamcyberpubli@gmail.com": 165
-    }
-  },
-  {
-    "panel": "Cocan",
-    "total_mensajes_hoy": 144,
-    "detalle_por_origen": {
-      "https://fb.me/3pwLuHyHb": 66,
-      "https://fb.me/3xNyCMO1S": 3,
-      "https://fb.me/2If2rOdd8": 3,
-      "https://www.instagram.com/p/DMC5NOFMSNL/": 1,
-      "https://fb.me/6rIrrw72I": 53,
-      "https://www.instagram.com/p/DLsKBwqst81/": 12,
-      "https://fb.me/510qQB4NJ": 3,
-      "Sin campaña": 3
-    },
-    "totales_por_usuario": {
-      "cocancyberpubli@gmail.com": 144
-    }
-  },
-  {
-    "panel": "Cokesin",
-    "total_mensajes_hoy": 43,
-    "detalle_por_origen": {
-      "https://fb.me/aJSLVEaht": 14,
-      "https://fb.me/3uw4Rb3gG": 18,
-      "https://www.instagram.com/p/DMAe9dvAmas/": 3,
-      "https://fb.me/3BsGSLlSg": 1,
-      "https://fb.me/5IhPQjsg2": 1,
-      "https://fb.me/3r7ZaRULY": 1,
-      "Sin campaña": 1,
-      "https://www.instagram.com/p/DMBQKcxAj6w/": 4
-    },
-    "totales_por_usuario": {
-      "toskincyberpubli@gmail.com": 43
+      "rotterdamcyberpubli@gmail.com": 47
     }
   },
   {
     "panel": "Venecia",
-    "total_mensajes_hoy": 82,
+    "total_mensajes_hoy": 33,
     "detalle_por_origen": {
-      "https://fb.me/3b4vAFp2c": 11,
-      "https://fb.me/4OYAsQ6ke": 1,
-      "https://fb.me/2UnKHXFg7": 32,
-      "https://www.instagram.com/p/DL2VeRjgKLn/": 12,
-      "https://fb.me/3qrWWmKRP": 2,
-      "Sin campaña": 2,
-      "https://fb.me/2RO1XAZRB": 21,
-      "https://fb.me/3yqZsJ8o0": 1
+      "https://fb.me/7z9KbNhi7": 6,
+      "Sin campaña": 4,
+      "https://fb.me/6lv1AeYLR": 7,
+      "https://www.instagram.com/p/DMOnRfrg-P-/": 5,
+      "https://fb.me/3IAWK535L": 1,
+      "https://fb.me/adSfEPRan": 10
     },
     "totales_por_usuario": {
-      "vcyberpubli@gmail.com": 82
+      "vcyberpubli@gmail.com": 33
     }
   },
   {
-    "panel": "Luck",
-    "total_mensajes_hoy": 62,
+    "panel": "F99",
+    "total_mensajes_hoy": 19,
     "detalle_por_origen": {
-      "https://fb.me/5USLwqpEA": 13,
-      "https://fb.me/b7YHfvJGr": 12,
-      "https://fb.me/4Xt1uUnbg": 16,
-      "https://fb.me/5sJM033pn": 14,
+      "https://fb.me/8bvhVqPXE": 3,
+      "https://www.instagram.com/p/DMP49hGgUQi/": 1,
+      "https://fb.me/6vlWLwVGF": 2,
+      "https://fb.me/3oP4Et7dB": 1,
       "Sin campaña": 1,
-      "https://www.instagram.com/p/DL5IwGwA_9R/": 1,
-      "https://fb.me/8bl0Gjs63": 1,
-      "https://www.instagram.com/p/DL8Tvo6gKFm/": 3,
-      "https://fb.me/eLUhrFpLQ": 1
+      "https://fb.me/d03QqGt1c": 8,
+      "https://fb.me/4WPjWNher": 1,
+      "https://fb.me/6iIs6cw5o": 1,
+      "https://www.instagram.com/p/DMOaLDGg1yO/": 1
     },
     "totales_por_usuario": {
-      "luckcyberpubli@gmail.com": 62
+      "fortcyberpubli@gmail.com": 19
     }
   },
   {
-    "panel": "Somos",
-    "total_mensajes_hoy": 48,
+    "panel": "Azzar",
+    "total_mensajes_hoy": 7,
     "detalle_por_origen": {
-      "https://fb.me/2Sv9e1F5i": 1,
-      "https://www.instagram.com/p/DMCwO__MViI/": 3,
-      "https://fb.me/3s2vYvTLA": 6,
-      "https://www.instagram.com/p/DMCwHgcMk8s/": 1,
-      "https://fb.me/2IRigf2xA": 1,
-      "Sin campaña": 1,
-      "https://fb.me/7L9U4vYhL": 5,
-      "https://fb.me/6aad2cD2H": 6,
-      "https://fb.me/54y8Kk1h9": 17,
-      "https://www.instagram.com/p/DMBsCqAMhkc/": 2,
-      "https://www.instagram.com/p/DMAgawCsHDC/": 3,
-      "https://fb.me/7UYb3N6s0": 1,
-      "https://fb.me/6l0FOQ0Hy": 1
-    },
-    "totales_por_usuario": {
-      "somoscyberpubli@gmail.com": 48
-    }
-  },
-  {
-    "panel": "Red",
-    "total_mensajes_hoy": 54,
-    "detalle_por_origen": {
-      "https://fb.me/583wfUuPd": 12,
-      "Sin campaña": 5,
-      "https://fb.me/57OOeZd16": 12,
-      "https://www.instagram.com/p/DL9GPJfM7vd/": 6,
-      "https://fb.me/2W2m2N0JR": 18,
-      "https://fb.me/5BGtmYMaw": 1
-    },
-    "totales_por_usuario": {
-      "redcyberpubli@gmail.com": 54
-    }
-  },
-  {
-    "panel": "BT300",
-    "total_mensajes_hoy": 43,
-    "detalle_por_origen": {
-      "https://fb.me/4XvThW8wk": 15,
-      "https://fb.me/3qFnMiWDq": 2,
-      "https://fb.me/4LVuul7Zd": 16,
       "Sin campaña": 3,
-      "https://fb.me/8Wo8Xul0Y": 1,
-      "https://www.instagram.com/p/DMBeepSMiAi/": 6
+      "https://fb.me/7Sz4sXLcO": 2,
+      "https://fb.me/iBfoKpoD6": 1,
+      "https://www.instagram.com/p/DMQCz_8sEG2/": 1
     },
     "totales_por_usuario": {
-      "btcyberpubli@gmail.com": 43
+      "azzarcyberpubli@gmail.com": 7
     }
   },
   {
-    "panel": "Dragon",
-    "total_mensajes_hoy": 28,
+    "panel": "Escaloneta",
+    "total_mensajes_hoy": 20,
     "detalle_por_origen": {
-      "https://fb.me/3sjCC8YAK": 18,
-      "https://fb.me/6EeP8hDCy": 5,
-      "https://www.instagram.com/p/DL7sG14g9SB/": 5
+      "https://fb.me/8g9DocmMq": 10,
+      "Sin campaña": 2,
+      "https://fb.me/3p2eNEICN": 7,
+      "https://www.instagram.com/p/DMKXs-xMyhq/": 1
     },
     "totales_por_usuario": {
-      "dragoncyberpubli@gmail.com": 28
+      "lascalonetacyberpubli@gmail.com": 20
     }
   },
   {
-    "panel": "PubliW",
-    "total_mensajes_hoy": 120,
+    "panel": "ThiagoP",
+    "total_mensajes_hoy": 135,
     "detalle_por_origen": {
-      "https://fb.me/5RWgrvBs0": 42,
-      "https://fb.me/6gaVrqmVq": 37,
-      "https://www.instagram.com/p/DL-Fw0NAkQg/": 4,
-      "Sin campaña": 6,
-      "https://fb.me/b1riMi5EO": 1,
-      "https://fb.me/4NtuDQ8TE": 29,
-      "https://fb.me/52QgnYCik": 1
+      "https://fb.me/2YQ9vldFZ": 27,
+      "https://fb.me/7ZTsEsQGy": 31,
+      "https://www.instagram.com/p/DMMhHQ3AB9V/": 13,
+      "https://fb.me/6tdb79iNO": 28,
+      "https://fb.me/8ttpbx9Eo": 17,
+      "https://fb.me/3tU0w0mit": 1,
+      "https://www.instagram.com/p/DL_E2W0gdWE/": 4,
+      "Sin campaña": 10,
+      "https://fb.me/5Vgb4MLcc": 3,
+      "https://fb.me/55eBHwKcx": 1
     },
     "totales_por_usuario": {
-      "panelwcyberpubli@gmail.com": 120
+      "thiagopcyberpubli@gmail.com": 135
     }
   },
   {
-    "panel": "VGanamos",
-    "total_mensajes_hoy": 61,
+    "panel": "Godzilla",
+    "total_mensajes_hoy": 52,
     "detalle_por_origen": {
-      "https://fb.me/7aoEuzcMR": 25,
-      "Sin campaña": 7,
-      "https://fb.me/gPdqWodW0": 26,
-      "https://www.instagram.com/p/DL9LQ0dsiLY/": 2,
-      "https://fb.me/3rQrtr2Uu": 1
+      "https://www.instagram.com/p/DMO7WuXgV4z/": 4,
+      "https://fb.me/3FcDyBKL3": 19,
+      "https://fb.me/6wCwdHFvG": 16,
+      "Sin campaña": 5,
+      "https://fb.me/3hrDm8Zmj": 1,
+      "https://fb.me/4Yxcxa4gE": 7
     },
     "totales_por_usuario": {
-      "vganamoscyberpubli@gmail.com": 61
+      "godzillacyberpubli@gmail.com": 52
+    }
+  },
+  {
+    "panel": "Siempre",
+    "total_mensajes_hoy": 31,
+    "detalle_por_origen": {
+      "https://www.instagram.com/p/DMOZ8ujA8gx/": 2,
+      "https://fb.me/1MkTTiZ4Ch": 13,
+      "Sin campaña": 3,
+      "https://fb.me/4ajTcI7Hd": 13
+    },
+    "totales_por_usuario": {
+      "siemprecyberpubli@gmail.com": 31
+    }
+  },
+  {
+    "panel": "Cocan",
+    "total_mensajes_hoy": 63,
+    "detalle_por_origen": {
+      "https://fb.me/6rIrrw72I": 33,
+      "https://fb.me/eDmBlHyx2": 25,
+      "Sin campaña": 2,
+      "https://fb.me/gKEHzqv3b": 2,
+      "https://fb.me/510qQB4NJ": 1
+    },
+    "totales_por_usuario": {
+      "cocancyberpubli@gmail.com": 63
+    }
+  },
+  {
+    "panel": "SimonP",
+    "total_mensajes_hoy": 16,
+    "detalle_por_origen": {
+      "https://www.instagram.com/p/DMLzeUzsPYM/": 1,
+      "https://fb.me/8eNAgbzy9": 9,
+      "https://fb.me/3gcSqSUKk": 1,
+      "https://fb.me/5jbRpfLyE": 5
+    },
+    "totales_por_usuario": {
+      "simonplatacyberpubli@gmail.com": 16
+    }
+  },
+  {
+    "panel": "GoatGaming",
+    "total_mensajes_hoy": 29,
+    "detalle_por_origen": {
+      "https://fb.me/7Ii4j48WY": 12,
+      "https://fb.me/2BDe8xijP": 12,
+      "Sin campaña": 3,
+      "https://fb.me/6ENqZndIE": 1,
+      "https://www.instagram.com/p/DMJOqSfsvKj/": 1
+    },
+    "totales_por_usuario": {
+      "goatgamcyberpubli@gmail.com": 29
     }
   },
   {
     "panel": "Oporto",
-    "total_mensajes_hoy": 228,
+    "total_mensajes_hoy": 124,
     "detalle_por_origen": {
-      "https://fb.me/5W478k0lz": 46,
-      "https://www.instagram.com/p/DL7iQ-LMrro/": 33,
-      "https://www.instagram.com/p/DL28iUdszsj/": 7,
-      "https://fb.me/6wvtIoXYM": 2,
-      "https://fb.me/9bsAz5UoN": 18,
-      "https://fb.me/acKK8Ai9s": 36,
-      "https://fb.me/6J1QuJTvB": 13,
-      "https://fb.me/9q8ZQfOLR": 15,
-      "Sin campaña": 12,
-      "https://fb.me/5OzmJyrgt": 29,
-      "https://fb.me/1QVolTWpOF": 1,
-      "https://www.instagram.com/p/DMBqr1Fs1o0/": 12,
-      "https://fb.me/5JL8kab8f": 1,
-      "https://fb.me/8nGHiuZFb": 2,
-      "https://fb.me/5DyWIgLCz": 1
+      "https://fb.me/7Iw7tM0B6": 4,
+      "https://www.instagram.com/p/DMQCPu0sA10/": 2,
+      "Sin campaña": 10,
+      "https://fb.me/94zIKDP8B": 3,
+      "https://fb.me/4OD9Np5I8": 9,
+      "https://fb.me/6EloJi5Ev": 18,
+      "https://fb.me/3zN3JN8o2": 1,
+      "https://fb.me/4LTjmxwdv": 1,
+      "https://fb.me/3uTP9nK3A": 21,
+      "https://www.instagram.com/p/DMOTxEzs6Wl/": 7,
+      "https://www.instagram.com/p/DMMa6n8M6_J/": 6,
+      "https://fb.me/4X8XhY9vP": 29,
+      "https://fb.me/2LoGn8A2t": 11,
+      "https://fb.me/4XEn0CT7s": 1,
+      "https://fb.me/3lAG23k3L": 1
     },
     "totales_por_usuario": {
-      "oportocyberpubli@gmail.com": 228
+      "oportocyberpubli@gmail.com": 124
+    }
+  },
+  {
+    "panel": "BT300",
+    "total_mensajes_hoy": 57,
+    "detalle_por_origen": {
+      "Sin campaña": 16,
+      "https://fb.me/4XvThW8wk": 7,
+      "https://fb.me/jaihiloR8": 2,
+      "https://fb.me/ckkSKSY2B": 26,
+      "https://fb.me/8Wo8Xul0Y": 2,
+      "https://www.instagram.com/p/DMBeepSMiAi/": 4
+    },
+    "totales_por_usuario": {
+      "btcyberpubli@gmail.com": 57
     }
   },
   {
     "panel": "Open24hs",
-    "total_mensajes_hoy": 25,
+    "total_mensajes_hoy": 62,
     "detalle_por_origen": {
-      "Sin campaña": 1,
-      "https://www.instagram.com/p/DL_DSDhsqEe/": 2,
-      "https://fb.me/30aZGHo49": 12,
-      "https://fb.me/5T7oKGlHC": 1,
-      "https://fb.me/8SbMlqy9d": 9
+      "https://fb.me/8OEa1KLC4": 1,
+      "https://fb.me/2KRwAQRV8": 2,
+      "https://fb.me/l6ISweagi": 1,
+      "Sin campaña": 7,
+      "https://fb.me/6pxW9p5Fw": 2,
+      "https://fb.me/8IJO2ckYO": 26,
+      "https://www.instagram.com/p/DMLz0gMgaBQ/": 6,
+      "https://fb.me/5P1TdARa9": 16,
+      "https://fb.me/3p9E8gTCK": 1
     },
     "totales_por_usuario": {
-      "tataopencyberpubli@gmail.com": 25
-    }
-  },
-  {
-    "panel": "Detager",
-    "total_mensajes_hoy": 48,
-    "detalle_por_origen": {
-      "Sin campaña": 2,
-      "https://fb.me/i1CvTrjWX": 8,
-      "https://fb.me/an9XFBTHx": 19,
-      "https://www.instagram.com/p/DMB3uONgdHQ/": 2,
-      "https://fb.me/33H0WlU51": 7,
-      "https://fb.me/8fcNVxbiB": 7,
-      "https://www.instagram.com/p/DL8gkFAg_z6/": 1,
-      "https://fb.me/6mSzJ7aUg": 2
-    },
-    "totales_por_usuario": {
-      "detagercyberpubli@gmail.com": 48
+      "tataopencyberpubli@gmail.com": 62
     }
   },
   {
     "panel": "Miami",
-    "total_mensajes_hoy": 37,
+    "total_mensajes_hoy": 42,
     "detalle_por_origen": {
-      "https://fb.me/5W6C2RMBm": 14,
-      "https://www.instagram.com/p/DL5xmvLsQqU/": 6,
-      "https://fb.me/8eXqOqzYq": 13,
-      "https://fb.me/6L1fwmD0m": 2,
-      "Sin campaña": 2
+      "https://fb.me/5W6C2RMBm": 18,
+      "https://www.instagram.com/p/DL5xmvLsQqU/": 2,
+      "https://fb.me/4W2tflidE": 3,
+      "https://fb.me/3uNiKbFnL": 16,
+      "Sin campaña": 1,
+      "https://fb.me/6L1fwmD0m": 1,
+      "https://fb.me/5vtqhe5eu": 1
     },
     "totales_por_usuario": {
-      "miamicyberpubli@gmail.com": 37
+      "miamicyberpubli@gmail.com": 42
+    }
+  },
+  {
+    "panel": "Somos",
+    "total_mensajes_hoy": 8,
+    "detalle_por_origen": {
+      "https://fb.me/3nhbPKNDu": 1,
+      "https://www.instagram.com/p/DMQEhJls3YO/": 2,
+      "https://fb.me/4StvRhpxN": 3,
+      "https://fb.me/6HhnQ0GX0": 2
+    },
+    "totales_por_usuario": {
+      "somoscyberpubli@gmail.com": 8
+    }
+  },
+  {
+    "panel": "Luck",
+    "total_mensajes_hoy": 65,
+    "detalle_por_origen": {
+      "Sin campaña": 7,
+      "https://fb.me/fuajY5gRq": 13,
+      "https://fb.me/5USLwqpEA": 11,
+      "https://fb.me/3gsfPPeZ1": 10,
+      "https://fb.me/5OUTpTqXL": 18,
+      "https://www.instagram.com/p/DL8Tvo6gKFm/": 5,
+      "https://www.instagram.com/p/DMDm3CvATQ1/": 1
+    },
+    "totales_por_usuario": {
+      "luckcyberpubli@gmail.com": 65
+    }
+  },
+  {
+    "panel": "Dragon",
+    "total_mensajes_hoy": 19,
+    "detalle_por_origen": {
+      "https://fb.me/7DJXkftZM": 2,
+      "https://www.instagram.com/p/DMQFJyyg5-s/": 1,
+      "https://fb.me/3ltPRf2Pa": 1,
+      "Sin campaña": 3,
+      "https://fb.me/3zLglHrTv": 1,
+      "https://www.instagram.com/p/DMOrKHagUS8/": 3,
+      "https://fb.me/2XeOFCpXK": 3,
+      "https://fb.me/3lThuCa8y": 4,
+      "https://fb.me/8I8VKNwMc": 1
+    },
+    "totales_por_usuario": {
+      "dragoncyberpubli@gmail.com": 19
+    }
+  },
+  {
+    "panel": "VGanamos",
+    "total_mensajes_hoy": 79,
+    "detalle_por_origen": {
+      "https://fb.me/ihMjbzqrU": 30,
+      "https://fb.me/6xE5M0LWw": 2,
+      "https://fb.me/7aoEuzcMR": 26,
+      "Sin campaña": 8,
+      "https://www.instagram.com/p/DL9LQ0dsiLY/": 4,
+      "https://fb.me/4DvBCs8Za": 4,
+      "https://fb.me/8aC4UvheQ": 2,
+      "https://fb.me/5IL6DzBNK": 1,
+      "https://www.instagram.com/p/DMOcrF7tN40/": 2
+    },
+    "totales_por_usuario": {
+      "vganamoscyberpubli@gmail.com": 79
+    }
+  },
+  {
+    "panel": "Detager",
+    "total_mensajes_hoy": 37,
+    "detalle_por_origen": {
+      "https://fb.me/8lZ1Jz35i": 1,
+      "https://fb.me/6Le7Wt8QI": 18,
+      "https://fb.me/i1CvTrjWX": 11,
+      "Sin campaña": 2,
+      "https://fb.me/6mSzJ7aUg": 1,
+      "https://www.instagram.com/p/DL8gkFAg_z6/": 4
+    },
+    "totales_por_usuario": {
+      "detagercyberpubli@gmail.com": 37
+    }
+  },
+  {
+    "panel": "PubliW",
+    "total_mensajes_hoy": 1,
+    "detalle_por_origen": {
+      "Sin campaña": 1
+    },
+    "totales_por_usuario": {
+      "panelwcyberpubli@gmail.com": 1
     }
   }
 ]

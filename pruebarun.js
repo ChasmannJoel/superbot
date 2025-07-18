@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
 // Configuración centralizada
-const APP_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzi0Q4xGe6LDp_ag_O0MscwY--ZBI9U9b9RPmVQAUi3IlJiLobHZCImw0K-4fKicsDS/exec';
+const APP_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwjxHENITFMPdayKB5ArRziJDchssA_zkP-B1Hrkgcew4d5VVj09JBCrcOIBcPlxo-g/exec';
 const SHARED_SECRET = 'TU_SECRETO_COMPARTIDO';
 
 async function notifyAppScript() {

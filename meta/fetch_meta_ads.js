@@ -176,29 +176,36 @@ async function obtenerDatosCampania(campaignId, accessToken) {
         const saldosUrl = `https://graph.facebook.com/v19.0/${idCuenta}?fields=spend_cap,amount_spent,balance&access_token=${cuenta.token}`;
                   cuentaData.saldos = await fetch(saldosUrl).then(res => res.json());
 
-        // 2. Obtener campañas con estado ACTIVE o PAUSED (sin filtrar por fecha)
-          const campaniasUrl = `https://graph.facebook.com/v19.0/${idCuenta}/campaigns?fields=id,name,status,start_time,stop_time,effective_status&filtering=[{"field":"effective_status","operator":"IN","value":["ACTIVE","PAUSED"]}]&access_token=${cuenta.token}`;
-          const campaniasRes = await fetch(campaniasUrl);
-          const campaniasData = await campaniasRes.json();
+        // 2. Obtener TODAS las campañas con paginación
+        let todasCampanias = [];
+        let nextUrl = `https://graph.facebook.com/v19.0/${idCuenta}/campaigns?fields=id,name,status,start_time,stop_time,effective_status&filtering=[{"field":"effective_status","operator":"IN","value":["ACTIVE","PAUSED"]}]&access_token=${cuenta.token}`;
+        while (nextUrl) {
+          const res = await fetch(nextUrl);
+          const data = await res.json();
+          if (data.data && data.data.length > 0) {
+            todasCampanias = todasCampanias.concat(data.data);
+          }
+          nextUrl = data.paging && data.paging.next ? data.paging.next : null;
+        }
 
         // 3. Procesar cada campaña (sin filtro de fechas)
-              cuentaData.campanias = (
-                await Promise.all(
-                  (campaniasData.data || []).map(async (campania) => {
-                    const campaniaCompleta = await obtenerDatosCampania(campania.id, cuenta.token);
-                    if (
-                      campaniaCompleta &&
-                      (
-                        campaniaCompleta.metricas_diarias?.spend > 0 ||
-                        campaniaCompleta.metricas_diarias?.messages > 0
-                      )
-                    ) {
-                      return campaniaCompleta;
-                    }
-                    return null;
-                  })
+        cuentaData.campanias = (
+          await Promise.all(
+            (todasCampanias || []).map(async (campania) => {
+              const campaniaCompleta = await obtenerDatosCampania(campania.id, cuenta.token);
+              if (
+                campaniaCompleta &&
+                (
+                  campaniaCompleta.metricas_diarias?.spend > 0 ||
+                  campaniaCompleta.metricas_diarias?.messages > 0
                 )
-              ).filter(Boolean); // Elimina los null
+              ) {
+                return campaniaCompleta;
+              }
+              return null;
+            })
+          )
+        ).filter(Boolean); // Elimina los null
             } catch (error) {
               console.error(`Error procesando cuenta ${idCuenta}: ${error.message}`);
             }

@@ -60,10 +60,10 @@ async function obtenerContactosAyer(apiKey) {
     });
 
     if (contactosAyerEnPagina.length > 0) {
-      // Para cada contacto, agregar los mensajes
-      for (const contacto of contactosAyerEnPagina) {
+      // Obtener los mensajes de todos los contactos en paralelo
+      await Promise.all(contactosAyerEnPagina.map(async (contacto) => {
         contacto.messages = await obtenerMensajesContacto(apiKey, contacto.uuid);
-      }
+      }));
       contactosAyer = contactosAyer.concat(contactosAyerEnPagina);
       if (!encontradoPrimerContacto) {
         encontradoPrimerContacto = true;
@@ -88,15 +88,9 @@ async function obtenerContactosAyer(apiKey) {
 }
 
 (async () => {
-  let todosContactos = [];
-  for (const apiKey of API_KEYS) {
-    try {
-      const contactos = await obtenerContactosAyer(apiKey);
-      todosContactos = todosContactos.concat(contactos);
-    } catch (err) {
-      console.error(`Error con API key: ${apiKey.slice(0, 8)}...`, err.message);
-    }
-  }
+  // Ejecutar la consulta para todas las API keys en paralelo
+  const resultados = await Promise.all(API_KEYS.map(apiKey => obtenerContactosAyer(apiKey)));
+  const todosContactos = resultados.flat();
   // Guarda el JSON en la misma carpeta que este script
   const rutaArchivo = path.join(__dirname, 'contactos_ayer.json');
   fs.writeFileSync(rutaArchivo, JSON.stringify(todosContactos, null, 2), 'utf8');

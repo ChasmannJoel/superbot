@@ -61,39 +61,23 @@ app.get('/json', (req, res) => {
   }
 });
 
-// Endpoint para ejecutar fetch_and_save.js
-app.post('/actualizar', async (req, res) => {
-  try {
-    const { force } = req.body;
-    
-    exec('node fetch_and_save.js' + (force ? ' --force' : ''), 
-      { cwd: __dirname }, 
-      (err, stdout, stderr) => {
-        
-        if (err) {
-          console.error('Error en exec:', stderr);
-          return res.status(500).json({ 
-            error: 'Error al ejecutar el script',
-            details: stderr 
-          });
-        }
-        
-        console.log('Script ejecutado:', stdout);
-        res.json({ 
-          success: true,
-          mensaje: 'Actualización ejecutada', 
-          salida: stdout,
-          timestamp: new Date().toISOString()
-        });
-    });
-    
-  } catch (error) {
-    console.error('Error en endpoint /actualizar:', error);
-    res.status(500).json({ 
-      error: 'Error interno del servidor',
-      details: error.message 
-    });
-  }
+// ✅ ✅ Endpoint /actualizar modificado para responder INMEDIATAMENTE
+app.post('/actualizar', (req, res) => {
+  // Responder de inmediato
+  res.json({
+    success: true,
+    mensaje: 'OK, actualización solicitada',
+    timestamp: new Date().toISOString()
+  });
+
+  // Ejecutar script en segundo plano
+  exec('node fetch_and_save.js --force', { cwd: __dirname }, (err, stdout, stderr) => {
+    if (err) {
+      console.error('Error en exec:', stderr);
+      return;
+    }
+    console.log('Script ejecutado:', stdout);
+  });
 });
 
 // Endpoint de estado del servidor

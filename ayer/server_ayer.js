@@ -2,6 +2,7 @@ import express from 'express';
 import fs from 'fs/promises'; // Usamos la versión con promises
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { exec } from 'child_process';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -14,6 +15,7 @@ const PATHS = {
   reporte: path.join(__dirname, 'reporte_paneles_ayer.json'),
   respuestas: path.join(__dirname, 'respuestas_ayer.json'),
   contactos: path.join(__dirname, 'contactos_ayer.json'),
+  campanias: path.join(__dirname, 'campanias_meta_ads.json'),
 };
 
 
@@ -56,17 +58,19 @@ app.get('/root/ayer', async (req, res) => {
     }
 
     // Leer archivos
-    const [reporte, respuestas, contactos] = await Promise.all([
+    const [reporte, respuestas, contactos, campanias] = await Promise.all([
       fs.readFile(PATHS.reporte, 'utf8').then(JSON.parse),
       fs.readFile(PATHS.respuestas, 'utf8').then(JSON.parse),
       fs.readFile(PATHS.contactos, 'utf8').then(JSON.parse),
+      fs.readFile(PATHS.campanias, 'utf8').then(JSON.parse),
     ]);
 
     res.json({
       success: true,
       reportePaneles: reporte,
       respuestasPaneles: respuestas,
-      ContactosCallbell: contactos
+      ContactosCallbell: contactos,
+      campaniasMetaAds: campanias
     });
 
   } catch (err) {
@@ -77,6 +81,23 @@ app.get('/root/ayer', async (req, res) => {
     });
   }
 });
+
+// Endpoint POST para ejecutar runner_ayer.js
+const RUNNER_PATH = path.join(__dirname, 'runner_ayer.js');
+import { spawn } from 'child_process';
+app.post('/root/ayer', (req, res) => {
+  const child = spawn('node', [RUNNER_PATH], { stdio: 'inherit' });
+  child.on('close', (code) => {
+    if (code === 0) {
+      res.json({ success: true });
+    } else {
+      res.status(500).json({ success: false, error: `runner_ayer.js exited with code ${code}` });
+    }
+  });
+});
+
+// Si prefieres seguir usando exec, puedes aumentar el buffer así:
+// exec(`node "${RUNNER_PATH}"`, { maxBuffer: 1024 * 1024 * 10 }, (error, stdout, stderr) => { ... });
 
 // Endpoint de diagnóstico
 app.get('/debug-files', async (req, res) => {

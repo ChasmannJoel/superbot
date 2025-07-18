@@ -30,7 +30,8 @@ function formatDuration(ms) {
 
 function calcularPromedios(contactos) {
   const resultadoPorPanel = {};
-  const FRASE_CIERRE = "¡Gracias por comunicarte con nosotros! Ya podés desestimar este chat. \nPara la próxima escribinos directamente al Principal que te enviamos. 😊";
+  const FRASE_CIERRE = "¡Gracias por comunicarte con nosotros! Ya podés desestimar este chat.\nPara la próxima escribinos directamente al Principal que te enviamos. 😊";
+  const FRASE_CIERRE_2 =  "¡Gracias por comunicarte con nosotros! Ya podés desestimar este chat. \nPara la próxima escribinos directamente al Principal que te enviamos. 😊"; // <-- pon aquí la otra frase
 
   for (const contacto of contactos) {
     // Limpia el nombre del panel (soporta "Panel", "Panel:", "panel: ", etc.)
@@ -59,8 +60,11 @@ function calcularPromedios(contactos) {
       resultadoPorPanel[panel].veces_c4rgado++;
     }
 
-    // Contar veces que aparece la frase de cierre
-    const vecesFrase = mensajes.filter(m => (m.text || '').includes(FRASE_CIERRE)).length;
+    // Contar veces que aparece cualquiera de las frases de cierre
+    const vecesFrase = mensajes.filter(m => {
+      const txt = m.text || '';
+      return txt.includes(FRASE_CIERRE) || txt.includes(FRASE_CIERRE_2);
+    }).length;
     resultadoPorPanel[panel].veces_frase_cierre += vecesFrase;
 
     // Ordenar todos los mensajes por fecha

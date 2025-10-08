@@ -2,11 +2,18 @@ import { spawn } from 'child_process';
 import fetch from 'node-fetch';
 import fs from 'fs';
 import path from 'path';
+import os from 'os';
+import { fileURLToPath } from 'url';
 
 let isRunning = false;
 
 // -------- CONFIG --------
-const WORKDIR = '/root/superbot1.0';
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const VPS_WORKDIR = '/root/superbot1.0';
+const isVPS = os.platform() === 'linux' && fs.existsSync(VPS_WORKDIR);
+const WORKDIR = isVPS ? VPS_WORKDIR : path.resolve(__dirname, '..');
 const LOG_FILE = path.join(WORKDIR, 'cron_ejecuciones.log');
 
 const SCRIPTS = [
@@ -17,7 +24,15 @@ const SCRIPTS = [
 /** Agrega una línea al log */
 function log(line) {
   const stamp = `[${new Date().toISOString()}] `;
-  fs.appendFileSync(LOG_FILE, stamp + line + '\n');
+  try {
+    const logDir = path.dirname(LOG_FILE);
+    if (!fs.existsSync(logDir)) {
+      fs.mkdirSync(logDir, { recursive: true });
+    }
+    fs.appendFileSync(LOG_FILE, stamp + line + '\n');
+  } catch (error) {
+    console.error(`No se pudo escribir en el log (${LOG_FILE}):`, error.message);
+  }
 }
 
 /** Ejecuta un script hijo y encadena la promesa */

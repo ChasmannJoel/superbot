@@ -8,7 +8,13 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = 3020;
+const DEFAULT_PORT = 3020;
+const rawPort = process.env.AYER_SERVER_PORT;
+const parsedPort = rawPort ? Number(rawPort) : Number.NaN;
+if (rawPort && (!Number.isFinite(parsedPort) || parsedPort <= 0)) {
+  console.warn(`⚠️  Valor de AYER_SERVER_PORT inválido ("${rawPort}"), usando puerto por defecto ${DEFAULT_PORT}`);
+}
+const PORT = Number.isFinite(parsedPort) && parsedPort > 0 ? parsedPort : DEFAULT_PORT;
 
 // Configuración de rutas absolutas
 const PATHS = {
@@ -100,5 +106,6 @@ app.get('/debug-files', async (req, res) => {
 
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`🛠️  Servidor de diagnóstico en http://0.0.0.0:${PORT}/debug-files`);
-  console.log(`🚀 Endpoint principal en http://0.0.0.0:${PORT}/root/superbot1.0`);
+  console.log(`🚀 Endpoint principal en http://0.0.0.0:${PORT}/root/ayer`);
+  console.log(`📤 Endpoint para ejecutar runner en http://0.0.0.0:${PORT}/root/ayer [POST]`);
 });

@@ -13,8 +13,6 @@ const PORT = 3020;
 // Configuración de rutas absolutas
 const PATHS = {
   reporte: path.join(__dirname, 'reporte_paneles_ayer.json'),
-  respuestas: path.join(__dirname, 'respuestas_ayer.json'),
-  contactos: path.join(__dirname, 'contactos_ayer.json'),
   campanias: path.join(__dirname, 'campanias_meta_ads.json'),
 };
 
@@ -58,18 +56,14 @@ app.get('/root/ayer', async (req, res) => {
     }
 
     // Leer archivos
-    const [reporte, respuestas, contactos, campanias] = await Promise.all([
+    const [reporte, campanias] = await Promise.all([
       fs.readFile(PATHS.reporte, 'utf8').then(JSON.parse),
-      fs.readFile(PATHS.respuestas, 'utf8').then(JSON.parse),
-      fs.readFile(PATHS.contactos, 'utf8').then(JSON.parse),
       fs.readFile(PATHS.campanias, 'utf8').then(JSON.parse),
     ]);
 
     res.json({
       success: true,
       reportePaneles: reporte,
-      respuestasPaneles: respuestas,
-      ContactosCallbell: contactos,
       campaniasMetaAds: campanias
     });
 

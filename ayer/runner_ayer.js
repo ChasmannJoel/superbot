@@ -10,11 +10,7 @@ const WORKDIR = '/root/superbot1.0';
 const LOG_FILE = path.join(WORKDIR, 'cron_ejecuciones.log');
 
 const SCRIPTS = [
-  'ayer/generarayer.js',
-  'ayer/informeayer.js',
-  'ayer/analizar_ayer.js',
-  'ayer/fetch_ayer_meta.js',
-  'datos/backup_diario.js'
+  'ayer/fetch_ayer_meta.js'
 ];
 // ------------------------
 

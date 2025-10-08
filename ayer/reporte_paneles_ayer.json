@@ -1,102 +1,92 @@
 [
   {
-    "panel": "ThiagoP",
-    "mensajes": 268
+    "panel": "3",
+    "total_mensajes_hoy": 109,
+    "cargas_hoy": 0,
+    "porcentaje_carga": "0%",
+    "campañas": {
+      "B": 109
+    },
+    "detalle_por_origen": ["clientify"]
   },
   {
-    "panel": "Cocan",
-    "mensajes": 205
+    "panel": "4",
+    "total_mensajes_hoy": 147,
+    "cargas_hoy": 0,
+    "porcentaje_carga": "0%",
+    "campañas": {
+      "B": 147
+    },
+    "detalle_por_origen": ["clientify"]
   },
   {
-    "panel": "BT300",
-    "mensajes": 174
+    "panel": "5",
+    "total_mensajes_hoy": 79,
+    "cargas_hoy": 0,
+    "porcentaje_carga": "0%",
+    "campañas": {
+      "B": 79
+    },
+    "detalle_por_origen": ["clientify"]
   },
   {
-    "panel": "Godzilla",
-    "mensajes": 173
+    "panel": "6",
+    "total_mensajes_hoy": 30,
+    "cargas_hoy": 0,
+    "porcentaje_carga": "0%",
+    "campañas": {
+      "B": 30
+    },
+    "detalle_por_origen": ["clientify"]
   },
   {
-    "panel": "Rotterdam",
-    "mensajes": 171
+    "panel": "8",
+    "total_mensajes_hoy": 52,
+    "cargas_hoy": 0,
+    "porcentaje_carga": "0%",
+    "campañas": {
+      "B": 52
+    },
+    "detalle_por_origen": ["clientify"]
   },
   {
-    "panel": "Miami",
-    "mensajes": 164
+    "panel": "9",
+    "total_mensajes_hoy": 37,
+    "cargas_hoy": 0,
+    "porcentaje_carga": "0%",
+    "campañas": {
+      "B": 37
+    },
+    "detalle_por_origen": ["clientify"]
   },
   {
-    "panel": "Luck",
-    "mensajes": 145
+    "panel": "10",
+    "total_mensajes_hoy": 154,
+    "cargas_hoy": 0,
+    "porcentaje_carga": "0%",
+    "campañas": {
+      "B": 154
+    },
+    "detalle_por_origen": ["clientify"]
   },
   {
-    "panel": "Oporto",
-    "mensajes": 138
+    "panel": "11",
+    "total_mensajes_hoy": 19,
+    "cargas_hoy": 0,
+    "porcentaje_carga": "0%",
+    "campañas": {
+      "B": 19
+    },
+    "detalle_por_origen": ["clientify"]
   },
   {
-    "panel": "Open24hs",
-    "mensajes": 120
-  },
-  {
-    "panel": "VGanamos",
-    "mensajes": 101
-  },
-  {
-    "panel": "GoatGaming",
-    "mensajes": 73
-  },
-  {
-    "panel": "Dragon",
-    "mensajes": 69
-  },
-  {
-    "panel": "Escaloneta",
-    "mensajes": 66
-  },
-  {
-    "panel": "SimonP",
-    "mensajes": 64
-  },
-  {
-    "panel": "Detager",
-    "mensajes": 61
-  },
-  {
-    "panel": "Siempre",
-    "mensajes": 44
-  },
-  {
-    "panel": "F99",
-    "mensajes": 40
-  },
-  {
-    "panel": "Venecia",
-    "mensajes": 39
-  },
-  {
-    "panel": "Somos",
-    "mensajes": 35
-  },
-  {
-    "panel": "Sin Asignar",
-    "mensajes": 5
-  },
-  {
-    "panel": "PubliW",
-    "mensajes": 4
-  },
-  {
-    "panel": "Cokesin",
-    "mensajes": 2
-  },
-  {
-    "panel": "300Vip",
-    "mensajes": 0
-  },
-  {
-    "panel": "Red",
-    "mensajes": 0
-  },
-  {
-    "panel": "Royal",
-    "mensajes": 0
+    "panel": "12",
+    "total_mensajes_hoy": 86,
+    "cargas_hoy": 0,
+    "porcentaje_carga": "0%",
+    "campañas": {
+      "B": 86
+    },
+    "detalle_por_origen": ["clientify"]
   }
 ]

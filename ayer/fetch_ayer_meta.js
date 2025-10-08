@@ -180,6 +180,7 @@ async function obtenerDatosCampania(campaignId, accessToken) {
       cuentas: []
     };
 
+
     await Promise.all(cuenta.idsCuentasAnuncios.map(async (idCuenta) => {
       console.log(`Procesando cuenta publicitaria: ${idCuenta}`);
       const cuentaData = { id: idCuenta };
@@ -190,15 +191,27 @@ async function obtenerDatosCampania(campaignId, accessToken) {
         console.log(`Obteniendo saldos de: ${idCuenta}`);
         cuentaData.saldos = await fetch(saldosUrl).then(res => res.json());
 
-        // 2. Obtener campañas con estado ACTIVE o PAUSED (sin filtrar por fecha)
-        const campaniasUrl = `https://graph.facebook.com/v19.0/${idCuenta}/campaigns?fields=id,name,status,start_time,stop_time,effective_status&filtering=[{"field":"effective_status","operator":"IN","value":["ACTIVE","PAUSED"]}]&access_token=${cuenta.token}`;
-        console.log(`Obteniendo campañas de: ${idCuenta}`);
-        const campaniasRes = await fetch(campaniasUrl);
-        const campaniasData = await campaniasRes.json();
+        // 2. Obtener todas las campañas con paginación
+        let allCampaigns = [];
+        let campaniasUrl = `https://graph.facebook.com/v19.0/${idCuenta}/campaigns?fields=id,name,status,start_time,stop_time,effective_status&filtering=[{"field":"effective_status","operator":"IN","value":["ACTIVE","PAUSED"]}]&access_token=${cuenta.token}`;
+        let hasNext = true;
+        while (campaniasUrl && hasNext) {
+          console.log(`Obteniendo campañas de: ${idCuenta}`);
+          const campaniasRes = await fetch(campaniasUrl);
+          const campaniasData = await campaniasRes.json();
+          if (campaniasData.data) {
+            allCampaigns = allCampaigns.concat(campaniasData.data);
+          }
+          if (campaniasData.paging && campaniasData.paging.next) {
+            campaniasUrl = campaniasData.paging.next;
+          } else {
+            hasNext = false;
+          }
+        }
 
         // 3. Procesar cada campaña en paralelo
         cuentaData.campanias = (await Promise.all(
-          (campaniasData.data || []).map(async (campania) => {
+          (allCampaigns || []).map(async (campania) => {
             console.log(`Procesando campaña: ${campania.id} (${campania.name})`);
             const campaniaCompleta = await obtenerDatosCampania(campania.id, cuenta.token);
             if (

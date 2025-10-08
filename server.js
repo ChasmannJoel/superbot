@@ -7,7 +7,13 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = 3010;
+const DEFAULT_PORT = 3010;
+const rawPort = process.env.SERVER_PORT;
+const parsedPort = rawPort ? Number(rawPort) : Number.NaN;
+if (rawPort && (!Number.isFinite(parsedPort) || parsedPort <= 0)) {
+  console.warn(`⚠️  Valor de SERVER_PORT inválido ("${rawPort}"), usando puerto por defecto ${DEFAULT_PORT}`);
+}
+const PORT = Number.isFinite(parsedPort) && parsedPort > 0 ? parsedPort : DEFAULT_PORT;
 
 // Configuración de rutas absolutas
 const PATHS = {

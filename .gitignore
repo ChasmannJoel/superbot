@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignorar node_modules en todos los subdirectorios
 node_modules/
 **/node_modules/
@@ -19,3 +20,110 @@ Thumbs.db
 
 # Ignorar archivos de configuración de PM2
 ecosystem.*.json
+=======
+# 🔐 ARCHIVOS SENSIBLES Y CREDENCIALES
+*.key
+*.pem
+*.p12
+*.pfx
+*.env
+*.env.local
+*.env.production
+key
+key.pub
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+credentials.json
+token.json
+config.json
+secrets.json
+
+# 📊 ARCHIVOS DE DATOS SENSIBLES DE META ADS
+meta/cuentas_meta_ads.json
+ayer/campanias_meta_ads.json
+clientify/datos/contactos_hoy_completos.json
+clientify/datos/contactos_hoy.json
+clientify/datos/contacts_raw.json
+datos_meta/
+cuentas_publicitarias/
+
+# 📋 ARCHIVOS DE REPORTES Y LOGS
+*.log
+logs/
+error.log
+debug.log
+console.log
+cron_ejecuciones.log
+meta_ads_errors.log
+error_report.json
+
+# 📊 BACKUPS Y TEMPORALES
+backup/
+temp/
+tmp/
+*.tmp
+*.bak
+*.backup
+*~
+
+# 📱 ARCHIVOS ESPECÍFICOS DEL PROYECTO
+# Reportes generados
+reporte_paneles_ayer.json
+reporte_paneles2.json
+horarios_ejecucion_meta_ads.json
+
+# 📁 ARCHIVOS DE CONFIGURACIÓN LOCAL
+.clasp.json
+appsscript.json
+.config/
+ecosystem.*.config.json
+
+# 💻 ARCHIVOS DEL SISTEMA
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# 📦 DEPENDENCIAS (si usas Node.js)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# 🔧 ARCHIVOS DE EDITOR
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 📊 REPORTES EXPORTADOS
+reportes_generados/
+exports/
+*.xlsx
+*.csv
+*.pdf
+
+# 🔄 ARCHIVOS DE VERSIONADO
+.git/
+.gitkeep
+
+# 🌐 ARCHIVOS WEB Y BUILD
+*.map
+.cache/
+dist/
+build/
+
+# 🎯 ARCHIVOS ESPECÍFICOS DE SUPERBOT
+test_data.json
+sandbox/
+drafts/
+pruebas/
+>>>>>>> d0169b8163d13a2f3a9087ec7eee3cb6dcb35b51

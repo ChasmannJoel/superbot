@@ -1,0 +1,86 @@
+[
+  {
+    "panel": "3",
+    "total_mensajes_hoy": 63,
+    "cargas_hoy": 15,
+    "porcentaje_carga": "23.8%",
+    "campañas": {
+      "B": 63
+    },
+    "detalle_por_origen": [
+      "clientify"
+    ]
+  },
+  {
+    "panel": "5",
+    "total_mensajes_hoy": 91,
+    "cargas_hoy": 21,
+    "porcentaje_carga": "23.1%",
+    "campañas": {
+      "A": 54,
+      "G": 37
+    },
+    "detalle_por_origen": [
+      "clientify"
+    ]
+  },
+  {
+    "panel": "8",
+    "total_mensajes_hoy": 79,
+    "cargas_hoy": 11,
+    "porcentaje_carga": "13.9%",
+    "campañas": {
+      "E": 45,
+      "A": 5,
+      "G": 29
+    },
+    "detalle_por_origen": [
+      "clientify"
+    ]
+  },
+  {
+    "panel": "9",
+    "total_mensajes_hoy": 50,
+    "cargas_hoy": 3,
+    "porcentaje_carga": "6.0%",
+    "campañas": {
+      "O": 17,
+      "B": 10,
+      "N": 11,
+      "K": 11,
+      "A": 1
+    },
+    "detalle_por_origen": [
+      "clientify"
+    ]
+  },
+  {
+    "panel": "10",
+    "total_mensajes_hoy": 103,
+    "cargas_hoy": 18,
+    "porcentaje_carga": "17.5%",
+    "campañas": {
+      "B": 50,
+      "D": 22,
+      "A": 29,
+      "C": 2
+    },
+    "detalle_por_origen": [
+      "clientify"
+    ]
+  },
+  {
+    "panel": "12",
+    "total_mensajes_hoy": 224,
+    "cargas_hoy": 27,
+    "porcentaje_carga": "12.1%",
+    "campañas": {
+      "B": 35,
+      "E": 128,
+      "D": 61
+    },
+    "detalle_por_origen": [
+      "clientify"
+    ]
+  }
+]

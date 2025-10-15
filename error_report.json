@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-10-15T18:56:48.241Z",
+  "batch_info": {
+    "environment": "VPS",
+    "workdir": "/root/superbot1.0",
+    "start_time": "2025-10-15T18:56:48.241Z",
+    "scripts_to_run": [
+      "clientify/runner_clientify.js",
+      "meta/fetch_meta_ads.js",
+      "pruebarun.js"
+    ],
+    "max_errors_per_script": 15,
+    "end_time": "2025-10-15T18:59:37.899Z",
+    "duration_ms": 169658
+  },
+  "scripts": {
+    "clientify/runner_clientify.js": {
+      "status": "success",
+      "last_success": "2025-10-15T18:59:02.876Z"
+    },
+    "meta/fetch_meta_ads.js": {
+      "status": "success",
+      "last_success": "2025-10-15T18:59:26.898Z"
+    },
+    "pruebarun.js": {
+      "status": "success",
+      "last_success": "2025-10-15T18:59:37.899Z"
+    }
+  },
+  "summary": {
+    "total_errors": 0,
+    "failed_scripts": [],
+    "successful_scripts": [
+      "clientify/runner_clientify.js",
+      "meta/fetch_meta_ads.js",
+      "pruebarun.js"
+    ],
+    "skipped_scripts": []
+  }
+}

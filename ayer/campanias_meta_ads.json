@@ -1,0 +1,870 @@
+{
+  "fecha_inicio": "15/10/2025, 12:30:00",
+  "fecha_fin": "15/10/2025, 12:30:05",
+  "datos": [
+    {
+      "nombre": "Zulma",
+      "cuentas": [
+        {
+          "id": "act_1654443585252897",
+          "saldos": {
+            "spend_cap": "700001",
+            "amount_spent": "592415",
+            "balance": "0",
+            "id": "act_1654443585252897"
+          },
+          "campanias": []
+        }
+      ]
+    },
+    {
+      "nombre": "Lorena",
+      "cuentas": [
+        {
+          "id": "act_1108818604424350",
+          "saldos": {
+            "spend_cap": "1640001",
+            "amount_spent": "1516146",
+            "balance": "0",
+            "id": "act_1108818604424350"
+          },
+          "campanias": []
+        }
+      ]
+    },
+    {
+      "nombre": "Jhon",
+      "cuentas": [
+        {
+          "id": "act_465976329890131",
+          "saldos": {
+            "spend_cap": "3588809",
+            "amount_spent": "3497252",
+            "balance": "108268",
+            "id": "act_465976329890131"
+          },
+          "campanias": [
+            {
+              "id": "120233809634470696",
+              "nombre": "Cyber-A-Mar Crupier (03/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 12,
+                "spend": 59.43,
+                "costoPorMensaje": 4.9525
+              },
+              "imagenes": {
+                "thumbnail_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/559669553_1497442054623016_114464792568412778_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=CmjnFRpmEEIQ7kNvwHcWKrz&_nc_oc=AdlNTA_q_93w5q0DxeprGuFY_Wx7tnUKlu-BfJL6jlnxZBT4ghF2ljKM9SypW1WlLaZyzvKLCZai_xa8TAqs4EZO&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=z1kRs8PcEIFwJOyHAprP8w&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=4c02d7&_nc_sid=58080a&oh=00_AffIjeoq66xtnICwkMfDLa-FHm7_1HQHMelCCS0gtG9z0g&oe=68F4FC5F",
+                "image_url": null,
+                "story_image_url": null,
+                "ad_id": "120233809634520696",
+                "ad_name": "Cyber-A-Mar Crupier (03/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120233809634510696",
+                  "adset_name": "Cyber-A-Mar Crupier (03/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "5000",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-03T17:04:59-0300",
+                  "gasto": 59.43,
+                  "resultados": 12,
+                  "costoPorResultado": 4.95
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Gabi",
+      "cuentas": [
+        {
+          "id": "act_436751812759165",
+          "saldos": {
+            "spend_cap": "7719748",
+            "amount_spent": "7617392",
+            "balance": "70340",
+            "id": "act_436751812759165"
+          },
+          "campanias": []
+        }
+      ]
+    },
+    {
+      "nombre": "Salome",
+      "cuentas": [
+        {
+          "id": "act_1644441436474640",
+          "saldos": {
+            "spend_cap": "6153997",
+            "amount_spent": "6054825",
+            "balance": "60180",
+            "id": "act_1644441436474640"
+          },
+          "campanias": [
+            {
+              "id": "120234668124590455",
+              "nombre": "Vicemiami-G-Salo Crupier(14/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 6,
+                "spend": 26.25,
+                "costoPorMensaje": 4.375
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/34181452303340191?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQIe0OdTQiF-nor_E-Uc80yLcac8DwZyDtnMdy1bRVyS8KvRIPCThwxFhvlDItLDX6ktURirR4_WoNJXuQfZzzvZ15rt0k--TdkqnAyh4EN814T2wesy7R2EIM-jo6pxoVYk-4B81fzjwk1eWN-9drAe&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=ZpLMJrZdOP5D1ygNRgVocQ&_nc_oc=AdmXTpS6Tz2ATPcxYnW-jNiewHYOA2ZduxMpUxsitv7J-YBDsvzdiN2lUZDX-pLbQt6mm-xnAm7UQqhhNY2QHDDL&ccb=13-1&oh=06_Q3-4AVRbydLGcFPJ3sx9it_pIVK_7ZDLzr_qmZ65XoL2jlgI&oe=68F0D796&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/564975625_826517916620480_4742299722039692848_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=890911&_nc_ohc=h9P8sOldIdsQ7kNvwEAM5LS&_nc_oc=AdkgiHcbOApHe91u6p9UB5kPe944M_-gqVfBSKmlDaH7XVbnr5toUoTu7mTX8-kNirSj3MroIu9kSOuPMemnxW68&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ANIILHsEAAAA&_nc_gid=ZpLMJrZdOP5D1ygNRgVocQ&oh=00_AffW4USy1B7OBHWFZjGo-bOyv1XOaMYLAYFXlPaG5DdvgQ&oe=68F4D6D7",
+                "story_image_url": null,
+                "ad_id": "120234668124730455",
+                "ad_name": "Vicemiami-G-Salo Crupier(14/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120234668124680455",
+                  "adset_name": "Vicemiami-G-Salo Crupier(14/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-14T19:17:22-0300",
+                  "gasto": 26.25,
+                  "resultados": 6,
+                  "costoPorResultado": 4.38
+                }
+              ]
+            },
+            {
+              "id": "120234643237870455",
+              "nombre": "Vicemiami-F-Salome Crupier(14/10)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 2,
+                "spend": 6.93,
+                "costoPorMensaje": 3.465
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/18077179513232648183?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJmWwLMIgcJLoh3xTKYENHpFx9RPZ0PPqhc5WFD1nCAMRkpSYvp1Zu8DULZ2z1iCuSTJ3VuUkh4eFKTQKTiY81bL0-3mH-VPlEyqHuL6KoreKNoCfzuKzG8B_NRgru9v5ILj3iIFp2pHQwSEWEbbM7b&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=pvs50QTMqOaGCGZFsB9Kkg&_nc_oc=AdnCEQvMkb2qIfufVQMRG2R7Hq6Fz87IFocIIhLdsTq37CZXupfhEDfPBU1gs5xRv7DtTRVt1TIqU_wDyevBuvFW&ccb=13-1&oh=06_Q3-4AQYOqtetyo0MnNG9LU2qx0zSx9ykAZZGRH8D9Wtd_yuD&oe=68F0DD52&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/564638688_807658111988286_4975428374168004452_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=890911&_nc_ohc=3kCTcRCqbQYQ7kNvwGbwIoo&_nc_oc=AdleX_HRzW462TOkNwDdzRtxP_jd18dcXpjkgs640l0Tfn8IbzZRx-FBVk61ZwyeKitcUH3PASqjKfj4pzkfdfsO&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ANIILHsEAAAA&_nc_gid=pvs50QTMqOaGCGZFsB9Kkg&oh=00_AfeQ2xxf7bgnJFm7cGh1GzSrkl95gOv2Bt00MXPI1joIGA&oe=68F4E607",
+                "story_image_url": null,
+                "ad_id": "120234643237890455",
+                "ad_name": "Vicemiami-F-Salome Crupier(14/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120234643237880455",
+                  "adset_name": "Vicemiami-F-Salome Crupier(14/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-14T11:06:34-0300",
+                  "gasto": 6.93,
+                  "resultados": 2,
+                  "costoPorResultado": 3.46
+                }
+              ]
+            },
+            {
+              "id": "120234633599820455",
+              "nombre": "Monaco-L-Dani Divierte (14/10)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 7,
+                "spend": 24.11,
+                "costoPorMensaje": 3.4442857142857144
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/9149944103425088221?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQIco8U2eGFZsBPMBnQhzPT9ith3FICSO_KRHdrzf3AQLxqaiQDWskzLBi_STMDmSLpbknE3PkKWHPCmsHTtXzgT0fDI875M0xv12Nt3bXmbHgvOE2m6UZh6r7DOWAOGF0xbnwd7C10Hdo8OUgxHlPMT&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=5AJuy5X6BRa_peBfNQf9MA&_nc_oc=AdkV4V90QxwpmjSN8wNwF-ZfYrYIvlw4AO03yy8psfBYcYLKAAH_N5L-SuZ3RRuEZPE2fX1Nx3INebraazc71nxq&ccb=13-1&oh=06_Q3-4AcIsxonxXuHWziLbgQX1kxUd109spYC7Htz9VwAP1rNX&oe=68F10B86&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/564281381_2945699892298087_1046427195033378963_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=890911&_nc_ohc=KsFn7ruBAnUQ7kNvwE8gDEe&_nc_oc=AdmOgpk_mmiRXwwrn0bJMHE_CnPClKuQ_dT52t4928RnP3OSmZopgX9Pqx-la7OB5fYq5rPgzLk5MrYRZY4vNAq1&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=5AJuy5X6BRa_peBfNQf9MA&oh=00_Affo_bI8H_ebtAUpcsFO4PZJSLZtx8Hbd8kq7jLQizBXLg&oe=68F4E8B9",
+                "story_image_url": null,
+                "ad_id": "120234633600270455",
+                "ad_name": "Monaco-L-Dani Divierte (14/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120234633599930455",
+                  "adset_name": "Monaco-L-Dani Divierte (14/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-14T08:16:47-0300",
+                  "gasto": 24.11,
+                  "resultados": 7,
+                  "costoPorResultado": 3.44
+                }
+              ]
+            },
+            {
+              "id": "120234600842020455",
+              "nombre": "Vicemiami-E-Cata Divierte (13/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 79,
+                "spend": 77.61,
+                "costoPorMensaje": 0.9824050632911392
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/17378353906654443979?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQKaFt-LcUwpKf8kbr2jDvkQc3fFseSvjnUgACIa789yjZOcrpCr0WyJ0H616pha3erX0Rcjcw67w2oUdp8iYI-pC0iweV8uoGG8neXUgZGpL7MJ9cSxpkVM7ogyTShjALSrzg1T5EaRKOOs2dTAlTCn&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=Z9SGVGxgsThM3RIAn43IKw&_nc_oc=AdkkGz_XgIWddTqWPbaQfMVMR4cyVLTw66s-JP7hsLYsVDZnVnQaqEKGoVpNsuOEEKqwTWam_GAfRFbTtCniyOD6&ccb=13-1&oh=06_Q3-4AXLHWwMyVQ9TJO4tscPObcsg8rA6A43pDmkj3-DTJj5C&oe=68F0E24B&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/564350868_822813236872231_1488351173672336818_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=890911&_nc_ohc=5N7sM_iO3kgQ7kNvwGhCxvB&_nc_oc=AdkjP-GaFqi5IrrYYDL8RFjjyHrp3b2snQGNi6eYvPeyfseXFIAbShGSNNwTCIoYy05MiJllD8GN6nMdMKHCREUr&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ANIILHsEAAAA&_nc_gid=Z9SGVGxgsThM3RIAn43IKw&oh=00_AfdZGNHFdbvVGoshyqzDFYTHqn7YusHpHisvEpfH--jHzA&oe=68F4FCD8",
+                "story_image_url": null,
+                "ad_id": "120234600842060455",
+                "ad_name": "Vicemiami-E-Cata Divierte (13/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120234600842050455",
+                  "adset_name": "Vicemiami-E-Cata Divierte (13/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-13T19:18:12-0300",
+                  "gasto": 77.61,
+                  "resultados": 79,
+                  "costoPorResultado": 0.98
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Amparo",
+      "cuentas": [
+        {
+          "id": "act_987851013108825",
+          "saldos": {
+            "spend_cap": "7684168",
+            "amount_spent": "7564242",
+            "balance": "34101",
+            "id": "act_987851013108825"
+          },
+          "campanias": []
+        }
+      ]
+    },
+    {
+      "nombre": "Muskan",
+      "cuentas": [
+        {
+          "id": "act_1341844703521827",
+          "saldos": {
+            "spend_cap": "4552736",
+            "amount_spent": "4445571",
+            "balance": "50147",
+            "id": "act_1341844703521827"
+          },
+          "campanias": [
+            {
+              "id": "120234712120200748",
+              "nombre": "Monaco-A-Is Divierte (13/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 9,
+                "spend": 20.82,
+                "costoPorMensaje": 2.3133333333333335
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/13807133080336891231?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJjNon1JryR61QVorqiHYIpNgbbm8djR78OdMAgJpI1RE8ugeN0pmKj077Gciut7YD6vJ3pJFSIYd7IyQ3KWFm-XyGS9ex9EHtodIQI_hN7DHrziomxSCYcqo05wR3aN4w-Y5tPNZiNUWeR-kNgGZw4&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=0EqOpYswA-h6T6tGdL7LxA&_nc_oc=AdkU6if6roh6NJGXnRwM0G-VpjYHXaUJKR-RaqCphGx31EpjgKl3AXrDXFyr-I9eZC4CTg2Oa4FWtCfLWW6N9W-s&ccb=13-1&oh=06_Q3-4Aa0xTBLKlpWeim_bp6NeUHZXkJORAhXDP6pTrXit18W_&oe=68F10575&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/564164106_1382063903431593_4342199010589605937_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=890911&_nc_ohc=QYe7dnff_KkQ7kNvwEEaBf7&_nc_oc=AdmmdPHB2J61-jKQwULKNZ1FR9NlD9YNLnw2EbwuTNVlFv0CLBLePlbegQhMm1OhiMO4XiOUA4Zq5VQmZHO_3PqB&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=0EqOpYswA-h6T6tGdL7LxA&oh=00_Afd0Pag4Yf0OCjtA5y0XLZGeM1TG7sjetnickxBIA3n7VA&oe=68F4FAF5",
+                "story_image_url": null,
+                "ad_id": "120234712120190748",
+                "ad_name": "Monaco-A-Is Divierte (13/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120234712120210748",
+                  "adset_name": "Monaco-A-Is Divierte (13/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-13T07:50:48-0300",
+                  "gasto": 20.82,
+                  "resultados": 9,
+                  "costoPorResultado": 2.31
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Catherine",
+      "cuentas": [
+        {
+          "id": "act_4019588388295471",
+          "saldos": {
+            "spend_cap": "2719389",
+            "amount_spent": "2632115",
+            "balance": "1562",
+            "id": "act_4019588388295471"
+          },
+          "campanias": []
+        }
+      ]
+    },
+    {
+      "nombre": "Monica",
+      "cuentas": [
+        {
+          "id": "act_502624419549671",
+          "saldos": {
+            "spend_cap": "5755858",
+            "amount_spent": "5646972",
+            "balance": "348017",
+            "id": "act_502624419549671"
+          },
+          "campanias": [
+            {
+              "id": "120233768258070171",
+              "nombre": "Monaco-N-Vane Acompaña (14/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 8,
+                "spend": 24.72,
+                "costoPorMensaje": 3.09
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/17776212163314469483?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLcTPO7V0PaZNyxyrxDsG4RTNSCXkYcq-Yof9rg4LRq5e0p4uCyuDexffLx44hTNB09z17sk122qGULBQtOuRre8bg6dFCei9lqGpF7eakd8ymdgERtr0yZ_I0AXDI3ag7-tdcJM1qu8nJ1Kk2ZfJw-&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=StzeBefWnnsNxjckI037zA&_nc_oc=AdlIvQA8falux72VLtCsz7kioh_WzBFFmUjZefLOuKpmJ8w_tos1kuKhBa3uhqwu7X97cNhSs5RIQJx5bZqgDmFN&ccb=13-1&oh=06_Q3-4AUbY2fBehlwatCycgNkgo4VP5iM26WNNFETsB9xcoQKd&oe=68F0FA1C&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/564471034_841491151857696_4503489131177992104_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=890911&_nc_ohc=fHOseCGUnJEQ7kNvwGMT60P&_nc_oc=AdmXl6qdIs78b4JvYzveB8J9084mrvpQcXLRIWKiZU0sld-oCTHfn7KxReSa956dTUmifWH57VR1BNovqauUtpVu&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=StzeBefWnnsNxjckI037zA&oh=00_AffDyvZIG7Dmspi4P-WigYLWGSy36LfA2Hgua5hCBZFwhw&oe=68F4CD77",
+                "story_image_url": null,
+                "ad_id": "120233768258090171",
+                "ad_name": "Monaco-N-Vane Acompaña (14/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120233768258080171",
+                  "adset_name": "Monaco-N-Vane Acompaña (14/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-14T19:42:17-0300",
+                  "gasto": 24.72,
+                  "resultados": 8,
+                  "costoPorResultado": 3.09
+                }
+              ]
+            },
+            {
+              "id": "120233704162930171",
+              "nombre": "Treboldorado-G-Fatima Crupier (13/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 45,
+                "spend": 81.3,
+                "costoPorMensaje": 1.8066666666666666
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/3801712626027805270?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJC9Rh8bbJSJQBhavHkuRs3U0zhOj2lfRcixVF7__QsiRrltaHizXQhidxbhyGHL5ovlPbFVHtRwqcPPXp1Lwf-vDIAC-iR4WVGk_bZd-Yzy2eK_4jDXG5OYhfJ7kJ6ecQPk1pmQDWJMbpEOfolOPfy&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=gPsRHpyxW_iNKve6nDlMCg&_nc_oc=AdlhxwfyIgQ7oI9InIbVpv_D7D2E0WWGGAQPEzGfA4kB7vCV6-jwcGybIlL6DUaZThErJYisn0o2U2IEC0Vg8njX&ccb=13-1&oh=06_Q3-4AcV6TMKdC21ZcCCdBJzp8nSVYO86L7fEi6UWePQL3ZXK&oe=68F10555&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/564638688_1439872061472767_7002010930561028945_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=890911&_nc_ohc=uwx4oBHoiL8Q7kNvwH-nAzr&_nc_oc=Adl8ymTQZsjiVvHGKv0D4V8Nl1bgwmeAHlJVpt5BlQ1B-1FNi8Y2LqQ7wH_yJhtnNwCx-s-RnEtaNL-wXm1qrMtI&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ANIILHsEAAAA&_nc_gid=gPsRHpyxW_iNKve6nDlMCg&oh=00_AfcE4BEm-2hekKkORIKIcbkbgOnwa-5vF5SOFRzXiSdXAg&oe=68F4E82C",
+                "story_image_url": null,
+                "ad_id": "120233704162950171",
+                "ad_name": "Treboldorado-G-Fatima Crupier (13/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120233704162940171",
+                  "adset_name": "Treboldorado-G-Fatima Crupier (13/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-13T19:50:22-0300",
+                  "gasto": 81.3,
+                  "resultados": 45,
+                  "costoPorResultado": 1.81
+                }
+              ]
+            },
+            {
+              "id": "120233567114140171",
+              "nombre": "Treboldorado-A-Moni Online (11/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 114,
+                "spend": 140.12,
+                "costoPorMensaje": 1.229122807017544
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/5366592543939232169?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQK2Qm-qLaiq5F2aFifmGIGuJvViHnKJlGXX9jEnPB6oXZcQexwaOBo-7Gqxm49y-MJEXmUdCD4ljJZRf1iLEqdEN3f2OR3e4dxXZu9jg0JBuWh3EHA45MeBCX3ZX8aRyUSR6AbogizrTLgKkHV4Adi6&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=5aQkg1WeOR8lY5jIPh6MIA&_nc_oc=AdkqNuACCMe2U6VzPQU6GWr8Ui0C_ad-OyDBrcg7Rokq1HSlQlY3gEGMTeB2jz6HbHN-IomJuxNj5UoV2aBPvJrQ&ccb=13-1&oh=06_Q3-4AXImyMzX9FHNXGzBSeS1bkUvRcV4K0jLqjzB5rJm3SVE&oe=68F0F9B0&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/564386415_1998947860943573_6667769267681018893_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=890911&_nc_ohc=BEEIsjtdOLUQ7kNvwEbBTbQ&_nc_oc=AdlEFrjDxpeDUvZD4zC72FWNIIkfzd1nInRDTkDaVqeiCNfX-vDkz79x8XzYoOUUqH5ZUFGc2HeqD7331sKZYyKm&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=5aQkg1WeOR8lY5jIPh6MIA&oh=00_AffqOMBmfYhDsO7soMiY5j7to5YIIRxIuZe2RDnuGsWFsg&oe=68F4DAC0",
+                "story_image_url": null,
+                "ad_id": "120233567114530171",
+                "ad_name": "Treboldorado-A-Moni Online (11/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120233567114420171",
+                  "adset_name": "Treboldorado-A-Moni Online (11/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-11T09:28:09-0300",
+                  "gasto": 140.12,
+                  "resultados": 114,
+                  "costoPorResultado": 1.23
+                }
+              ]
+            },
+            {
+              "id": "120233374177960171",
+              "nombre": "Goatgaming-C-Astrid Divierte (07/10)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 34,
+                "spend": 55.71,
+                "costoPorMensaje": 1.638529411764706
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/13689719012109185697?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJJeLJfCXfSVoEGnsb0xfE-hlK0kqtF3zJ5RW8svW-x4r1xXlclI5IlUfUrjAFAaVYQh2VIsEZ44olJ6GxsGubLtA3CgyuSjdb48OT7CK-qI4Xf43qLuBDy7sRcH1ceHCPdn4v8edt_QNVVKF4KNU2X&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=v1_Q9yeB4iqzHVjrgs55ew&_nc_oc=AdkpXDwt3NaH0prN76kDjDiCBfhzbWmlFdiyf2a5YjohEnCNvSYbD3_fyHV_sWiWh7gZ8pfuho0AlKDGaSU8Z9RJ&ccb=13-1&oh=06_Q3-4AflIMovmeHadp5XHRUYR-eO6qz_2T_BMl2bKwsVK2iqH&oe=68F0EACA&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/560186707_1854569342611138_2100730592513049066_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=890911&_nc_ohc=-lXF0R0KDRMQ7kNvwHwW4UZ&_nc_oc=AdmbZ_lA_U3oNiP4sBSjGc-J_RBs5qE2r8aKcHkEafWY8GR-E5FMPx9BCoVT1Tq1c8c7HmxkSgY5imE50B-ezGXc&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ANIILHsEAAAA&_nc_gid=v1_Q9yeB4iqzHVjrgs55ew&oh=00_AfcrsklPXKK8rTGtxl5XX8fRKiERs7_YjAn4b4cxrOQLaQ&oe=68F4F14E",
+                "story_image_url": null,
+                "ad_id": "120233374177980171",
+                "ad_name": "Goatgaming-C-Astrid Divierte (07/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120233374177970171",
+                  "adset_name": "Goatgaming-C-Astrid Divierte (07/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-07T21:30:19-0300",
+                  "gasto": 55.71,
+                  "resultados": 34,
+                  "costoPorResultado": 1.64
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Jose",
+      "cuentas": [
+        {
+          "id": "act_621392147154208",
+          "saldos": {
+            "spend_cap": "4185468",
+            "amount_spent": "4100673",
+            "balance": "124841",
+            "id": "act_621392147154208"
+          },
+          "campanias": []
+        }
+      ]
+    },
+    {
+      "nombre": "Kasandra",
+      "cuentas": [
+        {
+          "id": "act_1142903223895392",
+          "saldos": {
+            "spend_cap": "5877390",
+            "amount_spent": "5771264",
+            "balance": "223355",
+            "id": "act_1142903223895392"
+          },
+          "campanias": [
+            {
+              "id": "120238775800430155",
+              "nombre": "Monaco-M-Criscris Divierte (14/10)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 9,
+                "spend": 17.67,
+                "costoPorMensaje": 1.9633333333333336
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-bos5-1.xx.fbcdn.net/emg1/v/t13/6758023968903368218?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQKrWXSxWglqZ73-zU86Yn1-_3eZY1_FnxI-1ARsgTXWeJofcI6BeVPkLPseC3Ux26j4Eqan-0CC_4fn4l4YGbKw87CaMVK0qUMMKhg57Q4cGV-1PlKxfwSbJXuNKghVeQoffwu2iG_k5ySOTtuinMjf&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=rX1R4fLNI0w5xvFccyWFHQ&_nc_oc=AdnnqraB2iKKrUNfzZCIvsqBvNfTMVxI84UVQqyt0B2juE2P8DUQsVske-T83UVQKeM&ccb=13-1&oh=06_Q3-4AfkLwNt1IZ_sJD2xVHmBnFoBKy2HNO9tpdBj0OgQhLxJ&oe=68F0FCB0&_nc_sid=58080a",
+                "image_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t45.1600-4/565413324_784823384467338_6232818506532253115_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=890911&_nc_ohc=9m70oEiTHGEQ7kNvwHElsMq&_nc_oc=AdmIyLPAo8qresvbCv-veMlmINNWpAZtF9MtyYuBZem7wiMiAxqT0ILUQCH7FaHGh5Y&_nc_zt=1&_nc_ht=scontent-bos5-1.xx&edm=ANIILHsEAAAA&_nc_gid=rX1R4fLNI0w5xvFccyWFHQ&oh=00_Aff_AZI65VYjsYWE1dp2HVHSslgMqvLF9kZUgbuOhXCa8A&oe=68F4CD67",
+                "story_image_url": null,
+                "ad_id": "120238775800760155",
+                "ad_name": "Monaco-M-Criscris Divierte (14/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120238775800750155",
+                  "adset_name": "Monaco-M-Criscris Divierte (14/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-14T19:21:54-0300",
+                  "gasto": 17.67,
+                  "resultados": 9,
+                  "costoPorResultado": 1.96
+                }
+              ]
+            },
+            {
+              "id": "120238726571550155",
+              "nombre": "Thiagop-F-Danna Divierte (14/10)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 30,
+                "spend": 49.5,
+                "costoPorMensaje": 1.65
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/7861584697169823669?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLCWZHPAb4baKcTQrZA5aIYkw_XIKfXBDRkn3esulyZ7jZ7lGYGc7BPw_lTfwyOkm4pCt5p7fZcqDRMBuGifp4OaspoiKayZh1NjFuiDw3pBdvjFx903KaeMDczf3xOrrMqS9otEU-VqxI_Fw2JeBLL&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=BM4zqXZBhBMY2tVL-rHDKg&_nc_oc=AdkEgwpHJzjpKCduje9wAo7h_oBMKXf4hR90_UlJCjI3jlcInvyTU0iOo6UBJjzIbsK0eefLsPfU5E1bWV69xGhW&ccb=13-1&oh=06_Q3-4AaLtn8kzgfa6xKz0L_X3Xx4nmxmHkf1uh0TojuIN_-MF&oe=68F0FEEA&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/565031537_1672947193663667_2328594151793345499_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=890911&_nc_ohc=XrmRXZ3XpUcQ7kNvwE1UQ6n&_nc_oc=AdkeYjBWfsaYFlV_c68SKIJfm0e34Z1I2BpRjrjE5PoH6KTFn3-WIFG5zRnU8p5TzAN3UIfeTOXwOcORzSus68Uf&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=BM4zqXZBhBMY2tVL-rHDKg&oh=00_AfeTj2tSUA-Tj7vIj5G599BpiwZht4ZIk_k0ZI0nQWRdbg&oe=68F4FF96",
+                "story_image_url": null,
+                "ad_id": "120238726571830155",
+                "ad_name": "Thiagop-F-Danna Divierte (14/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120238726571820155",
+                  "adset_name": "Thiagop-F-Danna Divierte (14/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-14T10:13:40-0300",
+                  "gasto": 49.5,
+                  "resultados": 30,
+                  "costoPorResultado": 1.65
+                }
+              ]
+            },
+            {
+              "id": "120238677886530155",
+              "nombre": "Monaco-K-Kasandra Crupier (13/10)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 18,
+                "spend": 24.18,
+                "costoPorMensaje": 1.3433333333333333
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/17062678729212363212?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQL1Rcfr9JgUqMWin0kch27UwPUjnkrYEAXdqT5gl0YmT73PQPzl4iYjWBwnMZkFBWz8em_1ZbIepJrPcJHoGnplieFxtYPDxoifdIiug_2j0VdO9dajPsod1peUxdEMGbW_jvoz_Npf0m8znCU75cCy&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=ywJ81-zRfbJPCwB7oyeSfw&_nc_oc=AdmXCK0hQgCKE6MxamW4w6faJrcKGidhVGHJWTE7xwg3yVtngqvn6hOY3cawZcLdXH0dy1zv4dJeKUaABd6PGQK8&ccb=13-1&oh=06_Q3-4AZRWSigkM3rIMrfTZWAHvs704nWmJVmMN8ktn_3arYfn&oe=68F0FF2C&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/566035913_1129847665790541_4587484125752185850_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=890911&_nc_ohc=76XqS3spjOcQ7kNvwGF6Lki&_nc_oc=AdlVHbeNCpRCURykM5EHGazixX-tj8dPOYgz4gYsMMaRfBwgAG2a5WjJ9L9LSwtOMah83wyHn1gmizjaXlCWN3xC&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=ywJ81-zRfbJPCwB7oyeSfw&oh=00_AfcTcLPVo55ijXnXqsQ0aFG4ohsiaNyb7wMrTBqcVD2-lw&oe=68F4E112",
+                "story_image_url": null,
+                "ad_id": "120238677886570155",
+                "ad_name": "Monaco-K-Kasandra Crupier (13/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120238677886560155",
+                  "adset_name": "Monaco-K-Kasandra Crupier (13/10)",
+                  "status": "PAUSED",
+                  "daily_budget": "7700",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-13T20:56:23-0300",
+                  "gasto": 24.18,
+                  "resultados": 18,
+                  "costoPorResultado": 1.34
+                }
+              ]
+            },
+            {
+              "id": "120238477884070155",
+              "nombre": "Thiagop-B- Maria Cajera (11/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 6,
+                "spend": 10.62,
+                "costoPorMensaje": 1.7699999999999998
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/12305425973956042393?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJQ5jS64txn2UIrr_4D8zVUqb1xRYB3TbqZMyzXeIaRUpp7x1yiiOiqW2Yq4YQtMSzn4eGPu_txLuP4kwV27eUdG0qXai3zSjiy9306ZQoiA5u0GhhMtLW_AODIcsL9duRCH9ceqA6xmsFkAfoyKmB7&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=o-3uPTcZuCqejvMYr8ym1g&_nc_oc=AdkM1cNKhOAUH9EdKv4dSYv-6yDzavi2pZFgNosbKldmeAtYHyF29IAw-WhGz4E48hf5XeH-5vepH53Ej35ro6GM&ccb=13-1&oh=06_Q3-4AWs1slFcpMAdjdR3EyLjv8OKcy1Zf_2HsHLy9AI4FBWL&oe=68F0EDF0&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/564467551_1491647965286289_4132640542751580629_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=890911&_nc_ohc=vP6ybYulH5EQ7kNvwEioC7q&_nc_oc=Adm0HpGHVjjyCrcbinT1fH449K5jYHe7cdPUiS5CUhcUEresu1X8P7jpuBk4_PtaHbZ4xW2ZBSXYJXhgbITz2fQK&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=o-3uPTcZuCqejvMYr8ym1g&oh=00_AfeEFA33T6lVkAqBeIwqL1-DQirgqYnMznUGQco8QRiggw&oe=68F4F4EB",
+                "story_image_url": null,
+                "ad_id": "120238477884210155",
+                "ad_name": "Thiagop-B-Maria Cajera (11/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120238477884080155",
+                  "adset_name": "Thiagop-B- Maria Cajera (11/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7800",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-11T09:06:18-0300",
+                  "gasto": 10.62,
+                  "resultados": 6,
+                  "costoPorResultado": 1.77
+                }
+              ]
+            },
+            {
+              "id": "120238385197700155",
+              "nombre": "Thiagop-E-Vane Entretiene (10/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 146,
+                "spend": 96.42,
+                "costoPorMensaje": 0.6604109589041096
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/12909158571159171328?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLnINsYogkeQzqmQYCRaNfY7odyHwmkwTRLIs67N9Rp_cNuDlokLfx5d3DEzV1mCQI8Gq3xfb3cuITNG56X2DAuY413_D3QpYm7yipr-IB_dxfO6DaT8gCHrbeuJIgvSlT9_7djMIdsrlPe5EZA1fdv&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=Y1u6bKrhxwIKqkzQ1QHAUg&_nc_oc=Adl4d51MCFsatfZi0NiRFHASuRGMUAyoxH0wz60RIEwx2GziMaeM2Jyy4zFeegij1cmnT-au2fs5Dhn9jNgPair7&ccb=13-1&oh=06_Q3-4AUqWodrq7VVXl7HDLYWL50d4EPaE4Lf9WkvQtDaZoM-R&oe=68F10289&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/563594180_1288407846423495_8865504836109009961_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=890911&_nc_ohc=uhO03T-pw-4Q7kNvwEwNWm2&_nc_oc=Adna-vNBMShYBeZHj2U8qOUZmWBcOMVQ7-NktzRrNAoiolwmctDAQ5q1U7cPHezH2D5xuCTSNqLF95rWykbbshHv&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=Y1u6bKrhxwIKqkzQ1QHAUg&oh=00_Afd6IFAEOF5xIloH6RsrqqeliWMS-CLGHLivrSGSrx8hgA&oe=68F4D9D1",
+                "story_image_url": null,
+                "ad_id": "120238385198730155",
+                "ad_name": "Thiagop-E-Vane Entretiene (10/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120238385198280155",
+                  "adset_name": "Thiagop-E-Vane Entretiene (10/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "8500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-10T11:35:57-0300",
+                  "gasto": 96.42,
+                  "resultados": 146,
+                  "costoPorResultado": 0.66
+                }
+              ]
+            },
+            {
+              "id": "120238090004420155",
+              "nombre": "Thiagop-D-Kasi Juega (07/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 1,
+                "spend": 19.88,
+                "costoPorMensaje": 19.88
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/2562000301538187367?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJXKCDJ3WPA50GvUGldspAheCysWCchLJbjRkq8EWxINJ0cdd80hGRl6xZXtIxYbUB9yYOxEjvIQ2aqoHL26nNeZSNmxk5CPT57M6jiqhbuTy5mg4b0po0SYTVEYgP7dwyjWLWGb5oa25uiq-LcdBW7&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=h7tTbpUArXEez9ZXJoVZ0g&_nc_oc=AdmKbnR9POo76i4I5GG6T9ydelOtjxGiC0iuM7aOcjM79TXi3qIMMkLA8rCKQD7xdu1MKYINgM5GgUx6HuEhkSCf&ccb=13-1&oh=06_Q3-4AVb7fMIQAlGTS650-7Y_Cu_jf9E6GHL_0G3mHqgv51M_&oe=68F0DC3E&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/561578865_847225831807360_5067278265843616129_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=890911&_nc_ohc=6Rt5s3ENyXcQ7kNvwHdgdtH&_nc_oc=AdlnPIadfHTT4Aof8J0UdQiQS7cmOoY3IoLMO5n0ugNH2QG6YR5QfFruT-HRHai2EYxCqOmjxl9AkiIo_208L6k2&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=h7tTbpUArXEez9ZXJoVZ0g&oh=00_AfekgWrWoS7rMxI3p2Xgw5sbqOR3meK87qYyMIyOSl3NFQ&oe=68F4F818",
+                "story_image_url": null,
+                "ad_id": "120238319619400155",
+                "ad_name": "Thiagop-D-Kasi Juega (07/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120238319619390155",
+                  "adset_name": "Thiagop-D-Kasi Juega (07/10) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-09T17:15:48-0300",
+                  "gasto": 12.24,
+                  "resultados": 0,
+                  "costoPorResultado": 0
+                },
+                {
+                  "adset_id": "120238090004490155",
+                  "adset_name": "Thiagop-D-Kasi Juega (07/10)",
+                  "status": "PAUSED",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-07T12:41:51-0300",
+                  "gasto": 7.64,
+                  "resultados": 1,
+                  "costoPorResultado": 7.64
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Camilo",
+      "cuentas": [
+        {
+          "id": "act_8742259755871977",
+          "saldos": {
+            "spend_cap": "6695933",
+            "amount_spent": "6580961",
+            "balance": "571920",
+            "id": "act_8742259755871977"
+          },
+          "campanias": [
+            {
+              "id": "120236283684420437",
+              "nombre": "Goatgaming-E-Floricienta Divierte (14/10)",
+              "estado": "PAUSED",
+              "metricas_diarias": {
+                "messages": 5,
+                "spend": 26.53,
+                "costoPorMensaje": 5.306
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/7935715531263405013?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLl4o8a6sxtrrt398p0jVcrb_ZcLxRysPnFHEmmrYJVI3GfO4PSD9rFaOZe6NihlpEUtvs3nzSbUXrs14K10KNAHGwjNUWk3hrGq-cEjHmpDYwZwgOVKSbAFn-PrSOmXVpOhI2rMANDeEQ8QxpAcyDb&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=xGYkIOloAA7F2X4x5W3w8Q&_nc_oc=Adl4GUtX11fIQs_l1L1wcrf5X3TROegyQ3bnDvwh8Pzw9zXvJvla1T-9S7oDPvCEgBOeBaQWnDQDsNEnBL8J3ZQg&ccb=13-1&oh=06_Q3-4AT4mGtcziS1IINg58XvNzmHfinyakSmeGBifbclQmIDZ&oe=68F0EF84&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/564232567_834133342473426_5140452054262805986_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=890911&_nc_ohc=2w47aj7_xX0Q7kNvwFDjFga&_nc_oc=AdnCC9hLRbMsIr1lPjYRh-QG44GFxjWHua9Z3vPEPbT5vezm3sCwldgf7aj0W8oPMQ6S3No2ri5jnGmzgzQh8tDI&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=xGYkIOloAA7F2X4x5W3w8Q&oh=00_Afd3lTQnXOljX64WzkI4sAZjucXD6qZMSlRal9FX6k0jrg&oe=68F4D321",
+                "story_image_url": null,
+                "ad_id": "120236283684400437",
+                "ad_name": "Goatgaming-E-Floricienta Divierte (14/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120236283684410437",
+                  "adset_name": "Goatgaming-E-Floricienta Divierte (14/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-14T10:19:52-0300",
+                  "gasto": 26.53,
+                  "resultados": 5,
+                  "costoPorResultado": 5.31
+                }
+              ]
+            },
+            {
+              "id": "120236246846500437",
+              "nombre": "Goatgaming-D-Camisama Juega (13/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 53,
+                "spend": 79.38,
+                "costoPorMensaje": 1.4977358490566037
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/9226967335528522400?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQI0vqAvR7KErH8-9m0-VL8hAIxZCMXavTAiDO28SsnyTFrcw9SewEt6Yf7IDaztsqtRZposNKgm1LZ9OO6woU2jf-Qy8d_KUgibPo6mmaSU97S_HR6W58m84OvYAQC4ExD0vRAFMkeh6i_noEa8aFDQ&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=vZDKlgmEzcjxbB2pYin04w&_nc_oc=AdmcNtLAb3_nmNZ3tXgPWTPCCHjjfZ98zPMuxlA0wdY2FIHuQTgOYxptwivVvVVMmVVPAO9fqnaT0fWdm7QJwXRY&ccb=13-1&oh=06_Q3-4AdsM7Rlt8LHgIcmvGyv0zBr9_P4otR9SpkdpP7MPCSyZ&oe=68F0F53D&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/564522770_1308210697453602_4035086143631810495_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=890911&_nc_ohc=TEvPdICtjHEQ7kNvwHtwz9c&_nc_oc=Adna00Iteg1B3seD0QaNJ8bo9NPUdsmu6GAHT7XHMw6WL3plM5Nf2G_Kw01SG_EkNyc_LngYCChAwysXV0ua0oqU&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ANIILHsEAAAA&_nc_gid=vZDKlgmEzcjxbB2pYin04w&oh=00_Afcb4FOqta-9g14GvUk75UX3Am9OPWkT1xxNWbEFIHfisA&oe=68F4F817",
+                "story_image_url": null,
+                "ad_id": "120236246846510437",
+                "ad_name": "Goatgaming-D-Camisama Juega (13/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120236246846490437",
+                  "adset_name": "Goatgaming-D-Camisama Juega (13/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-13T20:03:28-0300",
+                  "gasto": 79.38,
+                  "resultados": 53,
+                  "costoPorResultado": 1.5
+                }
+              ]
+            },
+            {
+              "id": "120236164233670437",
+              "nombre": "Goatgaming-A-Camilito Juega (12/10)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 44,
+                "spend": 77.47,
+                "costoPorMensaje": 1.7606818181818182
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/16729568192603719584?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQI2tDPrEbnatyY5D5MVNXr6bpIE3_bqKOHL1qN-2lwBU_NFhH3lj1ENwye0Ez_RYpbzDtKwyoSLFP2qfol0FL-qVuDrwMFmXKD9OuHmCXSrfMLMEl-xXFm3C7w3N9GN06mt2zrJEC8L5TQ5Sdu9SpQk&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=acaE7t5qiWRdoO30Us2bbA&_nc_oc=AdnoUsajm76pG6ijbCOTHt0TdmLn-KzxHKbgSyMm5nmvu5rnZ2mz4GfIoeD6ByXHjOiYx3NkQuSk-i9hpmHGX30W&ccb=13-1&oh=06_Q3-4Af1UJFUx1-X8bByhq3uSXL8Gsi0HP6nnrK6Doh_lU5vV&oe=68F10B85&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/565033340_782203494618811_7495096187986675138_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=890911&_nc_ohc=XVtlSbBb_QAQ7kNvwGtyLkH&_nc_oc=AdmwU_syl8RvhcOIxhO15e9xfHCnGcMeFwYpb0q87sc7qZfi7TdcNBNtnFWNiTsA8ncRZToKFRroYcNTC34AQsaJ&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ANIILHsEAAAA&_nc_gid=acaE7t5qiWRdoO30Us2bbA&oh=00_AfdWR_0HJ3Ih2T-cZyvcfercDYb_JqIUxvQ0j8MLb8TRIw&oe=68F4EA5F",
+                "story_image_url": null,
+                "ad_id": "120236164233660437",
+                "ad_name": "Goatgaming-A-Camilito Juega (12/10)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120236164233680437",
+                  "adset_name": "Goatgaming-A-Camilito Juega (12/10)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-10-12T19:28:10-0300",
+                  "gasto": 77.47,
+                  "resultados": 44,
+                  "costoPorResultado": 1.76
+                }
+              ]
+            },
+            {
+              "id": "120234830699420437",
+              "nombre": "Luck-B-Comunidad de la Suerte (16/09)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 64,
+                "spend": 97.16,
+                "costoPorMensaje": 1.518125
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/16871673618516870929?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQKM2sQpSx8KHz8jou4C-MnPsCBid4LbuA3q0AOujm_bbbaY3rE27YzXJijCoYuo74R2dngXRt-MXTcYpFWnefmnng-SnfUCblI7wx1ATZoKZfitOYjoSihaDIWAh8dieLNp5RFCXxarQcapXuFI-lmK&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=frtTIMq1ZjT2LlzbpeDAhA&_nc_oc=Adk5FI-hQaAJxl_OuxZV0YUszxQgiHAI0uQ-AvTPam2A9njVNOgrKqKtnUzoUt_vSW9TG3iySUpLgYct-02SY6bN&ccb=13-1&oh=06_Q3-4AdE4EMb6Fn2i3Pqz-Zxk07SjaVUVO3Vaartqek9lonpi&oe=68F0E751&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/548864807_1540732833964683_8400274573719583674_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=890911&_nc_ohc=5_QwGkKD2KYQ7kNvwHmi7e8&_nc_oc=AdlrhdVOHcX13mgmc7RhLKpkOL7D5h3nS82Hog__dbYU1cg8_4g4GznhAM99vRsH8EtJWvkeG0R5ibA_c6q6wN5i&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=frtTIMq1ZjT2LlzbpeDAhA&oh=00_Afdd-2koSNVydjmPfFugv5TlQTLLR033Be7D9CmgRcxg0A&oe=68F4E184",
+                "story_image_url": null,
+                "ad_id": "120234877843010437",
+                "ad_name": "Luck: Comunidad de la Suerte (16/09)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120234877843020437",
+                  "adset_name": "Luck: Comunidad de la Suerte (16/09) - Copia",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-09-17T19:35:26-0300",
+                  "gasto": 49.9,
+                  "resultados": 36,
+                  "costoPorResultado": 1.39
+                },
+                {
+                  "adset_id": "120234830699430437",
+                  "adset_name": "Luck: Comunidad de la Suerte (16/09)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-09-16T19:38:45-0300",
+                  "gasto": 47.26,
+                  "resultados": 28,
+                  "costoPorResultado": 1.69
+                }
+              ]
+            },
+            {
+              "id": "120232625000460437",
+              "nombre": "Goatgaming-B-Leidy M Crupier (07/08)",
+              "estado": "ACTIVE",
+              "metricas_diarias": {
+                "messages": 3,
+                "spend": 0,
+                "costoPorMensaje": 0
+              },
+              "imagenes": {
+                "thumbnail_url": "https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/585633533495242582?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLecxmehZuwC1PdagmHPXavQEF4JN4TGnw-lSdPX8HloG-QwrIL_aebe0hTC0F9_nAaI7FictEyo6rgpuWPmLH4WSKjZKlgNidsiFIk0bZCX_IDvekVoF5Nvr_MFpo9Tiudfp-Lx5MXLOzMTmxLPxbw&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=ANIILHsEAAAA&_nc_gid=nC1lRdS98zaWCMqFwJAIRA&_nc_oc=AdlZ26hOCU3iDCasWnuDflanGXLHtXG_webhpGgGsdkw-zAKMdu_c7piR600ZMTO_k5nFhvaq2PgSjECHiWcj0nk&ccb=13-1&oh=06_Q3-4AQv1ERkimSEuSSKgvRWdUAEUvUglltn3N5KEJwEaFRRX&oe=68F0FFB2&_nc_sid=58080a",
+                "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/528230945_1160195592609925_7407248137147884786_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=890911&_nc_ohc=nyoW3bg3H2wQ7kNvwF5p_CU&_nc_oc=Adk23gJ1j1qBa0bNPqaM-96gB7hXH8jh_NbNzsuqHryAW9KtNuM_Ek6pnAJ2HpuYMeC5mms04nP2_EnQkypX9qa5&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ANIILHsEAAAA&_nc_gid=nC1lRdS98zaWCMqFwJAIRA&oh=00_AfeVvkCw_k56ZCPsjsS9J5aXawyEjbNX78SSLBIaM5v3UA&oe=68F4EDE7",
+                "story_image_url": null,
+                "ad_id": "120232703779600437",
+                "ad_name": "Goatgaming-B-Leidy M Crupier (07/08)"
+              },
+              "adsets": [
+                {
+                  "adset_id": "120232703779610437",
+                  "adset_name": "Goatgaming-B-Leidy M Crupier (07/08) - Copia",
+                  "status": "PAUSED",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-08-09T16:50:16-0300",
+                  "gasto": 0,
+                  "resultados": 2,
+                  "costoPorResultado": 0
+                },
+                {
+                  "adset_id": "120232625000470437",
+                  "adset_name": "Goatgaming-B-Leidy M Crupier (07/08)",
+                  "status": "ACTIVE",
+                  "daily_budget": "7500",
+                  "lifetime_budget": "0",
+                  "start_time": "2025-08-07T20:55:57-0300",
+                  "gasto": 0,
+                  "resultados": 1,
+                  "costoPorResultado": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Martina",
+      "cuentas": [
+        {
+          "id": "act_2332083400500532",
+          "saldos": {
+            "spend_cap": "3023692",
+            "amount_spent": "2917736",
+            "balance": "3476",
+            "id": "act_2332083400500532"
+          },
+          "campanias": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# Ignorar node_modules en todos los subdirectorios
+node_modules/
+**/node_modules/
+
+# Ignorar logs y archivos temporales
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar archivos de entorno
+.env
+.env.*
+
+# Ignorar directorios de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de PM2
+ecosystem.*.json
